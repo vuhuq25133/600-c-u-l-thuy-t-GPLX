@@ -590,7 +590,8 @@
 Đáp án: 
 
 ### 72. Biển báo hiệu có dạng hình tròn, viền đỏ, nền trắng, trên nền có hình vẽ hoặc chữ số, chữ viết màu đen là loại biển gì dưới đây?
-***(photo)***
+![image](https://github.com/user-attachments/assets/5e4f87c3-981c-45fa-bb88-5c78b0fcd407)
+
     1. Biển báo nguy hiểm.
     2. Biển báo cấm.
     3. Biển báo hiệu lệnh.
@@ -599,7 +600,8 @@
 Đáp án: 
 
 ### 73. Biển báo hiệu có dạng tam giác đều, viền đỏ, nền màu vàng, trên nền có hình vẽ màu đen là loại biển gì dưới đây?
-***(photo)***
+![image](https://github.com/user-attachments/assets/f90aeb17-872b-4def-999e-ee7e1d125c8b)
+
     1. Biển báo nguy hiểm.
     2. Biển báo cấm.
     3. Biển báo hiệu lệnh.
@@ -608,7 +610,8 @@
 Đáp án: 
 
 ### 74. Biển báo hiệu hình tròn, có nền xanh lam, có hình vẽ màu trắng là loại biển gì dưới đây?
-***(photo)***
+![image](https://github.com/user-attachments/assets/c172ad83-f33a-4bdc-ab30-0f4ae4dc5c6e)
+
     1. Biển báo nguy hiểm.
     2. Biển báo cấm.
     3. Biển báo hiệu lệnh phải thi hành.
@@ -617,7 +620,8 @@
 Đáp án: 
 
 ### 75. Biển báo hiệu hình chữ nhật hoặc hình vuông hoặc hình mũi tên nền xanh lam là loại biển gì dưới đây?
-***(photo)***
+![image](https://github.com/user-attachments/assets/ac04b3bb-5b67-4114-b442-50b2c199f347)
+
     1. Biển báo nguy hiểm.
     2. Biển báo cấm.
     3. Biển báo hiệu lệnh phải thi hành.
@@ -676,7 +680,8 @@
 Đáp án: 
 
 ### 82. Khi gặp hiệu lệnh như dưới đây của cảnh sát giao thông thì người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông?
-***photo***
+![image](https://github.com/user-attachments/assets/dbf9f103-4285-4f01-b24c-499680ee030d)
+
     1. Người tham gia giao thông ở các hướng phải dừng lại.
     2. Người tham gia giao thông ở các hướng được đi theo chiều gậy chỉ của cảnh sát giao thông.
     3. Người tham gia giao thông ở phía trước và phía sau người điều khiển được đi tất cả các hướng; người tham gia giao thông ở phía bên phải và phía bên trái người điều khiển phải dừng lại.
@@ -685,7 +690,8 @@
 Đáp án: 
 
 ### 83. Khi gặp hiệu lệnh như dưới đây của cảnh sát giao thông thì người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông?
-***photo***
+![image](https://github.com/user-attachments/assets/a71a0645-0321-4e49-833c-f1c884273179)
+
     1. Người tham gia giao thông ở các hướng đối diện cảnh sát giao thông được đi, các hướng khác cần phải dừng lại.
     2. Người tham gia giao thông được rẽ phải theo chiều mũi tên màu xanh ở bục cảnh sát giao thông.
     3. Người tham gia giao thông ở các hướng đều phải dừng lại trừ các xe đã ở trong khu vực giao nhau.
