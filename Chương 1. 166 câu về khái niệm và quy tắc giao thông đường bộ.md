@@ -6,7 +6,7 @@
 
 Đáp án: 2
 
-Giải thích: Phần đường xe chạy là phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
+***Giải thích***: Phần đường xe chạy là phần của đường bộ được sử dụng cho phương tiện giao thông qua lại.
 
 ### 2. "Làn đường" là gì?
 
@@ -16,7 +16,7 @@ Giải thích: Phần đường xe chạy là phần của đường bộ đư�
 
 Đáp án: 2
 
-Giải thích: Làn đường có bề rộng đủ cho xe chạy an toàn.
+***Giải thích***: Làn đường có bề rộng đủ cho xe chạy an toàn.
 
 ### 3. Khái niệm "Khổ giới hạn của đường bộ" được hiểu như thế nào là đúng?
 
@@ -26,7 +26,7 @@ Giải thích: Làn đường có bề rộng đủ cho xe chạy an toàn.
 
 Đáp án: 1
 
-Giải thích: Khổ giới hạn đường bộ có giới hạn về chiều cao, chiều rộng.
+***Giải thích***: Khổ giới hạn đường bộ có giới hạn về chiều cao, chiều rộng.
 
 ### 4. Trong các khái niệm dưới đây, "dải phân cách" được hiểu như thế nào là đúng?
 
@@ -36,7 +36,7 @@ Giải thích: Khổ giới hạn đường bộ có giới hạn về chiều c
 
 Đáp án: 3
 
-Giải thích: Dải phân cách phân chia mặt đường thành hai chiều xe chạy riêng biệt.
+***Giải thích***: Dải phân cách phân chia mặt đường thành hai chiều xe chạy riêng biệt.
 
 ### 5. "Dải phân cách" trên đường bộ gồm những loại nào?
 
@@ -46,7 +46,7 @@ Giải thích: Dải phân cách phân chia mặt đường thành hai chiều x
 
 Đáp án: 1
 
-Giải thích: Dải phân cách gồm cố định và di động.
+***Giải thích***: Dải phân cách gồm cố định và di động.
 
 ### 6. Người lái xe được hiểu như thế nào trong các khái niệm dưới đây?
 
@@ -56,7 +56,7 @@ Giải thích: Dải phân cách gồm cố định và di động.
 
 Đáp án: 1
 
-Giải thích: Người lái xe là người điều khiển xe cơ giới.
+***Giải thích***: Người lái xe là người điều khiển xe cơ giới.
 
 ### 7. Đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên là loại đường gì?
 
@@ -67,7 +67,7 @@ Giải thích: Người lái xe là người điều khiển xe cơ giới.
 
 Đáp án: 4
 
-Giải thích: Đường ưu tiên được nhường đường khi qua nơi giao nhau.
+***Giải thích***: Đường ưu tiên được nhường đường khi qua nơi giao nhau.
 
 
 ### 8. Khái niệm "phương tiện giao thông cơ giới đường bộ" được hiểu thế nào là đúng?
@@ -77,7 +77,7 @@ Giải thích: Đường ưu tiên được nhường đường khi qua nơi gia
 
 Đáp án: 2
 
-Giải thích: Phương tiện giao thông cơ giới không có xe máy chuyên dùng.
+***Giải thích***: Phương tiện giao thông cơ giới không có xe máy chuyên dùng.
 
 ### 9. Khái niệm "phương tiện giao thông thô sơ đường bộ" được hiểu thế nào là đúng?
 
@@ -87,7 +87,7 @@ Giải thích: Phương tiện giao thông cơ giới không có xe máy chuyên
 
 Đáp án: 1
 
-Giải thích: Phương tiện giao thông thô sơ không có xe máy chuyên dùng; xe ô tô.
+***Giải thích***: Phương tiện giao thông thô sơ không có xe máy chuyên dùng; xe ô tô.
 
 ### 10. "Phương tiện tham gia giao thông đường bộ" gồm những loại nào?
 
@@ -97,7 +97,7 @@ Giải thích: Phương tiện giao thông thô sơ không có xe máy chuyên d
 
 Đáp án: 3
 
-Giải thích: Phương tiện giao thông gồm tất cả các loại phương tiện.
+***Giải thích***: Phương tiện giao thông gồm tất cả các loại phương tiện.
 
 ### 11. "Người tham gia giao thông đường bộ" gồm những đối tượng nào?
 
@@ -107,7 +107,7 @@ Giải thích: Phương tiện giao thông gồm tất cả các loại phương
 
 Đáp án: 3
 
-Giải thích: Người tham gia giao thông gồm người sử dụng phương tiện và người đi bộ.
+***Giải thích***: Người tham gia giao thông gồm người sử dụng phương tiện và người đi bộ.
 
 ### 12. "Người điều khiển phương tiện tham gia giao thông đường bộ" gồm những đối tượng nào dưới đây?
 
@@ -117,7 +117,7 @@ Giải thích: Người tham gia giao thông gồm người sử dụng phương
 
 Đáp án: 3
 
-Giải thích: Người điều khiển phương tiện gồm cả xe cơ giới và xe máy chuyên dùng.
+***Giải thích***: Người điều khiển phương tiện gồm cả xe cơ giới và xe máy chuyên dùng.
 
 ### 13. Khái niệm "người điều khiển giao thông" được hiểu như thế nào là đúng?
 
@@ -127,7 +127,7 @@ Giải thích: Người điều khiển phương tiện gồm cả xe cơ giới
 
 Đáp án: 2
 
-Giải thích: Người điều khiển giao thông là cảnh sát giao thông.
+***Giải thích***: Người điều khiển giao thông là cảnh sát giao thông.
 
 ### 14. Trong các khái niệm dưới đây, khái niệm "dừng xe" được hiểu như thế nào là đúng?
 
@@ -137,7 +137,7 @@ Giải thích: Người điều khiển giao thông là cảnh sát giao thông.
 
 Đáp án: 2
 
-Giải thích: Dừng xe là đứng yên tạm thời.
+***Giải thích***: Dừng xe là đứng yên tạm thời.
 
 ### 15. Khái niệm "đỗ xe" được hiểu như thế nào là đúng?
 
@@ -146,7 +146,7 @@ Giải thích: Dừng xe là đứng yên tạm thời.
 
 Đáp án: 2
 
-Giải thích: Đỗ xe là đứng yên không giới hạn thời gian.
+***Giải thích***: Đỗ xe là đứng yên không giới hạn thời gian.
 
 ### 16. Khái niệm "đường cao tốc" được hiểu như thế nào là đúng?
 
@@ -157,7 +157,7 @@ Giải thích: Đỗ xe là đứng yên không giới hạn thời gian.
 
 Đáp án: 4
 
-Giải thích: Đường cao tốc gồm tất cả các ý.
+***Giải thích***: Đường cao tốc gồm tất cả các ý.
 
 ### 17. Hành vi nào dưới đây bị nghiêm cấm?
 
@@ -168,7 +168,7 @@ Giải thích: Đường cao tốc gồm tất cả các ý.
 
 Đáp án: 3
 
-Giải thích: Hành vi làm hỏng cọc tiêu bị nghiêm cấm.
+***Giải thích***: Hành vi làm hỏng cọc tiêu bị nghiêm cấm.
 
 ### 18. Hành vi đưa xe cơ giới, xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường vào tham gia giao thông đường bộ có bị nghiêm cấm hay không?
 
@@ -179,7 +179,7 @@ Giải thích: Hành vi làm hỏng cọc tiêu bị nghiêm cấm.
 
 Đáp án: 2
 
-Giải thích: Hành vi đưa xe không đảm bảo an toàn kỹ thuật bị nghiêm cấm.
+***Giải thích***: Hành vi đưa xe không đảm bảo an toàn kỹ thuật bị nghiêm cấm.
 
 ### 19. Cuộc đua xe chỉ được thực hiện khi nào?
 
@@ -189,7 +189,7 @@ Giải thích: Hành vi đưa xe không đảm bảo an toàn kỹ thuật bị 
 
 Đáp án: 3
 
-Giải thích: Cuộc đua xe cần cấp phép.
+***Giải thích***: Cuộc đua xe cần cấp phép.
 
 ### 20. Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?
 
@@ -199,7 +199,7 @@ Giải thích: Cuộc đua xe cần cấp phép.
 
 Đáp án: 1
 
-Giải thích: Có ma túy bị nghiêm cấm.
+***Giải thích***: Có ma túy bị nghiêm cấm.
 
 ### 21. Việc lái xe mô tô, ô tô, máy kéo ngay sau khi uống rượu, bia có được phép hay không?
 
@@ -209,7 +209,7 @@ Giải thích: Có ma túy bị nghiêm cấm.
 
 Đáp án: 1
 
-Giải thích: Uống rượu bia không được lái xe,
+***Giải thích***: Uống rượu bia không được lái xe,
 
 ### 22. Người điều khiển xe mô tô, ô tô, máy kéo trên đường mà trong máu hoặc hơi thở có nồng độ cồn có bị nghiêm cấm không?
 
@@ -219,7 +219,7 @@ Giải thích: Uống rượu bia không được lái xe,
 
 Đáp án: 1
 
-Giải thích: Trong máu hoặc hơi thở có nồng độ cồn bị nghiêm cấm.
+***Giải thích***: Trong máu hoặc hơi thở có nồng độ cồn bị nghiêm cấm.
 
 ### 23. Sử dụng rượu, bia khi lái xe, nếu bị phát hiện thì bị xử lý như thế nào?
 
@@ -229,7 +229,7 @@ Giải thích: Trong máu hoặc hơi thở có nồng độ cồn bị nghiêm 
 
 Đáp án: 2
 
-Giải thích: Sử dụng rượu, bia khi lái xe bị phạt hành chính hoặc xử lý hình sự.
+***Giải thích***: Sử dụng rượu, bia khi lái xe bị phạt hành chính hoặc xử lý hình sự.
 
 ### 24. Theo Luật phòng chống tác hại của rượu, bia đối tượng nào dưới đây bị cấm sử dụng rượu, bia khi tham gia giao thông?
 
@@ -240,7 +240,7 @@ Giải thích: Sử dụng rượu, bia khi lái xe bị phạt hành chính ho�
 
 Đáp án: 1
 
-Giải thích: Người điều khiển bị cấm sử dụng rượu, bia khi tham gia giao thông.
+***Giải thích***: Người điều khiển bị cấm sử dụng rượu, bia khi tham gia giao thông.
 
 ### 25. Hành vi giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện để điều khiển xe tham gia giao thông có được phép hay không?
 
@@ -251,7 +251,7 @@ Giải thích: Người điều khiển bị cấm sử dụng rượu, bia khi 
 
 Đáp án: 2
 
-Giải thích: Không được phép giao xe cho người không đủ điều kiện tham gia giao thông.
+***Giải thích***: Không được phép giao xe cho người không đủ điều kiện tham gia giao thông.
 
 ### 26. Hành vi điều khiển xe cơ giới chạy quá tốc độ quy định, giành đường, vượt ẩu có bị nghiêm cấm hay không?
 
@@ -277,7 +277,7 @@ Giải thích: Không được phép giao xe cho người không đủ điều k
 
 Đáp án: 2
 
-Giải thích: Di chuyển tốc độ thấp hơn đi về phía bên phải.
+***Giải thích***: Di chuyển tốc độ thấp hơn đi về phía bên phải.
 
 ### 29. Trên đường có nhiều làn đường, khi điều khiển phương tiện ở tốc độ chậm bạn phải đi ở làn đường nào?
 
@@ -288,7 +288,7 @@ Giải thích: Di chuyển tốc độ thấp hơn đi về phía bên phải.
 
 Đáp án: 1
 
-Giải thích: Tốc độ chậm đi ở làn bên phải trong cùng.
+***Giải thích***: Tốc độ chậm đi ở làn bên phải trong cùng.
 
 ### 30. Hành vi vượt xe tại các vị trí có tầm nhìn hạn chế, đường vòng, đầu dốc có bị nghiêm cấm hay không?
 
@@ -307,7 +307,7 @@ Giải thích: Tốc độ chậm đi ở làn bên phải trong cùng.
 
 Đáp án: 2
 
-Giải thích: Chỉ sử dụng còi từ 5 giờ sáng đến 22 giờ tối.
+***Giải thích***: Chỉ sử dụng còi từ 5 giờ sáng đến 22 giờ tối.
 
 ### 32. Người lái xe sử dụng đèn như thế nào khi lái xe trong khu đô thị và đông dân cư vào ban đêm?
 
@@ -318,7 +318,7 @@ Giải thích: Chỉ sử dụng còi từ 5 giờ sáng đến 22 giờ tối.
 
 Đáp án: 4
 
-Giải thích: Trong đô thị sử dụng đèn chiếu gần.
+***Giải thích***: Trong đô thị sử dụng đèn chiếu gần.
 
 ### 33. Hành vi lắp đặt, sử dụng còi, đèn không đúng thiết kế của nhà sản xuất đối với từng loại xe cơ giới có được phép hay không?
 
@@ -328,7 +328,7 @@ Giải thích: Trong đô thị sử dụng đèn chiếu gần.
 
 Đáp án: 2
 
-Giải thích: Không được phép lắp đặt còi đèn không đúng thiết kế.
+***Giải thích***: Không được phép lắp đặt còi đèn không đúng thiết kế.
 
 ### 34. Trong trường hợp đặc biệt, để được lắp đặt, sử dụng còi, đèn không đúng với thiết kế của nhà sản xuất đối với từng loại xe cơ giới bạn phải đảm bảo yêu cầu nào dưới đây?
 
@@ -338,7 +338,7 @@ Giải thích: Không được phép lắp đặt còi đèn không đúng thi�
 
 Đáp án: 2
 
-Giải thích: Lắp đặt còi đèn không đúng thiết kế phải được chấp thuận của cơ quan có thẩm quyền.
+***Giải thích***: Lắp đặt còi đèn không đúng thiết kế phải được chấp thuận của cơ quan có thẩm quyền.
 
 ### 35. Việc sản xuất, mua bán, sử dụng biển số xe cơ giới, xe máy chuyên dùng được quy định như thế nào trong Luật Giao thông đường bộ?
 
@@ -356,7 +356,7 @@ Giải thích: Lắp đặt còi đèn không đúng thiết kế phải đượ
 
 Đáp án: 1
 
-Giải thích: Không được vượt trên cầu hẹp có một làn xe.
+***Giải thích***: Không được vượt trên cầu hẹp có một làn xe.
 
 ### 37. Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, đường cao tốc, đường hẹp, đường dốc, tại nơi đường bộ giao nhau cùng mức với đường sắt có được quay đầu xe hay không?
 
@@ -366,7 +366,7 @@ Giải thích: Không được vượt trên cầu hẹp có một làn xe.
 
 Đáp án: 2
 
-Giải thích: Không được phép quay đầu xe ở phần đường dành cho người đi bộ qua đường.
+***Giải thích***: Không được phép quay đầu xe ở phần đường dành cho người đi bộ qua đường.
 
 ### 38. Bạn đang lái xe, phía trước có một xe cảnh sát giao thông không phát tín hiệu ưu tiên bạn có được phép vượt hay không?
 
@@ -377,7 +377,7 @@ Giải thích: Không được phép quay đầu xe ở phần đường dành c
 
 Đáp án: 4
 
-Giải thích: Được vượt khi xe không phát tín hiệu ưu tiên.
+***Giải thích***: Được vượt khi xe không phát tín hiệu ưu tiên.
 
 ### 39. Bạn đang lái xe, phía trước có một xe cứu thương đang phát tín hiệu ưu tiên bạn có được phép vượt hay không?
 
@@ -388,7 +388,7 @@ Giải thích: Được vượt khi xe không phát tín hiệu ưu tiên.
 
 Đáp án: 1
 
-Giải thích: Không được vượt khi đang phát tín hiệu ưu tiên.
+***Giải thích***: Không được vượt khi đang phát tín hiệu ưu tiên.
 
 ### 40. Người lái xe không được quay đầu xe trong các trường hợp nào dưới đây?
 
@@ -398,7 +398,7 @@ Giải thích: Không được vượt khi đang phát tín hiệu ưu tiên.
 
 Đáp án: 1
 
-Giải thích: Không được phép quay đầu xe ở phần đường dành cho người đi bộ qua đường.
+***Giải thích***: Không được phép quay đầu xe ở phần đường dành cho người đi bộ qua đường.
 
 ### 41. Bạn đang lái xe trong khu dân cư, có đông xe qua lại, nếu muốn quay đầu bạn cần làm gì để tránh ùn tắc và đảm bảo an toàn giao thông?
 
@@ -409,7 +409,7 @@ Giải thích: Không được phép quay đầu xe ở phần đường dành c
 
 Đáp án: 1
 
-Giải thích: Chỉ quay đầu xe ở điểm giao cắt hoặc nơi có biển báo cho phép quay đầu.
+***Giải thích***: Chỉ quay đầu xe ở điểm giao cắt hoặc nơi có biển báo cho phép quay đầu.
 
 ### 42. Người lái xe không được lùi xe ở những khu vực nào dưới đây?
 
@@ -420,7 +420,7 @@ Giải thích: Chỉ quay đầu xe ở điểm giao cắt hoặc nơi có biể
 
 Đáp án: 4
 
-Giải thích: Cấm lùi xe ở khu vực cấm dừng và nơi đường bộ giao nhau.
+***Giải thích***: Cấm lùi xe ở khu vực cấm dừng và nơi đường bộ giao nhau.
 
 ### 43. Người điều khiển phương tiện giao thông trên đường phố có được dừng xe, đỗ xe trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước hay không?
 
@@ -430,7 +430,7 @@ Giải thích: Cấm lùi xe ở khu vực cấm dừng và nơi đường bộ 
 
 Đáp án: 2
 
-Giải thích: Không được dừng, đỗ xe trên miệng cống thoát nước.
+***Giải thích***: Không được dừng, đỗ xe trên miệng cống thoát nước.
 
 ### 44. Khi xe đã kéo 1 xe hoặc xe đã kéo 1 rơ moóc, bạn có được phép kéo thêm xe (kể cả xe thô sơ) hoặc rơ moóc thứ hai hay không?
 
@@ -441,7 +441,7 @@ Giải thích: Không được dừng, đỗ xe trên miệng cống thoát nư�
 
 Đáp án: 4
 
-Giải thích: Xe kéo đã kéo rơ moóc không được kéo thêm xe.
+***Giải thích***: Xe kéo đã kéo rơ moóc không được kéo thêm xe.
 
 ### 45. Người điều khiển xe mô tô hai bánh, ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?
 
@@ -452,7 +452,7 @@ Giải thích: Xe kéo đã kéo rơ moóc không được kéo thêm xe.
 
 Đáp án: 4
 
-Giải thích: Xe mô tô không được kéo xe khác.
+***Giải thích***: Xe mô tô không được kéo xe khác.
 
 ### 46. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe quệt xuống đường khi xe đang chạy có được phép hay không?
 
@@ -480,7 +480,7 @@ Giải thích: Xe mô tô không được kéo xe khác.
 
 Đáp án: 1
 
-Giải thích: Xe mô tô không được mang vác vật cồng kềnh.
+***Giải thích***: Xe mô tô không được mang vác vật cồng kềnh.
 
 ### 49. Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được bám, kéo hoặc đẩy các phương tiện khác không?
 
@@ -491,7 +491,7 @@ Giải thích: Xe mô tô không được mang vác vật cồng kềnh.
 
 Đáp án: 4
 
-Giải thích: Xe mô tô không được kéo xe khác.
+***Giải thích***: Xe mô tô không được kéo xe khác.
 
 ### 50. Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được sử dụng ô khi trời mưa hay không?
 
@@ -535,7 +535,7 @@ Giải thích: Xe mô tô không được kéo xe khác.
 
 Đáp án: 2
 
-Giải thích: Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi): 
+***Giải thích***: Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi): 
 * *16 - Xe dưới 50cm3;*
 * 18 - Hạng A, B1, B2; 
 * 21 - Hạng C, FB; 
@@ -568,7 +568,7 @@ Giải thích: Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi):
 
 Đáp án: 1
 
-Giải thích: Độ tuổi tối đa người lái xe ô tô hạng E: 
+***Giải thích***: Độ tuổi tối đa người lái xe ô tô hạng E: 
 * Nam: 55 tuổi 
 * Nữ:  50 tuổi.
 
@@ -598,7 +598,7 @@ Giải thích: Độ tuổi tối đa người lái xe ô tô hạng E:
 
 Đáp án: 2
 
-Giải thích: 
+***Giải thích***: 
 * A1 - mô tô dưới 175 cm3 và xe 3 bánh của người khuyết tật; 
 * A2 - mô tô 175 cm3 trở lên; 
 * A3 - xe 3 bánh;
@@ -635,7 +635,7 @@ Giải thích:
 
 Đáp án: 1
 
-Giải thích: 
+***Giải thích***: 
 * B1, B2 - đến 9 chỗ ngồi, xe tải dưới 3.500 kg; 
 * B1 - không hành nghề lái xe.
 
@@ -663,7 +663,7 @@ Giải thích:
 
 Đáp án: 3
 
-Giải thích: C đến 9 chỗ ngồi, xe trên 3.500 kg.
+***Giải thích***: C đến 9 chỗ ngồi, xe trên 3.500 kg.
 
 ### 68. Người có Giấy phép lái xe hạng D được điều khiển loại xe nào dưới đây?
 
@@ -673,7 +673,7 @@ Giải thích: C đến 9 chỗ ngồi, xe trên 3.500 kg.
 
 Đáp án: 1
 
-Giải thích: D chở đến 30 người.
+***Giải thích***: D chở đến 30 người.
 
 ### 69. Người có Giấy phép lái xe hạng E được điều khiển loại xe nào dưới đây?
 
@@ -683,7 +683,7 @@ Giải thích: D chở đến 30 người.
 
 Đáp án: 2
 
-Giải thích: E chở trên 30 người.
+***Giải thích***: E chở trên 30 người.
 
 ### 70. Người có Giấy phép lái xe hạng FC được điều khiển loại xe nào dưới đây?
 
@@ -694,7 +694,7 @@ Giải thích: E chở trên 30 người.
 
 Đáp án: 2
 
-Giải thích: 
+***Giải thích***: 
 * FC: C + kéo (ô tô đầu kéo, kéo sơ mi rơ moóc); 
 * FE: E + kéo (ô tô chở khách nối toa)
 
@@ -755,7 +755,7 @@ Giải thích:
 
 Đáp án: 4
 
-Giải thích: Khi tập lái cần có giáo viên và phù hiệu.
+***Giải thích***: Khi tập lái cần có giáo viên và phù hiệu.
 
 ### 77. Khi dạy thực hành lái xe, giáo viên phải mang theo các giấy tờ gì dưới đây?
 
@@ -765,7 +765,7 @@ Giải thích: Khi tập lái cần có giáo viên và phù hiệu.
 
 Đáp án: 1
 
-Giải thích: Giáo viên phải mang giấy phép xe tập lái.
+***Giải thích***: Giáo viên phải mang giấy phép xe tập lái.
 
 ### 78. Xe ô tô tập lái phải đảm bảo các điều kiện gì dưới đây?
 
@@ -800,7 +800,7 @@ Giải thích: Giáo viên phải mang giấy phép xe tập lái.
 
 Đáp án: 3
 
-Giải thích: 05 năm không cấp lại nếu sử dụng bằng lái đã khai báo mất.
+***Giải thích***: 05 năm không cấp lại nếu sử dụng bằng lái đã khai báo mất.
 
 ### 82. Khi gặp hiệu lệnh như dưới đây của cảnh sát giao thông thì người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông?
 ![image](https://github.com/user-attachments/assets/dbf9f103-4285-4f01-b24c-499680ee030d)
@@ -812,7 +812,7 @@ Giải thích: 05 năm không cấp lại nếu sử dụng bằng lái đã kha
 
 Đáp án: 4
 
-Giải thích: Người điều khiển giao thông tay giang ngang thì trước mặt và sau lưng dừng lại.
+***Giải thích***: Người điều khiển giao thông tay giang ngang thì trước mặt và sau lưng dừng lại.
 
 ### 83. Khi gặp hiệu lệnh như dưới đây của cảnh sát giao thông thì người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông?
 ![image](https://github.com/user-attachments/assets/a71a0645-0321-4e49-833c-f1c884273179)
@@ -824,7 +824,7 @@ Giải thích: Người điều khiển giao thông tay giang ngang thì trướ
 
 Đáp án: 3
 
-Giải thích: Người điều khiển giao thông giơ tay thẳng đứng thì ở các hướng phải dừng lại.
+***Giải thích***: Người điều khiển giao thông giơ tay thẳng đứng thì ở các hướng phải dừng lại.
 
 ### 84. Trên đường giao thông, khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn hoặc biển báo hiệu thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào?
 
@@ -835,7 +835,7 @@ Giải thích: Người điều khiển giao thông giơ tay thẳng đứng th�
 
 Đáp án: 1
 
-Giải thích: Ưu tiên hiệu lệnh của người điều khiển giao thông.
+***Giải thích***: Ưu tiên hiệu lệnh của người điều khiển giao thông.
 
 ### 85. Tại nơi có biển báo hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông phải chấp hành hiệu lệnh của báo hiệu nào?
 
@@ -852,7 +852,7 @@ Giải thích: Ưu tiên hiệu lệnh của người điều khiển giao thôn
 
 Đáp án: 2
 
-Giải thích: Chuyển làn đường phải có tín hiệu báo trước.
+***Giải thích***: Chuyển làn đường phải có tín hiệu báo trước.
 
 ### 87. Trên đường một chiều có vạch kẻ phân làn đường, xe thô sơ và xe cơ giới phải đi như thế nào là đúng quy tắc giao thông?
 
@@ -862,7 +862,7 @@ Giải thích: Chuyển làn đường phải có tín hiệu báo trước.
 
 Đáp án: 2
 
-Giải thích: Xe thô sơ phải đi làn đường nên phải trong cùng.
+***Giải thích***: Xe thô sơ phải đi làn đường nên phải trong cùng.
 
 ### 88. Bạn đang lái xe trong khu vực đô thị từ 22 giờ đến 5 giờ sáng hôm sau và cần vượt một xe khác, bạn cần báo hiệu như thế nào để đảm bảo an toàn giao thông?
 
@@ -873,7 +873,7 @@ Giải thích: Xe thô sơ phải đi làn đường nên phải trong cùng.
 
 Đáp án: 4
 
-Giải thích: Chỉ sử dụng còi từ 5 giờ sáng đến 22 giờ tối. Nên phải sử dụng đèn để báo hiệu.
+***Giải thích***: Chỉ sử dụng còi từ 5 giờ sáng đến 22 giờ tối. Nên phải sử dụng đèn để báo hiệu.
 
 ### 89. Khi điều khiển xe chạy trên đường biết có xe sau xin vượt nếu đủ điều kiện an toàn người lái xe phải làm gì?
 
@@ -891,7 +891,7 @@ Giải thích: Chỉ sử dụng còi từ 5 giờ sáng đến 22 giờ tối. 
 
 Đáp án: 1
 
-Giải thích: Quay xe ở nơi giao nhau và có biển báo cho quay xe.
+***Giải thích***: Quay xe ở nơi giao nhau và có biển báo cho quay xe.
 
 ### 91. Người lái xe phải làm gì khi quay đầu xe trên cầu, đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt?
 
@@ -901,7 +901,7 @@ Giải thích: Quay xe ở nơi giao nhau và có biển báo cho quay xe.
 
 Đáp án: 1
 
-Giải thích: Không được quay xe trên cầu.
+***Giải thích***: Không được quay xe trên cầu.
 
 ### 92. Khi muốn chuyển hướng, người lái xe phải thực hiện như thế nào để đảm bảo an toàn giao thông?
 
@@ -911,7 +911,7 @@ Giải thích: Không được quay xe trên cầu.
 
 Đáp án: 2
 
-Giải thích: Chuyển hướng phải giảm tốc độ.
+***Giải thích***: Chuyển hướng phải giảm tốc độ.
 
 ### 93. Khi lùi xe, người lái xe phải làm gì để bảo đảm an toàn?
 
@@ -921,7 +921,7 @@ Giải thích: Chuyển hướng phải giảm tốc độ.
 
 Đáp án: 3
 
-Giải thích: Lùi xe phải quan sát phía sau.
+***Giải thích***: Lùi xe phải quan sát phía sau.
 
 ### 94. Khi bạn nhìn thấy đèn phía sau xe ô tô có màu sáng trắng, ô tô đó đang trong trạng thái như thế nào?
 
@@ -932,7 +932,7 @@ Giải thích: Lùi xe phải quan sát phía sau.
 
 Đáp án: 3
 
-Giải thích: Đèn sau màu sáng trắng là đang lùi xe.
+***Giải thích***: Đèn sau màu sáng trắng là đang lùi xe.
 
 ### 95. Khi tránh xe đi ngược chiều, các xe phải nhường đường như thế nào là đúng quy tắc giao thông?
 
@@ -943,7 +943,7 @@ Giải thích: Đèn sau màu sáng trắng là đang lùi xe.
 
 Đáp án: 4
 
-Giải thích: Tránh xe ngược chiều thì nhường đường qua đường hẹp và nhường xe lên dốc.
+***Giải thích***: Tránh xe ngược chiều thì nhường đường qua đường hẹp và nhường xe lên dốc.
 
 ### 96. Bạn đang lái xe trên đường hẹp, xuống dốc và gặp một xe đang đi lên dốc, bạn cần làm gì?
 
@@ -953,7 +953,7 @@ Giải thích: Tránh xe ngược chiều thì nhường đường qua đường
 
 Đáp án: 2
 
-Giải thích: Nhường đường cho xe lên dốc.
+***Giải thích***: Nhường đường cho xe lên dốc.
 
 ### 97. Tại nơi đường giao nhau, người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào là đúng quy tắc giao thông?
 
@@ -963,7 +963,7 @@ Giải thích: Nhường đường cho xe lên dốc.
 
 Đáp án: 3
 
-Giải thích: Đường không ưu tiên nhường đường cho xe trên đường ưu tiên.
+***Giải thích***: Đường không ưu tiên nhường đường cho xe trên đường ưu tiên.
 
 ### 98. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông?
 
@@ -973,7 +973,7 @@ Giải thích: Đường không ưu tiên nhường đường cho xe trên đư�
 
 Đáp án: 1
 
-Giải thích: Giao nhau không có vòng xuyến thì nhường xe đến từ bên phải.
+***Giải thích***: Giao nhau không có vòng xuyến thì nhường xe đến từ bên phải.
 
 ### 99. Trên đoạn đường bộ giao nhau cùng mức với đường sắt, cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước?
 
@@ -998,7 +998,7 @@ Giải thích: Giao nhau không có vòng xuyến thì nhường xe đến từ 
 
 Đáp án: 1
 
-Giải thích: Vào cao tốc phải nhường đường cho xe đang chạy trên đường.
+***Giải thích***: Vào cao tốc phải nhường đường cho xe đang chạy trên đường.
 
 ### 102. Trên đường cao tốc, người lái xe phải dừng xe, đỗ xe như thế nào để đảm bảo an toàn giao thông?
 
@@ -1008,7 +1008,7 @@ Giải thích: Vào cao tốc phải nhường đường cho xe đang chạy tr�
 
 Đáp án: 2
 
-Giải thích: Trên cao tốc chỉ dừng đỗ ở nơi quy định.
+***Giải thích***: Trên cao tốc chỉ dừng đỗ ở nơi quy định.
 
 ### 103. Những trường hợp nào ghi ở dưới đây không được đi vào đường cao tốc trừ người, phương tiện, thiết bị phục vụ cho việc quản lý, bảo trì đường cao tốc?
 
@@ -1018,7 +1018,7 @@ Giải thích: Trên cao tốc chỉ dừng đỗ ở nơi quy định.
 
 Đáp án: 1
 
-Giải thích: Xe thiết kế nhỏ hơn 70km/h không được vào cao tốc.
+***Giải thích***: Xe thiết kế nhỏ hơn 70km/h không được vào cao tốc.
 
 ### 104. Người điều khiển phương tiện tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào dưới đây?
 
@@ -1028,7 +1028,7 @@ Giải thích: Xe thiết kế nhỏ hơn 70km/h không được vào cao tốc.
 
 Đáp án: 1
 
-Giải thích: Trong hầm chỉ được dừng xe, đỗ xe ở nơi quy định.
+***Giải thích***: Trong hầm chỉ được dừng xe, đỗ xe ở nơi quy định.
 
 ### 105. Xe quá tải trọng, quá khổ giới hạn tham gia giao thông cần tuân thủ quy định nào ghi ở dưới đây?
 
@@ -1039,7 +1039,7 @@ Giải thích: Trong hầm chỉ được dừng xe, đỗ xe ở nơi quy đị
 
 Đáp án: 1
 
-Giải thích: Xe quá tải trọng phải do cơ quan quản lý đường bộ cấp phép.
+***Giải thích***: Xe quá tải trọng phải do cơ quan quản lý đường bộ cấp phép.
 
 ### 106. Việc nối giữa xe kéo với xe được kéo trong trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì phải dùng cách nào?
 
@@ -1049,7 +1049,7 @@ Giải thích: Xe quá tải trọng phải do cơ quan quản lý đường b�
 
 Đáp án: 3
 
-Giải thích: Kéo xe không hệ thống hãm phải dùng thanh nối cứng.
+***Giải thích***: Kéo xe không hệ thống hãm phải dùng thanh nối cứng.
 
 ### 107. Xe kéo rơ moóc khi tham gia giao thông phải tuân thủ điều kiện nào ghi ở dưới đây?
 
@@ -1059,7 +1059,7 @@ Giải thích: Kéo xe không hệ thống hãm phải dùng thanh nối cứng.
 
 Đáp án: 1
 
-Giải thích: Trọng lượng xe kéo rơ moóc phải lớn hơn rơ moóc.
+***Giải thích***: Trọng lượng xe kéo rơ moóc phải lớn hơn rơ moóc.
 
 ### 108. Xe ô tô kéo xe khác thế nào là đúng quy tắc giao thông?
 
@@ -1069,7 +1069,7 @@ Giải thích: Trọng lượng xe kéo rơ moóc phải lớn hơn rơ moóc.
 
 Đáp án: 1
 
-Giải thích: Kéo xe không hệ thống hãm phải dùng thanh nối cứng.
+***Giải thích***: Kéo xe không hệ thống hãm phải dùng thanh nối cứng.
 
 ### 109. Người ngồi trên xe mô tô 2 bánh, xe gắn máy phải đội mũ bảo hiểm có cài quai đúng quy cách khi nào?
 
@@ -1095,7 +1095,7 @@ Giải thích: Kéo xe không hệ thống hãm phải dùng thanh nối cứng.
 
 Đáp án: 1
 
-Giải thích: Xe mô tô hai bánh không được đi vào phần đường dành cho người đi bộ.
+***Giải thích***: Xe mô tô hai bánh không được đi vào phần đường dành cho người đi bộ.
 
 ### 112. Người điều khiển xe mô tô hai bánh, xe gắn máy có được đi xe dàn hàng ngang; đi xe vào phần đường dành cho người đi bộ và phương tiện khác; sử dụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính) hay không?
 
@@ -1130,7 +1130,7 @@ Giải thích: Xe mô tô hai bánh không được đi vào phần đường d�
 
 Đáp án: 1
 
-Giải thích: Người lái xe phải nhường đường cho xe ưu tiên.
+***Giải thích***: Người lái xe phải nhường đường cho xe ưu tiên.
 
 ### 116. Khi điều khiển xe cơ giới, người lái xe phải bật đèn tín hiệu báo rẽ trong trường hợp nào dưới đây?
 
@@ -1140,7 +1140,7 @@ Giải thích: Người lái xe phải nhường đường cho xe ưu tiên.
 
 Đáp án: 2
 
-Giải thích: Phải bật đèn tín hiệu rẽ trước khi thay đổi làn đường.
+***Giải thích***: Phải bật đèn tín hiệu rẽ trước khi thay đổi làn đường.
 
 ### 117. Trên đoạn đường hai chiều không có giải phân cách giữa, người lái xe không được vượt xe khác trong các trường hợp nào dưới đây?
 
@@ -1151,7 +1151,7 @@ Giải thích: Phải bật đèn tín hiệu rẽ trước khi thay đổi làn
 
 Đáp án: 4
 
-Giải thích: Không được vượt khi xe bị vượt bất ngờ tăng tốc hoặc phát hiện có xe đi ngược chiều.
+***Giải thích***: Không được vượt khi xe bị vượt bất ngờ tăng tốc hoặc phát hiện có xe đi ngược chiều.
 
 ### 118. Khi lái xe trên đường vắng mà cảm thấy buồn ngủ, người lái xe nên chọn cách xử lý như thế nào cho phù hợp?
 
@@ -1169,7 +1169,7 @@ Giải thích: Không được vượt khi xe bị vượt bất ngờ tăng t�
 
 Đáp án: 3
 
-Giải thích: Trên cao tốc vượt quá lối rẽ thì chạy đến lối ra tiếp theo.
+***Giải thích***: Trên cao tốc vượt quá lối rẽ thì chạy đến lối ra tiếp theo.
 
 ### 120. Người lái xe mô tô xử lý như thế nào khi cho xe mô tô phía sau vượt?
 
@@ -1179,7 +1179,7 @@ Giải thích: Trên cao tốc vượt quá lối rẽ thì chạy đến lối 
 
 Đáp án: 1
 
-Giải thích: Xử lý cho xe sau vượt thì giảm tốc độ và đi về bên phải.
+***Giải thích***: Xử lý cho xe sau vượt thì giảm tốc độ và đi về bên phải.
 
 ### 121. Khi xe ô tô bị hỏng tại vị trí giao nhau giữa đường bộ và đường sắt, người lái xe xử lý như thế nào?
 
@@ -1189,7 +1189,7 @@ Giải thích: Xử lý cho xe sau vượt thì giảm tốc độ và đi về 
 
 Đáp án: 1
 
-Giải thích: Xe hỏng tại vị trí giao nhau đường sắt thì đặt báo hiệu trên đường sắt tối thiểu 500m về hai phía.
+***Giải thích***: Xe hỏng tại vị trí giao nhau đường sắt thì đặt báo hiệu trên đường sắt tối thiểu 500m về hai phía.
 
 ### 122. ong các trường hợp dưới đây, để đảm bảo an toàn khi tham gia giao thông, người lái xe mô tô cần thực hiện như thế nào?
 
@@ -1207,7 +1207,7 @@ Giải thích: Xe hỏng tại vị trí giao nhau đường sắt thì đặt b
 
 Đáp án: 2
 
-Giải thích: Đường bộ trong khu vực đông dân cư được xác định bằng biển báo.
+***Giải thích***: Đường bộ trong khu vực đông dân cư được xác định bằng biển báo.
 
 ### 124. Tốc độ tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự trên đường bộ (trừ đường cao tốc) không được vượt qua bao nhiêu km/h?
 
@@ -1217,7 +1217,7 @@ Giải thích: Đường bộ trong khu vực đông dân cư được xác đ�
 
 Đáp án: 2
 
-Giải thích: Xe gắn máy tối đa 40km/h.
+***Giải thích***: Xe gắn máy tối đa 40km/h.
 
 ### 125. Trên đường bộ (trừ đường cao tốc) trong khu vực đông dân cư, đường đôi có dải phân cách giữa, xe mô tô hai bánh, ô tô chở người đến 30 chỗ tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu?
 
@@ -1227,7 +1227,7 @@ Giải thích: Xe gắn máy tối đa 40km/h.
 
 Đáp án: 1
 
-Giải thích: Có giải phân cách giữa thì được xem là đường đôi. Trong khu vực đông dân cư, đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên: 60km/h.
+***Giải thích***: Có giải phân cách giữa thì được xem là đường đôi. Trong khu vực đông dân cư, đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên: 60km/h.
 
 ### 126. Trên đường bộ (trừ đường cao tốc) trong khu vực đông dân cư, đường hai chiều không có dải phân cách giữa, xe mô tô hai bánh, ô tô chở người đến 30 chỗ tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu?
 
@@ -1237,7 +1237,7 @@ Giải thích: Có giải phân cách giữa thì được xem là đường đ�
 
 Đáp án: 2
 
-Giải thích: Trong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: 50km/h.
+***Giải thích***: Trong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: 50km/h.
 
 ### 127. Trên đường bộ (trừ đường cao tốc) trong khu vực đông dân cư, đường hai chiều hoặc đường một chiều có một làn xe cơ giới, loại xe nào dưới đây được tham gia giao thông với tốc độ tối đa cho phép là 50 km/h?
 
@@ -1247,7 +1247,7 @@ Giải thích: Trong khu vực đông dân cư, đường hai chiều; đường
 
 Đáp án: 1
 
-Giải thích: Xe cơ giới không bao gồm xe gắn máy. Trong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: 50km/h.
+***Giải thích***: Xe cơ giới không bao gồm xe gắn máy. Trong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: 50km/h.
 
 ### 128. Trên đường bộ (trừ đường cao tốc) trong khu vực đông dân cư, đường đôi hoặc đường một chiều có từ hai làn cơ giới trở lên, loại xe nào dưới đây được tham gia giao thông với tốc độ tối đa cho phép là 60 km/h?
 
@@ -1257,7 +1257,7 @@ Giải thích: Xe cơ giới không bao gồm xe gắn máy. Trong khu vực đ�
 
 Đáp án: 1
 
-Giải thích: Xe cơ giới không bao gồm xe gắn máy.
+***Giải thích***: Xe cơ giới không bao gồm xe gắn máy.
 Trong khu vực đông dân cư, đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên: 60km/h.
 
 ### 129. Trên đường bộ (trừ đường cao tốc) ngoài khu vực đông dân cư, đường đôi có dải phân cách giữa, loại xe nào dưới đây được tham gia giao thông với tốc độ tối đa cho phép là 90 km/h?
@@ -1268,7 +1268,7 @@ Trong khu vực đông dân cư, đường đôi; đường một chiều có t�
 
 Đáp án: 2
 
-Giải thích: Đường có giải phân cách được xem là đường đôi. Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên: 
+***Giải thích***: Đường có giải phân cách được xem là đường đôi. Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên: 
 * ô tô kéo rơ moóc 60km/h; 
 * mô tô, xe buýt, ôtô đầu kéo: 70km/h; 
 * xe trên 30 chỗ, xe tải trên 3,5 tấn: 80km/h; 
@@ -1308,7 +1308,7 @@ Giải thích: Đường có giải phân cách được xem là đường đôi
 
 Đáp án: 3
 
-Giải thích: Ngoài khu vực dân cư; đường hai chiều; đường một chiều có một làn xe: (lấy thông số đường đôi trừ đi 10km/h)
+***Giải thích***: Ngoài khu vực dân cư; đường hai chiều; đường một chiều có một làn xe: (lấy thông số đường đôi trừ đi 10km/h)
 * ô tô kéo rơ moóc 50km/h; 
 * mô tô, xe buýt, ôtô đầu kéo: 60km/h; 
 * xe trên 30 chỗ, xe tải trên 3,5 tấn: 70km/h; 
@@ -1346,7 +1346,7 @@ Giải thích: Ngoài khu vực dân cư; đường hai chiều; đường một
 
 Đáp án: 2
 
-Giải thích: Khoảng cách an toàn: 
+***Giải thích***: Khoảng cách an toàn: 
 * 60        km/h: 35m; 
 * 60 - 80   km/h: 55m; 
 * 80 - 100  km/h: 70m; 
@@ -1376,7 +1376,7 @@ Giải thích: Khoảng cách an toàn:
 
 Đáp án: 3
 
-Giải thích: Khoảng cách an toàn dưới 60km/h: Chủ động và đảm bảo khoảng cách.
+***Giải thích***: Khoảng cách an toàn dưới 60km/h: Chủ động và đảm bảo khoảng cách.
 
 ### 141. Người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức cần thiết, chú ý quan sát và chuẩn bị sẵn sàng những tình huống có thể xảy ra để phòng ngừa tai nạn trong các trường hợp nào dưới đây?
 
@@ -1387,7 +1387,7 @@ Giải thích: Khoảng cách an toàn dưới 60km/h: Chủ động và đảm 
 
 Đáp án: 1
 
-Giải thích: Giảm tốc độ, chú ý quan sát khi gặp biển báo nguy hiểm.
+***Giải thích***: Giảm tốc độ, chú ý quan sát khi gặp biển báo nguy hiểm.
 
 ### 142. Người lái xe phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy trong các trường hợp nào dưới đây?
 
@@ -1398,7 +1398,7 @@ Giải thích: Giảm tốc độ, chú ý quan sát khi gặp biển báo nguy 
 
 Đáp án: 3
 
-Giải thích: Giảm tốc độ, đi sát về bên phải khi xe sau xin vượt.
+***Giải thích***: Giảm tốc độ, đi sát về bên phải khi xe sau xin vượt.
 
 ### 143. Tại các điểm giao cắt giữa đường bộ và đường sắt, quyền ưu tiên thuộc về loại phương tiện nào dưới đây?
 
@@ -1409,7 +1409,7 @@ Giải thích: Giảm tốc độ, đi sát về bên phải khi xe sau xin vư�
 
 Đáp án: 3
 
-Giải thích: Điểm giao cắt đường sắt thì ưu tiên đường sắt.
+***Giải thích***: Điểm giao cắt đường sắt thì ưu tiên đường sắt.
 
 ### 144. Các phương tiện tham gia giao thông đường bộ (kể cả những xe có quyền ưu tiên) đều phải dừng lại bên phải đường của mình và trước vạch "dừng xe" tại các điểm giao cắt giữa đường bộ và đường sắt khi có báo hiệu dừng nào dưới đây?
 
@@ -1453,7 +1453,7 @@ Giải thích: Điểm giao cắt đường sắt thì ưu tiên đường sắt
 
 Đáp án: 2
 
-Giải thích: Nhường đường cho xe ưu tiên có tín hiệu còi, cờ, đèn.
+***Giải thích***: Nhường đường cho xe ưu tiên có tín hiệu còi, cờ, đèn.
 
 ### 149. Tại nơi đường giao nhau, người lái xe đang đi trên đường không ưu tiên phải xử lý như thế nào là đúng quy tắc giao thông?
 
@@ -1463,7 +1463,7 @@ Giải thích: Nhường đường cho xe ưu tiên có tín hiệu còi, cờ, 
 
 Đáp án: 3
 
-Giải thích: Xe trên đường không ưu tiên nhường đường cho xe trên đường ưu tiên.
+***Giải thích***: Xe trên đường không ưu tiên nhường đường cho xe trên đường ưu tiên.
 
 ### 150. Khi xe ô tô, mô tô đến gần vị trí giao nhau giữa đường bộ và đường sắt không có rào chắn, khi đèn tín hiệu màu đỏ đã bật sáng hoặc khi có tiếng chuông báo hiệu, người lái xe xử lý như thế nào?
 
@@ -1474,7 +1474,7 @@ Giải thích: Xe trên đường không ưu tiên nhường đường cho xe tr
 
 Đáp án: 4
 
-Giải thích: Đứng cách ray đường sắt 5m.
+***Giải thích***: Đứng cách ray đường sắt 5m.
 
 ### 151. Khi điều khiển xe trên đường vòng, khuất tầm nhìn người lái xe cần phải làm gì để đảm bảo an toàn?
 
@@ -1484,7 +1484,7 @@ Giải thích: Đứng cách ray đường sắt 5m.
 
 Đáp án: 1
 
-Giải thích: Không vượt xe khác trên đường vòng, khuất tầm nhìn.
+***Giải thích***: Không vượt xe khác trên đường vòng, khuất tầm nhìn.
 
 ### 152. Người lái xe phải xử lý như thế nào khi quan sát phía trước thấy người đi bộ đang sang đường tại nơi có vạch đường dành cho người đi bộ để đảm bảo an toàn?
 
@@ -1494,7 +1494,7 @@ Giải thích: Không vượt xe khác trên đường vòng, khuất tầm nhì
 
 Đáp án: 2
 
-Giải thích: Nơi có vạch kẻ đường dành cho người đi bộ thì nhường đường.
+***Giải thích***: Nơi có vạch kẻ đường dành cho người đi bộ thì nhường đường.
 
 ### 153. Khi muốn lùi xe nhưng không quan sát được phía sau, cần làm gì để đảm bảo an toàn?
 
@@ -1505,7 +1505,7 @@ Giải thích: Nơi có vạch kẻ đường dành cho người đi bộ thì n
 
 Đáp án: 3
 
-Giải thích: Không quan sát được phía sau thì không lùi xe.
+***Giải thích***: Không quan sát được phía sau thì không lùi xe.
 
 ### 154. Người điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ để có thể dừng lại một cách an toàn trong các trường hợp nào dưới đây?
 
@@ -1515,7 +1515,7 @@ Giải thích: Không quan sát được phía sau thì không lùi xe.
 
 Đáp án: 3
 
-Giải thích: Giảm tốc độ khi có người đi bộ qua đường và qua trạm cảnh sát giao thông.
+***Giải thích***: Giảm tốc độ khi có người đi bộ qua đường và qua trạm cảnh sát giao thông.
 
 ### 155. Tại những đoạn đường không bố trí biển báo hạn chế tốc độ, không bố trí biển báo khoảng cách an toàn tối thiểu giữa hai xe, người điều khiển phương tiện tham gia giao thông phải thực hiện quy định nào dưới đây để đảm bảo an toàn giao thông?
 
@@ -1525,7 +1525,7 @@ Giải thích: Giảm tốc độ khi có người đi bộ qua đường và qu
 
 Đáp án: 3
 
-Giải thích: Nghiêm chỉnh chấp hành quy định về tốc độ và khoảng cách an toàn.
+***Giải thích***: Nghiêm chỉnh chấp hành quy định về tốc độ và khoảng cách an toàn.
 
 ### 156. Khi tham gia giao thông trên đường cao tốc, người lái xe, người điều khiển xe máy chuyên dùng phải thực hiện như thế nào là đúng quy tắc giao thông?
 
@@ -1535,7 +1535,7 @@ Giải thích: Nghiêm chỉnh chấp hành quy định về tốc độ và kho
 
 Đáp án: 1
 
-Giải thích: Trên cao tốc tuân thủ tốc độ tối thiểu, tối đa và sơn kẻ mặt đường.
+***Giải thích***: Trên cao tốc tuân thủ tốc độ tối thiểu, tối đa và sơn kẻ mặt đường.
 
 ### 157. Theo Luật giao thông đường bộ, tín hiệu đèn giao thông gồm 3 màu nào dưới đây?
 
@@ -1555,7 +1555,7 @@ Giải thích: Trên cao tốc tuân thủ tốc độ tối thiểu, tối đa 
 
 Đáp án: 4
 
-Giải thích: Đèn vàng dừng lại trước vạch dừng hoặc nhấp nháy thì đi chậm.
+***Giải thích***: Đèn vàng dừng lại trước vạch dừng hoặc nhấp nháy thì đi chậm.
 
 ### 159. Để báo hiệu cho xe phía trước biết xe mô tô của bạn muốn vượt, bạn phải có tín hiệu như thế nào dưới đây?
 
@@ -1565,7 +1565,7 @@ Giải thích: Đèn vàng dừng lại trước vạch dừng hoặc nhấp nh�
 
 Đáp án: 3
 
-Giải thích: Muốn vượt xe thì phải báo hiệu bằng đèn hoặc còi.
+***Giải thích***: Muốn vượt xe thì phải báo hiệu bằng đèn hoặc còi.
 
 ### 160. Khi tham gia giao thông trên đường cao tốc, người điều khiển phương tiện cơ giới có được dừng, đỗ xe trên phần đường xe chạy hay không?
 
@@ -1575,7 +1575,7 @@ Giải thích: Muốn vượt xe thì phải báo hiệu bằng đèn hoặc cò
 
 Đáp án: 2
 
-Giải thích: Không được dừng, đỗ trên làn xe chạy đường cao tốc.
+***Giải thích***: Không được dừng, đỗ trên làn xe chạy đường cao tốc.
 
 ### 161. Khi xe gặp sự cố kỹ thuật trên đường cao tốc, bạn phải xử lý theo thứ tự như thế nào dưới đây để đảm bảo an toàn giao thông?
 
@@ -1585,7 +1585,7 @@ Giải thích: Không được dừng, đỗ trên làn xe chạy đường cao 
 
 Đáp án: 3
 
-Giải thích: Khi gặp sự cố khi đủ điều kiện an toàn đưa xe vào làn dừng đỗ khẩn cấp.
+***Giải thích***: Khi gặp sự cố khi đủ điều kiện an toàn đưa xe vào làn dừng đỗ khẩn cấp.
 
 ### 162. Khi người lái xe ô tô dừng, đỗ sát theo lề đường, hè phố phía bên phải theo chiều đi của mình, bánh xe gần nhất không được cách lề đường, hè phố quá bao nhiêu mét trong các trường hợp dưới đây và không gây cản trở, nguy hiểm cho giao thông?
 
@@ -1596,7 +1596,7 @@ Giải thích: Khi gặp sự cố khi đủ điều kiện an toàn đưa xe v�
 
 Đáp án: 1
 
-Giải thích: Dừng xe, đỗ xe cách lề đường, hè phố không quá 0,25 mét.
+***Giải thích***: Dừng xe, đỗ xe cách lề đường, hè phố không quá 0,25 mét.
 
 ### 163. Khi dừng, đỗ xe trên đường phố hẹp, người lái xe ô tô phải dừng, đỗ xe ở vị trí cách xe ô tô đang đỗ bên kia đường khoảng cách tối thiểu là bao nhiêu mét trong các trường hợp dưới đây để đảm bảo an toàn giao thông?
 
@@ -1607,7 +1607,7 @@ Giải thích: Dừng xe, đỗ xe cách lề đường, hè phố không quá 0
 
 Đáp án: 4
 
-Giải thích: Dừng xe, đỗ xe trên đường hẹp cách xe khác 20 mét.
+***Giải thích***: Dừng xe, đỗ xe trên đường hẹp cách xe khác 20 mét.
 
 ### 164. Trên đường bộ, người lái xe ô tô có được phép dừng xe, đỗ xe song song với một xe khác đang dừng, đỗ hay không?
 
@@ -1617,7 +1617,7 @@ Giải thích: Dừng xe, đỗ xe trên đường hẹp cách xe khác 20 mét.
 
 Đáp án: 2
 
-Giải thích: Không được dừng, đỗ xe song song với xe khác trên đường.
+***Giải thích***: Không được dừng, đỗ xe song song với xe khác trên đường.
 
 ### 165. Người điều khiển xe mô tô phải giảm tốc độ và hết sức thận trọng khi qua những đoạn đường nào dưới đây?
 
@@ -1628,7 +1628,7 @@ Giải thích: Không được dừng, đỗ xe song song với xe khác trên �
 
 Đáp án: 4
 
-Giải thích: Giảm tốc độ trên đường ướt, đường hẹp và đèo dốc.
+***Giải thích***: Giảm tốc độ trên đường ướt, đường hẹp và đèo dốc.
 
 ### 166. Khi gặp xe buýt đang dừng đón, trả khách, người điều khiển xe mô tô phải xử lý như thế nào dưới đây để đảm bảo an toàn giao thông?
 
@@ -1638,4 +1638,4 @@ Giải thích: Giảm tốc độ trên đường ướt, đường hẹp và đ
 
 Đáp án: 2
 
-Giải thích: Xe buýt đang dừng đón trả khách thì giảm tốc độ và từ từ vượt qua xe buýt.
+***Giải thích***: Xe buýt đang dừng đón trả khách thì giảm tốc độ và từ từ vượt qua xe buýt.
