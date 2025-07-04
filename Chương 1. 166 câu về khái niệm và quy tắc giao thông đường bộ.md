@@ -159,7 +159,7 @@
 
 ***Giải thích***: Đường cao tốc gồm tất cả các ý.
 
-### 17. Hành vi nào dưới đây bị nghiêm cấm?
+### ***17. Hành vi nào dưới đây bị nghiêm cấm?***
 
     1. Đỗ xe trên đường phố.
     2. Sử dụng xe đạp đi trên các tuyến quốc lộ có tốc độ cao.
@@ -170,7 +170,7 @@
 
 ***Giải thích***: Hành vi làm hỏng cọc tiêu bị nghiêm cấm.
 
-### 18. Hành vi đưa xe cơ giới, xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường vào tham gia giao thông đường bộ có bị nghiêm cấm hay không?
+### ***18. Hành vi đưa xe cơ giới, xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường vào tham gia giao thông đường bộ có bị nghiêm cấm hay không?***
 
     1. Không nghiêm cấm.
     2. Bị nghiêm cấm.
@@ -181,7 +181,7 @@
 
 ***Giải thích***: Hành vi đưa xe không đảm bảo an toàn kỹ thuật bị nghiêm cấm.
 
-### 19. Cuộc đua xe chỉ được thực hiện khi nào?
+### ***19. Cuộc đua xe chỉ được thực hiện khi nào?***
 
     1. Diễn ra trên đường phố không có người qua lại.
     2. Được người dân ủng hộ.
@@ -191,7 +191,7 @@
 
 ***Giải thích***: Cuộc đua xe cần cấp phép.
 
-### 20. Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?
+### ***20. Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?***
 
     1. Bị nghiêm cấm.
     2. Không bị nghiêm cấm.
@@ -201,7 +201,7 @@
 
 ***Giải thích***: Có ma túy bị nghiêm cấm.
 
-### 21. Việc lái xe mô tô, ô tô, máy kéo ngay sau khi uống rượu, bia có được phép hay không?
+### ***21. Việc lái xe mô tô, ô tô, máy kéo ngay sau khi uống rượu, bia có được phép hay không?***
 
     1. Không được phép.
     2. Chỉ được lái ở tốc độ chậm và quãng đường ngắn.
@@ -211,7 +211,7 @@
 
 ***Giải thích***: Uống rượu bia không được lái xe,
 
-### 22. Người điều khiển xe mô tô, ô tô, máy kéo trên đường mà trong máu hoặc hơi thở có nồng độ cồn có bị nghiêm cấm không?
+### ***22. Người điều khiển xe mô tô, ô tô, máy kéo trên đường mà trong máu hoặc hơi thở có nồng độ cồn có bị nghiêm cấm không?***
 
     1. Bị nghiêm cấm.
     2. Không bị nghiêm cấm.
@@ -221,7 +221,7 @@
 
 ***Giải thích***: Trong máu hoặc hơi thở có nồng độ cồn bị nghiêm cấm.
 
-### 23. Sử dụng rượu, bia khi lái xe, nếu bị phát hiện thì bị xử lý như thế nào?
+### ***23. Sử dụng rượu, bia khi lái xe, nếu bị phát hiện thì bị xử lý như thế nào?***
 
     1. Chỉ bị nhắc nhở.
     2. Bị xử phạt hành chính hoặc có thể bị xử lý hình sự tùy theo mức độ vi phạm.
@@ -231,7 +231,7 @@
 
 ***Giải thích***: Sử dụng rượu, bia khi lái xe bị phạt hành chính hoặc xử lý hình sự.
 
-### 24. Theo Luật phòng chống tác hại của rượu, bia đối tượng nào dưới đây bị cấm sử dụng rượu, bia khi tham gia giao thông?
+### ***24. Theo Luật phòng chống tác hại của rượu, bia đối tượng nào dưới đây bị cấm sử dụng rượu, bia khi tham gia giao thông?***
 
     1. Người điều khiển: xe ô tô, me mô tô, xe đạp, xe gắn máy.
     2. Người ngồi phía sau người điều khiển xe cơ giới.
@@ -242,7 +242,7 @@
 
 ***Giải thích***: Người điều khiển bị cấm sử dụng rượu, bia khi tham gia giao thông.
 
-### 25. Hành vi giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện để điều khiển xe tham gia giao thông có được phép hay không?
+### ***25. Hành vi giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện để điều khiển xe tham gia giao thông có được phép hay không?***
 
     1. Chỉ được thực hiện nếu đã hướng dẫn đầy đủ.
     2. Không được phép.
@@ -253,7 +253,7 @@
 
 ***Giải thích***: Không được phép giao xe cho người không đủ điều kiện tham gia giao thông.
 
-### 26. Hành vi điều khiển xe cơ giới chạy quá tốc độ quy định, giành đường, vượt ẩu có bị nghiêm cấm hay không?
+### ***26. Hành vi điều khiển xe cơ giới chạy quá tốc độ quy định, giành đường, vượt ẩu có bị nghiêm cấm hay không?***
 
     1. Bị nghiêm cấm tùy từng trường hợp.
     2. Không bị nghiêm cấm.
@@ -261,7 +261,7 @@
 
 Đáp án: 3
 
-### 27. Khi lái xe trên đường, người lái xe cần quan sát và đảm bảo tốc độ phương tiện như thế nào?
+### ***27. Khi lái xe trên đường, người lái xe cần quan sát và đảm bảo tốc độ phương tiện như thế nào?***
 
     1. Chỉ lớn hơn tốc độ tối đa cho phép khi đường vắng.
     2. Chỉ lớn hơn tốc độ tối đa cho phép vào ban đêm.
@@ -269,7 +269,7 @@
 
 Đáp án: 3
 
-### 28. Phương tiện giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi như thế nào?
+### ***28. Phương tiện giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi như thế nào?***
 
     1. Đi về phía bên trái.
     2. Đi về phía bên phải.
@@ -279,7 +279,7 @@
 
 ***Giải thích***: Di chuyển tốc độ thấp hơn đi về phía bên phải.
 
-### 29. Trên đường có nhiều làn đường, khi điều khiển phương tiện ở tốc độ chậm bạn phải đi ở làn đường nào?
+### ***29. Trên đường có nhiều làn đường, khi điều khiển phương tiện ở tốc độ chậm bạn phải đi ở làn đường nào?***
 
     1. Đi ở làn bên phải trong cùng.
     2. Đi ở làn phía bên trái.
@@ -290,7 +290,7 @@
 
 ***Giải thích***: Tốc độ chậm đi ở làn bên phải trong cùng.
 
-### 30. Hành vi vượt xe tại các vị trí có tầm nhìn hạn chế, đường vòng, đầu dốc có bị nghiêm cấm hay không?
+### ***30. Hành vi vượt xe tại các vị trí có tầm nhìn hạn chế, đường vòng, đầu dốc có bị nghiêm cấm hay không?***
 
     1. Không bị nghiêm cấm.
     2. Không bị nghiêm cấm khi rất vội.
@@ -320,7 +320,7 @@
 
 ***Giải thích***: Trong đô thị sử dụng đèn chiếu gần.
 
-### 33. Hành vi lắp đặt, sử dụng còi, đèn không đúng thiết kế của nhà sản xuất đối với từng loại xe cơ giới có được phép hay không?
+### ***33. Hành vi lắp đặt, sử dụng còi, đèn không đúng thiết kế của nhà sản xuất đối với từng loại xe cơ giới có được phép hay không?***
 
     1. Được phép.
     2. Không được phép.
@@ -340,7 +340,7 @@
 
 ***Giải thích***: Lắp đặt còi đèn không đúng thiết kế phải được chấp thuận của cơ quan có thẩm quyền.
 
-### 35. Việc sản xuất, mua bán, sử dụng biển số xe cơ giới, xe máy chuyên dùng được quy định như thế nào trong Luật Giao thông đường bộ?
+### 35. ***Việc sản xuất, mua bán, sử dụng biển số xe cơ giới, xe máy chuyên dùng được quy định như thế nào trong Luật Giao thông đường bộ?***
 
     1. Được phép sản xuất, sử dụng khi bị mất biển số.
     2. Được phép mua bán, sử dụng khi bị mất biển số.
@@ -348,7 +348,7 @@
 
 Đáp án: 3
 
-### 36. Người lái xe không được vượt xe khác khi gặp trường hợp nào ghi ở dưới đây?
+### 36. ***Người lái xe không được vượt xe khác khi gặp trường hợp nào ghi ở dưới đây?***
 
     1. Trên cầu hẹp có một làn xe. Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ.
     2. Trên cầu có từ 02 làn xe trở lên; nơi đường bộ giao nhau không cùng mức với đường sắt; xe được quyền ưu tiên đang đi phía trước nhưng không phát tín hiệu ưu tiên.
@@ -358,7 +358,7 @@
 
 ***Giải thích***: Không được vượt trên cầu hẹp có một làn xe.
 
-### 37. Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, đường cao tốc, đường hẹp, đường dốc, tại nơi đường bộ giao nhau cùng mức với đường sắt có được quay đầu xe hay không?
+### 37. ***Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, đường cao tốc, đường hẹp, đường dốc, tại nơi đường bộ giao nhau cùng mức với đường sắt có được quay đầu xe hay không?***
 
     1. Được phép.
     2. Không được phép.
@@ -390,7 +390,7 @@
 
 ***Giải thích***: Không được vượt khi đang phát tín hiệu ưu tiên.
 
-### 40. Người lái xe không được quay đầu xe trong các trường hợp nào dưới đây?
+### 40. ***Người lái xe không được quay đầu xe trong các trường hợp nào dưới đây?***
 
     1. Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, đường cao tốc, đường hẹp, đường dốc, tại nơi đường bộ giao nhau cùng mức với đường sắt.
     2. Ở phía trước hoặc phía sau của phần đường dành cho người đi bộ qua đường, trên đường quốc lộ, tại nơi đường bộ giao nhau không cùng mức với đường sắt.
@@ -422,7 +422,7 @@
 
 ***Giải thích***: Cấm lùi xe ở khu vực cấm dừng và nơi đường bộ giao nhau.
 
-### 43. Người điều khiển phương tiện giao thông trên đường phố có được dừng xe, đỗ xe trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước hay không?
+### 43. ***Người điều khiển phương tiện giao thông trên đường phố có được dừng xe, đỗ xe trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước hay không?***
 
     1. Được dừng xe, đỗ xe trong trường hợp cần thiết.
     2. Không được dừng xe, đỗ xe.
@@ -443,7 +443,7 @@
 
 ***Giải thích***: Xe kéo đã kéo rơ moóc không được kéo thêm xe.
 
-### 45. Người điều khiển xe mô tô hai bánh, ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?
+### 45. ***Người điều khiển xe mô tô hai bánh, ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?***
 
     1. Được phép.
     2. Nếu phương tiện được kéo, đẩy có khối lượng nhỏ hơn phương tiện của mình.
@@ -454,7 +454,7 @@
 
 ***Giải thích***: Xe mô tô không được kéo xe khác.
 
-### 46. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe quệt xuống đường khi xe đang chạy có được phép hay không?
+### 46. ***Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe quệt xuống đường khi xe đang chạy có được phép hay không?***
 
     1. Được phép.
     2. Tùy trường hợp.
@@ -462,7 +462,7 @@
 
 Đáp án: 3
 
-### 47. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào không được phép?
+### 47. ***Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào không được phép?***
 
     1. Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe để quệt xuống đường khi xe đang chạy.
     2. Buông một tay; sử dụng xe để chở người hoặc hàng hóa; để chân chạm xuống đất khi khởi hành.
@@ -471,7 +471,7 @@
 
 Đáp án: 1
 
-### 48. Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông có được mang, vác vật cồng kềnh hay không?
+### 48. ***Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông có được mang, vác vật cồng kềnh hay không?***
 
     1. Được mang, vác tùy trường hợp cụ thể.
     2. Không được mang, vác.
@@ -482,7 +482,7 @@
 
 ***Giải thích***: Xe mô tô không được mang vác vật cồng kềnh.
 
-### 49. Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được bám, kéo hoặc đẩy các phương tiện khác không?
+### 49. ***Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được bám, kéo hoặc đẩy các phương tiện khác không?***
 
     1. Được phép.
     2. Được bám trong trường hợp phương tiện của mình bị hỏng.
@@ -493,7 +493,7 @@
 
 ***Giải thích***: Xe mô tô không được kéo xe khác.
 
-### 50. Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được sử dụng ô khi trời mưa hay không?
+### 50. ***Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được sử dụng ô khi trời mưa hay không?***
 
     1. Được sử dụng.
     2. Chỉ người ngồi sau được sử dụng.
@@ -502,7 +502,7 @@
 
 Đáp án: 3
 
-### 51. Khi đang lên dốc người ngồi trên xe mô tô có được kéo theo người đang điều khiển xe đạp hay không?
+### 51. ***Khi đang lên dốc người ngồi trên xe mô tô có được kéo theo người đang điều khiển xe đạp hay không?***
 
     1. Chỉ được phép nếu cả hai đội mũ bảo hiểm.
     2. Không được phép.
@@ -511,7 +511,7 @@
 
 Đáp án: 2
 
-### 52. Hành vi sử dụng xe mô tô để kéo, đẩy xe mô tô khác bị hết xăng đến trạm mua xăng có được phép hay không?
+### 52. ***Hành vi sử dụng xe mô tô để kéo, đẩy xe mô tô khác bị hết xăng đến trạm mua xăng có được phép hay không?***
 
     1. Chỉ được kéo nếu đã nhìn thấy trạm xăng.
     2. Chỉ được thực hiện trên đường vắng phương tiện cùng tham gia giao thông.
@@ -519,7 +519,7 @@
 
 Đáp án: 3
 
-### 53. Hành vi vận chuyển đồ vật cồng kềnh bằng xe mô tô, xe gắn máy khi tham gia giao thông có được phép hay không?
+### 53. ***Hành vi vận chuyển đồ vật cồng kềnh bằng xe mô tô, xe gắn máy khi tham gia giao thông có được phép hay không?***
 
     1. Không được vận chuyển.
     2. Chỉ được vận chuyển khi đã chằng buộc cẩn thận.
@@ -826,7 +826,7 @@
 
 ***Giải thích***: Người điều khiển giao thông giơ tay thẳng đứng thì ở các hướng phải dừng lại.
 
-### 84. Trên đường giao thông, khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn hoặc biển báo hiệu thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào?
+### 84. ***Trên đường giao thông, khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn hoặc biển báo hiệu thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào?***
 
     1. Hiệu lệnh của người điều khiển giao thông.
     2. Hiệu lệnh của đèn điều khiển giao thông.
@@ -893,7 +893,7 @@
 
 ***Giải thích***: Quay xe ở nơi giao nhau và có biển báo cho quay xe.
 
-### 91. Người lái xe phải làm gì khi quay đầu xe trên cầu, đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt?
+### 91. ***Người lái xe phải làm gì khi quay đầu xe trên cầu, đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt?***
 
     1. Không được quay đầu xe.
     2. Lợi dụng chỗ rộng và phải có người làm tín hiệu sau xe để bảo đảm an toàn.
@@ -975,7 +975,7 @@
 
 ***Giải thích***: Giao nhau không có vòng xuyến thì nhường xe đến từ bên phải.
 
-### 99. Trên đoạn đường bộ giao nhau cùng mức với đường sắt, cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước?
+### 99. ***Trên đoạn đường bộ giao nhau cùng mức với đường sắt, cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước?***
 
     1. Phương tiện nào bên phải không vướng.
     2. Phương tiện nào ra tín hiệu xin đường trước.
@@ -991,7 +991,7 @@
 
 Đáp án: 1
 
-### 101. Người lái xe phải làm gì khi điều khiển xe vào đường cao tốc?
+### 101. ***Người lái xe phải làm gì khi điều khiển xe vào đường cao tốc?***
 
     1. Phải có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường; khi thấy an toàn mới cho xe nhập vào dòng xe ở làn đường sát mép ngoài; nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi vào làn đường của đường cao tốc.
     2. Phải có tín hiệu xin vào và phải nhanh chóng vượt xe đang chạy trên đường để nhập vào dòng xe ở làn đường sát mép ngoài; nếu có làn đường tăng tốc thì phải cho xe chạy qua làn đường đó để vào làn đường của đường cao tốc.
@@ -1071,7 +1071,7 @@
 
 ***Giải thích***: Kéo xe không hệ thống hãm phải dùng thanh nối cứng.
 
-### 109. Người ngồi trên xe mô tô 2 bánh, xe gắn máy phải đội mũ bảo hiểm có cài quai đúng quy cách khi nào?
+### 109. ***Người ngồi trên xe mô tô 2 bánh, xe gắn máy phải đội mũ bảo hiểm có cài quai đúng quy cách khi nào?***
 
     1. Khi tham gia giao thông đường bộ.
     2. Chỉ khi đi trên đường chuyên dùng; đường cao tốc.
@@ -1097,7 +1097,7 @@
 
 ***Giải thích***: Xe mô tô hai bánh không được đi vào phần đường dành cho người đi bộ.
 
-### 112. Người điều khiển xe mô tô hai bánh, xe gắn máy có được đi xe dàn hàng ngang; đi xe vào phần đường dành cho người đi bộ và phương tiện khác; sử dụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính) hay không?
+### 112. ***Người điều khiển xe mô tô hai bánh, xe gắn máy có được đi xe dàn hàng ngang; đi xe vào phần đường dành cho người đi bộ và phương tiện khác; sử dụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính) hay không?***
 
     1. Được phép nhưng phải đảm bảo an toàn.
     2. Không được phép.
@@ -1114,7 +1114,7 @@
 
 Đáp án: 4
 
-### 114. Khi gặp một đoàn xe, một đoàn xe tang hay gặp một đoàn người có tổ chức theo đội ngũ, người lái xe phải xử lý như thế nào?
+### 114. ***Khi gặp một đoàn xe, một đoàn xe tang hay gặp một đoàn người có tổ chức theo đội ngũ, người lái xe phải xử lý như thế nào?***
 
     1. Từ từ đi cắt qua đoàn người, đoàn xe.
     2. Không được cắt ngang qua đoàn người, đoàn xe.
@@ -1153,7 +1153,7 @@
 
 ***Giải thích***: Không được vượt khi xe bị vượt bất ngờ tăng tốc hoặc phát hiện có xe đi ngược chiều.
 
-### 118. Khi lái xe trên đường vắng mà cảm thấy buồn ngủ, người lái xe nên chọn cách xử lý như thế nào cho phù hợp?
+### 118. ***Khi lái xe trên đường vắng mà cảm thấy buồn ngủ, người lái xe nên chọn cách xử lý như thế nào cho phù hợp?***
 
     1. Tăng tốc độ kết hợp với nghe nhạc và đi tiếp.
     2. Quan sát, dừng xe tại nơi quy định; nghỉ cho đến khi hết buồn ngủ và đi tiếp.
@@ -1161,7 +1161,7 @@
 
 Đáp án: 2
 
-### 119. Trên đường cao tốc, người lái xe xử lý như thế nào khi đã vượt quá lối ra của đường định rẽ?
+### 119. ***Trên đường cao tốc, người lái xe xử lý như thế nào khi đã vượt quá lối ra của đường định rẽ?***
 
     1. Quay xe, chạy trên lề đường bên phải và rẽ khỏi đường cao tốc.
     2. Lùi xe sát lề đường bên phải và rẽ khỏi đường cao tốc.
@@ -1400,7 +1400,7 @@ Trong khu vực đông dân cư, đường đôi; đường một chiều có t�
 
 ***Giải thích***: Giảm tốc độ, đi sát về bên phải khi xe sau xin vượt.
 
-### 143. Tại các điểm giao cắt giữa đường bộ và đường sắt, quyền ưu tiên thuộc về loại phương tiện nào dưới đây?
+### 143. ***Tại các điểm giao cắt giữa đường bộ và đường sắt, quyền ưu tiên thuộc về loại phương tiện nào dưới đây?***
 
     1. Xe cứu hỏa.
     2. Xe cứu thương.
@@ -1420,7 +1420,7 @@ Trong khu vực đông dân cư, đường đôi; đường một chiều có t�
 
 Đáp án: 4
 
-### 145. Trên đoạn đường bộ giao nhau đồng mức với đường sắt, người không có nhiệm vụ có được tự ý mở chắn đường ngang khi chắn đã đóng hay không?
+### 145. ***Trên đoạn đường bộ giao nhau đồng mức với đường sắt, người không có nhiệm vụ có được tự ý mở chắn đường ngang khi chắn đã đóng hay không?***
 
     1. Không được phép.
     2. Được phép nhưng phải đảm bảo an toàn.
@@ -1437,7 +1437,7 @@ Trong khu vực đông dân cư, đường đôi; đường một chiều có t�
 
 Đáp án: 3
 
-### 147. Khi điều khiển phương tiện tham gia giao thông, những hành vi nào dưới đây bị nghiêm cấm?
+### 147. ***Khi điều khiển phương tiện tham gia giao thông, những hành vi nào dưới đây bị nghiêm cấm?***
 
     1. Thay đổi tốc độ của xe trên đường bộ.
     2. Thay đổi tay số của xe trên đường bộ.
@@ -1465,7 +1465,7 @@ Trong khu vực đông dân cư, đường đôi; đường một chiều có t�
 
 ***Giải thích***: Xe trên đường không ưu tiên nhường đường cho xe trên đường ưu tiên.
 
-### 150. Khi xe ô tô, mô tô đến gần vị trí giao nhau giữa đường bộ và đường sắt không có rào chắn, khi đèn tín hiệu màu đỏ đã bật sáng hoặc khi có tiếng chuông báo hiệu, người lái xe xử lý như thế nào?
+### 150. ***Khi xe ô tô, mô tô đến gần vị trí giao nhau giữa đường bộ và đường sắt không có rào chắn, khi đèn tín hiệu màu đỏ đã bật sáng hoặc khi có tiếng chuông báo hiệu, người lái xe xử lý như thế nào?***
 
     1. Giảm tốc độ cho xe vượt qua đường sắt.
     2. Nhanh chóng cho xe vượt qua đường sắt trước khi tàu hỏa tới.
@@ -1486,7 +1486,7 @@ Trong khu vực đông dân cư, đường đôi; đường một chiều có t�
 
 ***Giải thích***: Không vượt xe khác trên đường vòng, khuất tầm nhìn.
 
-### 152. Người lái xe phải xử lý như thế nào khi quan sát phía trước thấy người đi bộ đang sang đường tại nơi có vạch đường dành cho người đi bộ để đảm bảo an toàn?
+### 152. ***Người lái xe phải xử lý như thế nào khi quan sát phía trước thấy người đi bộ đang sang đường tại nơi có vạch đường dành cho người đi bộ để đảm bảo an toàn?***
 
     1. Giảm tốc độ, đi từ từ để vượt qua trước người đi bộ.
     2. Giảm tốc độ, có thể dừng lại nếu cần thiết trước vạch dừng xe để nhường đường cho người đi bộ qua đường.
@@ -1496,7 +1496,7 @@ Trong khu vực đông dân cư, đường đôi; đường một chiều có t�
 
 ***Giải thích***: Nơi có vạch kẻ đường dành cho người đi bộ thì nhường đường.
 
-### 153. Khi muốn lùi xe nhưng không quan sát được phía sau, cần làm gì để đảm bảo an toàn?
+### 153. ***Khi muốn lùi xe nhưng không quan sát được phía sau, cần làm gì để đảm bảo an toàn?***
 
     1. Phải lùi thật chậm.
     2. Có thể được lùi xe nhưng phải mở cửa xe.
@@ -1567,7 +1567,7 @@ Trong khu vực đông dân cư, đường đôi; đường một chiều có t�
 
 ***Giải thích***: Muốn vượt xe thì phải báo hiệu bằng đèn hoặc còi.
 
-### 160. Khi tham gia giao thông trên đường cao tốc, người điều khiển phương tiện cơ giới có được dừng, đỗ xe trên phần đường xe chạy hay không?
+### 160. ***Khi tham gia giao thông trên đường cao tốc, người điều khiển phương tiện cơ giới có được dừng, đỗ xe trên phần đường xe chạy hay không?***
 
     1. Được dừng, đỗ.
     2. Không được dừng, đỗ.
