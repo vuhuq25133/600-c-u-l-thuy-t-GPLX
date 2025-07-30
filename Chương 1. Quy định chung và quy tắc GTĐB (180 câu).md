@@ -317,7 +317,7 @@
 </details>
 
 ## CÂU 36. Khi gặp hiệu lệnh điều khiển của Cảnh sát giao thông như hình dưới đây thì người tham gia giao thông đường bộ phải đi như thế nào là đúng quy tắc giao thông?
-<img width="454" height="693" alt="image" src="https://github.com/user-attachments/assets/6c4fab3b-cf2c-4e0b-9cea-a71826050b4c" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/6c4fab3b-cf2c-4e0b-9cea-a71826050b4c" />
 
 1. Người tham gia giao thông đường bộ ở các hướng phải dừng lại.
 2. Người tham gia giao thông đường bộ ở các hướng được đi theo chiều gậy chỉ của Cảnh sát giao thông.
@@ -327,7 +327,7 @@
 </details>
 
 ## CÂU 37. Khi gặp hiệu lệnh điều khiển của Cảnh sát giao thông như hình dưới đây thì người tham gia giao thông đường bộ phải đi như thế nào là đúng quy tắc giao thông?
-<img width="437" height="659" alt="image" src="https://github.com/user-attachments/assets/cbca927d-84e1-469a-8a98-506d90720eff" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/cbca927d-84e1-469a-8a98-506d90720eff" />
 
 1. Người tham gia giao thông đường bộ ở phía sau Cảnh sát giao thông được đi, các hướng khác phải dừng lại.
 2. Người tham gia giao thông đường bộ được rẽ phải theo chiều mũi tên màu xanh ở bục Cảnh sát giao thông.
