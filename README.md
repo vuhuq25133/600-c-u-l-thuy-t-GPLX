@@ -1,4 +1,8 @@
-# 60 câu điểm liệt## ⚠️ ***CÂU 19. Hành vi nào dưới đây bị nghiêm cấm?***## ⚠️ ***CÂU 20. Hành vi đưa xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ nào dưới đây bị cấm?***## ⚠️ ***CÂU 21. Tổ chức đua xe được phép thực hiện khi nào?***## ⚠️ ***CÂU 22. Hành vi đua xe trái phép bị xử lý như thế nào?***
+# 60 câu điểm liệt
+## ⚠️ ***CÂU 19. Hành vi nào dưới đây bị nghiêm cấm?***
+## ⚠️ ***CÂU 20. Hành vi đưa xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ nào dưới đây bị cấm?***
+## ⚠️ ***CÂU 21. Tổ chức đua xe được phép thực hiện khi nào?***
+## ⚠️ ***CÂU 22. Hành vi đua xe trái phép bị xử lý như thế nào?***
 ## ⚠️ ***CÂU 23. Hành vi của người điều khiển xe ô tô và các loại xe tương tự khi tham gia giao thông đường bộ mà trong cơ thể có chất ma túy thì bị áp dụng hình thức xử phạt vi phạm hành chính nào dưới đây?***
 ## ⚠️ ***CÂU 24. Người điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn có bị nghiêm cấm không?***
 ## ⚠️ ***CÂU 25. Hành vi của người điều khiển xe ô tô và các loại xe tương tự khi tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn thì bị áp dụng hình thức xử phạt vi phạm hành chính nào dưới đây?***
