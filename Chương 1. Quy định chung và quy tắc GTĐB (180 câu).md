@@ -406,6 +406,7 @@
 1. Khi xe chạy phía trước có tín hiệu vượt xe khác.
 2. Khi phía trước có xe chạy ngược chiều.
 3. Khi xe sau xin vượt nếu đủ điều kiện an toàn.
+4. Khi xe sau có tín hiệu vượt bên phải.
 <details>
 <summary>Đáp án:</summary>
 3. Khi xe sau xin vượt nếu đủ điều kiện an toàn.
@@ -540,6 +541,7 @@
 1. 0,25 mét.
 2. 0,3 mét.
 3. 0,4 mét.
+4. 0,5 mét. 
 <details>
 <summary>Đáp án:</summary>
 1. 0,25 mét.
@@ -549,6 +551,7 @@
 1. 10 mét.
 2. 15 mét.
 3. 20 mét.
+4. 25 mét.
 <details>
 <summary>Đáp án:</summary>
 3. 20 mét.
@@ -557,6 +560,7 @@
 ## CÂU 62. Người điều khiển phương tiện tham gia giao thông đường bộ không được dừng xe, đỗ xe tại các vị trí nào sau đây?
 1. Nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy.
 2. Song song cùng chiều với một xe khác đang dừng, đỗ trên đường; trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất; bên trái đường một chiều.
+3. Cả hai ý trên. 
 <details>
 <summary>Đáp án:</summary>
 2. Song song cùng chiều với một xe khác đang dừng, đỗ trên đường; trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất; bên trái đường một chiều.
@@ -566,9 +570,10 @@
 1. Được phép.
 2. Nếu phương tiện được kéo, đẩy có khối lượng nhỏ hơn phương tiện của mình.
 3. Tùy trường hợp.
+4. Không được phép.
 <details>
 <summary>Đáp án:</summary>
-3. Tùy trường hợp.
+4. Không được phép.
 </details>
 
 ## ⚠️ ***CÂU 64. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào sau đây không được phép?***
@@ -583,6 +588,7 @@
 1. Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy.
 2. Sử dụng xe để chở người hoặc hàng hóa; để chân chạm xuống đất khi khởi hành.
 3. Đội mũ bảo hiểm; chạy xe đúng tốc độ quy định và chấp hành đúng quy tắc giao thông đường bộ.
+4. Chở người ngồi sau dưới 16 tuổi. 
 <details>
 <summary>Đáp án:</summary>
 1. Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy.
@@ -592,9 +598,10 @@
 1. Mang, vác vật cồng kềnh.
 2. Bám, kéo hoặc đẩy các phương tiện khác.
 3. Dùng tay cầm điện thoại hoặc các thiết bị điện tử khác.
+4. Ý 1 và ý 2. 
 <details>
 <summary>Đáp án:</summary>
-3. Dùng tay cầm điện thoại hoặc các thiết bị điện tử khác.
+4. Ý 1 và ý 2. 
 </details>
 
 
@@ -602,9 +609,10 @@
 1. Được phép.
 2. Được bám trong trường hợp phương tiện của mình bị hỏng.
 3. Được kéo, đẩy trong trường hợp phương tiện khác bị hỏng.
+4. Không được phép.
 <details>
 <summary>Đáp án:</summary>
-3. Được kéo, đẩy trong trường hợp phương tiện khác bị hỏng.
+4. Không được phép.
 </details>
 
 ## ⚠️ ***CÂU 68. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải thực hiện quy định nào dưới đây?***
@@ -619,6 +627,7 @@
 ## CÂU 69. Người lái xe mô tô hai bánh, xe gắn máy được phép chở tối đa hai người trong những trường hợp nào?
 1. Chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 12 tuổi; người già yếu hoặc người khuyết tật.
 2. Người đã uống rượu, bia; người trong cơ thể có chất ma tuý.
+3. Cả hai ý trên. 
 <details>
 <summary>Đáp án:</summary>
 1. Chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 12 tuổi; người già yếu hoặc người khuyết tật.
@@ -628,9 +637,10 @@
 1. Đi xe dàn hàng ngang; buông cả hai tay.
 2. Sử dụng xe để kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang, vác và chở vật cồng kềnh; chở người đứng trên xe, giá đèo hàng hoặc ngồi trên tay lái; xếp hàng hóa trên xe quá giới hạn quy định.
 3. Ngồi về một bên điều khiển xe; đứng, nằm trên xe điều khiển xe; thay người lái xe khi xe đang chạy; quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy.
+4. Cả ba ý trên.
 <details>
 <summary>Đáp án:</summary>
-3. Ngồi về một bên điều khiển xe; đứng, nằm trên xe điều khiển xe; thay người lái xe khi xe đang chạy; quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy.
+4. Cả ba ý trên.
 </details>
 
 ## ⚠️ ***CÂU 71. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi nào sau đây?***
@@ -645,6 +655,7 @@
 ## ⚠️ ***CÂU 72. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện hành vi nào sau đây?***
 1. Đi trên phần đường, làn đường quy định, chấp hành hiệu lệnh của người điều khiển giao thông, đèn tín hiệu giao thông.
 2. Đi xe dàn hàng ngang, đi xe vào phần đường dành cho người đi bộ.
+3. Cả hai ý trên.
 <details>
 <summary>Đáp án:</summary>
 2. Đi xe dàn hàng ngang, đi xe vào phần đường dành cho người đi bộ.
@@ -654,6 +665,7 @@
 1. Được sử dụng.
 2. Chỉ người ngồi sau được sử dụng.
 3. Không được sử dụng.
+4. Được sử dụng nếu không có áo mưa.
 <details>
 <summary>Đáp án:</summary>
 3. Không được sử dụng.
@@ -673,9 +685,10 @@
 1. Không bị xử phạt chỉ bị nhắc nhở.
 2. Người được chở không bị xử phạt, chỉ xử phạt người điều khiển xe mô tô, xe gắn máy.
 3. Người được chở bị xử phạt, không xử phạt người điều khiển xe mô tô, xe gắn máy.
+4. Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy.
 <details>
 <summary>Đáp án:</summary>
-2. Người được chở không bị xử phạt, chỉ xử phạt người điều khiển xe mô tô, xe gắn máy.
+4. Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy.
 </details>
 
 ## CÂU 76. Trong các trường hợp dưới đây, để bảo đảm an toàn khi tham gia giao thông, người lái xe mô tô cần thực hiện như thế nào?
@@ -693,7 +706,7 @@
 3. Xe cơ giới, xe thô sơ xuống trước, xe máy chuyên dùng, người đi bộ xuống sau.
 <details>
 <summary>Đáp án:</summary>
-1. Xe thô sơ, người đi bộ xuống trước, xe cơ giới, xe máy chuyên dùng xuống sau.
+1.  Xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống sau. 
 </details>
 
 ## CÂU 78. Trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện tham gia giao thông đường bộ phải cho xe đi như thế nào?
@@ -711,7 +724,7 @@
 3. Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng được đi trên tất cả các làn đường.
 <details>
 <summary>Đáp án:</summary>
-3. Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng được đi trên tất cả các làn đường.
+2. Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.
 </details>
 
 ## CÂU 80. Khi lái xe trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau, nếu cần vượt một xe khác, người lái xe phải báo hiệu như thế nào là đúng quy tắc giao thông?
@@ -790,9 +803,10 @@
 1. Nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe đi ngược chiều.
 2. Xe xuống dốc phải nhường đường cho xe lên dốc.
 3. Xe có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật phía trước.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-2. Xe xuống dốc phải nhường đường cho xe lên dốc.
+4. Cả ba ý trên. 
 </details>
 
 ## ⚠️ ***CÂU 89. Khi đang lái xe xuống dốc gặp một xe đang đi lên dốc, người lái xe phải làm gì?***
@@ -853,9 +867,10 @@
 1. Không bị hạn chế tốc độ.
 2. Được phép đi không phụ thuộc vào tín hiệu đèn giao thông, đi vào đường ngược chiều, các đường khác có thể đi được.
 3. Được đi ngược chiều trên làn dừng xe khẩn cấp trên đường cao tốc.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-2. Được phép đi không phụ thuộc vào tín hiệu đèn giao thông, đi vào đường ngược chiều, các đường khác có thể đi được.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 96. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải tuân thủ quy định nào dưới đây?
@@ -916,9 +931,10 @@
 1. Hiệu lệnh của nhân viên gác chắn.
 2. Đèn đỏ sáng nhấp nháy, chuông kêu.
 3. Chắn đường bộ đang dịch chuyển hoặc đã đóng.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-1. Hiệu lệnh của nhân viên gác chắn.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 103. Người điều khiển phương tiện tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào dưới đây?
@@ -961,9 +977,10 @@
 1. Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường; chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế.
 2. Nơi cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ; có vật nuôi đi trên đường hoặc chăn thả ở ven đường.
 3. Điểm dừng xe, đỗ xe trên đường bộ có khách đang lên, xuống xe.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-1. Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường; chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 108. Trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, người lái xe không được vượt xe khác trong trường hợp nào dưới đây?
@@ -1050,9 +1067,10 @@
 1. Có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường.
 2. Quan sát xe phía sau bảo đảm khoảng cách an toàn mới cho xe nhập vào làn đường sát bên phải.
 3. Nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi nhập vào làn đường của đường cao tốc.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-1. Có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 118. Theo quy định về độ tuổi, người đủ bao nhiêu tuổi trở lên thì được cấp giấy phép lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg?
@@ -1077,6 +1095,7 @@
 1. 23 tuổi.
 2. 24 tuổi.
 3. 27 tuổi.
+4. 30 tuổi. 
 <details>
 <summary>Đáp án:</summary>
 3. 27 tuổi.
@@ -1088,7 +1107,7 @@
 3. Đủ 57 tuổi đối với nam và đủ 55 tuổi đối với nữ.
 <details>
 <summary>Đáp án:</summary>
-1. Đủ 55 tuổi đối với nam và đủ 50 tuổi đối với nữ.
+3. Đủ 57 tuổi đối với nam và đủ 55 tuổi đối với nữ.
 </details>
 
 ## CÂU 122. Theo quy định về độ tuổi, người lái xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg phải đủ bao nhiêu tuổi trở lên?
@@ -1160,7 +1179,7 @@
 3. Cả hai ý trên.
 <details>
 <summary>Đáp án:</summary>
-2. Xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.
+3. Cả hai ý trên.
 </details>
 
 ## CÂU 130. Người có Giấy phép lái xe hạng D1 được điều khiển loại xe nào dưới đây?
@@ -1178,16 +1197,17 @@
 3. Cả hai ý trên.
 <details>
 <summary>Đáp án:</summary>
-1. Xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.
+3. Cả hai ý trên.
 </details>
 
 ## CÂU 132. Người có Giấy phép lái xe hạng D được điều khiển loại xe nào dưới đây?
 1. Xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe); xe ô tô chở người giường nằm; các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.
 2. Xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe).
 3. Các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc.
+4. Ý 1 và ý 2. 
 <details>
 <summary>Đáp án:</summary>
-1. Xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe); xe ô tô chở người giường nằm; các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.
+4. Ý 1 và ý 2. 
 </details>
 
 ## CÂU 133. Người có Giấy phép lái xe hạng BE được điều khiển loại xe nào dưới đây?
@@ -1223,7 +1243,7 @@
 3. Cả hai ý trên.
 <details>
 <summary>Đáp án:</summary>
-3. Cả hai ý trên.
+1. Phải thực hành trên xe tập lái, trên tuyến đường tập lái và có giáo viên dạy lái bảo trợ tay lái.
 </details>
 
 ## CÂU 137. Người lái xe khi tham gia giao thông đường bộ phải đảm bảo các điều kiện nào dưới đây?
@@ -1239,18 +1259,20 @@
 1. Chứng nhận đăng ký xe hoặc bản sao Chứng nhận đăng ký xe có chứng thực kèm bản gốc giấy tờ xác nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài còn hiệu lực trong trường hợp xe đang được thế chấp tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.
 2. Giấy phép lái xe phù hợp với loại xe đang điều khiển; chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới theo quy định của pháp luật; chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.
 3. Trường hợp các giấy tờ nêu trên đã được tích hợp vào tài khoản định danh điện tử thì việc xuất trình, kiểm tra có thể thực hiện thông qua tài khoản định danh điện tử.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-2. Giấy phép lái xe phù hợp với loại xe đang điều khiển; chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới theo quy định của pháp luật; chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 139. Giấy phép lái xe bị thu hồi trong các trường hợp nào sau đây?
 1. Người được cấp giấy phép lái xe không đủ điều kiện sức khỏe theo kết luận của cơ sở khám bệnh, chữa bệnh đối với từng hạng giấy phép lái xe.
 2. Giấy phép lái xe được cấp sai quy định.
 3. Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời hiệu thi hành quyết định xử phạt vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính nếu người vi phạm không đến nhận mà không có lý do chính đáng.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-1. Người được cấp giấy phép lái xe không đủ điều kiện sức khỏe theo kết luận của cơ sở khám bệnh, chữa bệnh đối với từng hạng giấy phép lái xe.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 140. Người có giấy phép lái xe chưa bị trừ hết 12 điểm, được phục hồi điểm giấy phép lái xe trong trường hợp nào sau đây?
@@ -1284,7 +1306,7 @@
 3. Cả hai ý trên.
 <details>
 <summary>Đáp án:</summary>
-2. Xe ô tô chở người từ 08 chỗ trở lên (không kể chỗ của người lái xe) kinh doanh vận tải, xe ô tô đầu kéo, xe cứu thương.
+3. Cả hai ý trên.
 </details>
 
 ## CÂU 144. Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tốc) là bao nhiêu km/h?
@@ -1352,6 +1374,7 @@
 1. Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.
 2. Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).
 3. Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).
+4. Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc. 
 <details>
 <summary>Đáp án:</summary>
 3. Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).
@@ -1361,9 +1384,10 @@
 1. Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.
 2. Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).
 3. Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).
+4. Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc. 
 <details>
 <summary>Đáp án:</summary>
-3. Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).
+4. Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc. 
 </details>
 
 ## CÂU 153. Trên đường bộ ngoài khu vực đông dân cư, đường hai chiều hoặc đường một chiều có một làn xe cơ giới (trừ đường cao tốc), loại xe nào dưới đây được tham gia giao thông với tốc độ khai thác tối đa cho phép là 80 km/h?
@@ -1379,6 +1403,7 @@
 1. Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.
 2. Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).
 3. Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).
+4. Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc. 
 <details>
 <summary>Đáp án:</summary>
 2. Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).
@@ -1388,6 +1413,7 @@
 1. Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.
 2. Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).
 3. Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).
+4. Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc. 
 <details>
 <summary>Đáp án:</summary>
 3. Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).
@@ -1397,9 +1423,10 @@
 1. Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.
 2. Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).
 3. Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).
+4. Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc. 
 <details>
 <summary>Đáp án:</summary>
-1. Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.
+4. Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc. 
 </details>
 
 ## CÂU 157. Khi tham gia giao thông trên đường bộ (trừ đường cao tốc), loại xe nào dưới đây được tham gia giao thông với tốc độ khai thác tối đa cho phép là 50 km/h?
@@ -1408,7 +1435,7 @@
 3. Xe chở hàng bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động.
 <details>
 <summary>Đáp án:</summary>
-1. Xe máy chuyên dùng, xe gắn máy và các loại xe tương tự.
+3. Xe chở hàng bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động.
 </details>
 
 ## CÂU 158. Khi tham gia giao thông trên đoạn đường không có biển báo "Cự ly tối thiểu giữa hai xe", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ từ trên 80 km/h đến 100 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?
@@ -1417,7 +1444,7 @@
 3. 70 m.
 <details>
 <summary>Đáp án:</summary>
-2. 55 m.
+3. 70 m.
 </details>
 
 ## CÂU 159. Khi tham gia giao thông trên đoạn đường không có biển báo "cự ly tối thiểu giữa hai xe", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ từ trên 100 km/h đến 120 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?
@@ -1430,12 +1457,12 @@
 </details>
 
 ## CÂU 160. Khi tham gia giao thông trên đoạn đường không có biển báo "cự ly tối thiểu giữa hai xe", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ từ trên 60 km/h đến 80 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?
-1. 55 m.
-2. 70 m.
-3. 35 m.
+1. 55 m. 
+2. 70 m. 
+3. 100 m. 
 <details>
 <summary>Đáp án:</summary>
-3. 35 m.
+3. 55 m.
 </details>
 
 ## CÂU 161. Khi tham gia giao thông trên đoạn đường không có biển báo "cự ly tối thiểu giữa hai xe", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ 60 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?
@@ -1478,9 +1505,10 @@
 1. Tại nơi có vạch kẻ đường hoặc báo hiệu khác dành cho người đi bộ hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường.
 2. Nơi đường bộ giao nhau cùng mức với đường bộ, đường bộ giao nhau cùng mức với đường sắt; đường hẹp, đường vòng, đường quanh co, đường đèo, dốc.
 3. Khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung đông người, khu vực đông dân cư, chợ, khu vực đang thi công trên đường bộ, hiện trường vụ tai nạn giao thông đường bộ.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-1. Tại nơi có vạch kẻ đường hoặc báo hiệu khác dành cho người đi bộ hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 166. Tại những đoạn đường không bố trí biển báo hạn chế tốc độ, không bố trí biển báo khoảng cách an toàn tối thiểu giữa hai xe, người lái xe phải thực hiện quy định nào dưới đây để bảo đảm an toàn?
@@ -1512,15 +1540,17 @@
 1. Vận chuyển hàng hóa cấm lưu hành.
 2. Vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định của pháp luật về vận chuyển hàng hóa nguy hiểm.
 3. Vận chuyển động vật hoang dã.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-1. Vận chuyển hàng hóa cấm lưu hành.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 170. Trong hoạt động vận tải hành khách, những hành vi nào dưới đây bị nghiêm cấm?
 1. Cạnh tranh nhau nhằm tăng lợi nhuận.
 2. Giảm giá để thu hút khách.
 3. Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; đe doạ, cưỡng ép hành khách sử dụng dịch vụ ngoài ý muốn; chuyển tải, xuống khách hoặc các hành vi khác nhằm trốn tránh phát hiện xe chở quá tải, quá số người theo quy định của pháp luật.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
 3. Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; đe doạ, cưỡng ép hành khách sử dụng dịch vụ ngoài ý muốn; chuyển tải, xuống khách hoặc các hành vi khác nhằm trốn tránh phát hiện xe chở quá tải, quá số người theo quy định của pháp luật.
@@ -1548,27 +1578,30 @@
 1. Kiểm tra các điều kiện bảo đảm an toàn của xe.
 2. Hướng dẫn cho hành khách về an toàn giao thông đường bộ và thoát hiểm khi gặp sự cố.
 3. Kiểm tra nhân thân và hành lý của hành khách đi xe.
+4. Ý 1 và ý 2. 
 <details>
 <summary>Đáp án:</summary>
-1. Kiểm tra các điều kiện bảo đảm an toàn của xe.
+4. Ý 1 và ý 2. 
 </details>
 
 ## CÂU 174. Xe ô tô kinh doanh vận tải chở trẻ em mầm non, học sinh phải đáp ứng các yêu cầu nào dưới đây?
 1. Có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh và thiết bị có chức năng cảnh báo, chống bỏ quên trẻ em trên xe; có niên hạn sử dụng không quá 20 năm; có màu sơn theo quy định của Chính phủ.
 2. Có dây đai an toàn phù hợp với lứa tuổi hoặc sử dụng xe có ghế ngồi phù hợp với lứa tuổi theo quy định của pháp luật.
 3. Được cấp chứng nhận đăng kí xe và gắn biển số xe, bảo đảm an toàn kĩ thuật và bảo vệ môi trường theo quy định của pháp luật; xe ô tô chở người từ 08 chỗ trở lên (không kể chỗ của người lái xe) phải lắp thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-1. Có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh và thiết bị có chức năng cảnh báo, chống bỏ quên trẻ em trên xe; có niên hạn sử dụng không quá 20 năm; có màu sơn theo quy định của Chính phủ.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 175. Việc vận chuyển động vật sống khi tham gia giao thông đường bộ phải thực hiện các yêu cầu nào dưới đây?
 1. Người lái xe phải mang đủ giấy tờ theo quy định của pháp luật.
 2. Phương tiện vận chuyển phải có kết cấu phù hợp với loại động vật chuyên chở.
 3. Trong quá trình vận chuyển phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ, vệ sinh dịch tễ, phòng dịch và bảo đảm vệ sinh môi trường.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-1. Người lái xe phải mang đủ giấy tờ theo quy định của pháp luật.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 176. Việc vận chuyển hàng hóa nguy hiểm khi tham gia giao thông đường bộ phải chấp hành các quy định nào dưới đây?
@@ -1583,9 +1616,10 @@
 1. Phải chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng theo điều ước quốc tế đó.
 2. Tham gia giao thông đúng trong phạm vi, tuyến đường, thời gian đã được cơ quan có thẩm quyền của Việt Nam cấp phép.
 3. Xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải phải đi theo đoàn và có người, phương tiện hỗ trợ, hướng dẫn giao thông.
+4. Cả ba ý trên. 
 <details>
 <summary>Đáp án:</summary>
-1. Phải chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng theo điều ước quốc tế đó.
+4. Cả ba ý trên. 
 </details>
 
 ## CÂU 178. Việc sử dụng xe mô tô, xe gắn máy, xe thô sơ để vận chuyển hành khách, hàng hóa phải thực hiện các quy định nào dưới đây để đảm bảo an toàn giao thông?
