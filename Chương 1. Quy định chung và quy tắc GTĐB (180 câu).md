@@ -41,7 +41,7 @@
 4. Cả ba ý trên.
 <details>
 <summary>Đáp án:</summary>
-1. Là báo hiệu cho người tham gia giao thông đường bộ về các thông tin của đường bộ.
+2. Là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.
 </details>
 
 ## CÂU 6. Người điều khiển phương tiện tham gia giao thông đường bộ được hiểu như thế nào là đúng?
@@ -313,7 +313,7 @@
 4. Cả ba ý trên.
 <details>
 <summary>Đáp án:</summary>
-1. Trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi ảnh hưởng đến an toàn giao thông đường bộ.
+4. Cả ba ý trên.
 </details>
 
 ## CÂU 36. Khi gặp hiệu lệnh điều khiển của Cảnh sát giao thông như hình dưới đây thì người tham gia giao thông đường bộ phải đi như thế nào là đúng quy tắc giao thông?
@@ -322,8 +322,10 @@
 1. Người tham gia giao thông đường bộ ở các hướng phải dừng lại.
 2. Người tham gia giao thông đường bộ ở các hướng được đi theo chiều gậy chỉ của Cảnh sát giao thông.
 3. Người tham gia giao thông đường bộ ở phía trước và phía sau người điều khiển được đi tất cả các hướng; người tham gia giao thông đường bộ ở phía bên phải và phía bên trái người điều khiển phải dừng lại.
+4. Người tham gia giao thông đường bộ ở phía trước và phía sau người điều khiển phải dừng lại; người tham gia giao thông đường bộ ở phía bên phải và phía bên trái người điều khiển được đi tất cả các hướng.
 <details>
 <summary>Đáp án:</summary>
+4. Người tham gia giao thông đường bộ ở phía trước và phía sau người điều khiển phải dừng lại; người tham gia giao thông đường bộ ở phía bên phải và phía bên trái người điều khiển được đi tất cả các hướng.
 </details>
 
 ## CÂU 37. Khi gặp hiệu lệnh điều khiển của Cảnh sát giao thông như hình dưới đây thì người tham gia giao thông đường bộ phải đi như thế nào là đúng quy tắc giao thông?
@@ -332,8 +334,10 @@
 1. Người tham gia giao thông đường bộ ở phía sau Cảnh sát giao thông được đi, các hướng khác phải dừng lại.
 2. Người tham gia giao thông đường bộ được rẽ phải theo chiều mũi tên màu xanh ở bục Cảnh sát giao thông.
 3. Người tham gia giao thông đường bộ ở tất cả các hướng phải dừng lại, trừ các xe đã ở trong khu vực giao nhau.
+4. Người tham gia giao thông đường bộ ở phía trước Cảnh sát phải dừng lại, các hướng khác được đi.
 <details>
 <summary>Đáp án:</summary>
+3. Người tham gia giao thông đường bộ ở tất cả các hướng phải dừng lại, trừ các xe đã ở trong khu vực giao nhau.
 </details>
 
 ## CÂU 38. Khi hiệu lệnh của người điều khiển giao thông trái với tín hiệu đèn giao thông hoặc biển báo hiệu đường bộ thì người tham gia giao thông đường bộ phải chấp hành báo hiệu đường bộ nào dưới đây?
@@ -395,7 +399,7 @@
 3. Đi ở bất cứ làn nào nhưng phải bảo đảm tốc độ cho phép.
 <details>
 <summary>Đáp án:</summary>
-1. Đi trên làn đường bên phải trong cùng.
+2. Đi trên làn đường bên trái.
 </details>
 
 ## CÂU 45. Người lái xe phải giảm tốc độ, có tín hiệu rẽ phải và đi sát về bên phải của phần đường xe chạy trong các trường hợp nào dưới đây?
@@ -498,9 +502,10 @@
 1. Phải quan sát, bảo đảm khoảng cách an toàn với xe phía sau.
 2. Giảm tốc độ và có tín hiệu báo hướng rẽ.
 3. Chuyển dần sang làn gần nhất với hướng rẽ. Khi bảo đảm an toàn, không gây trở ngại cho người và phương tiện khác mới được chuyển hướng.
+4. Cả 3 ý trên
 <details>
 <summary>Đáp án:</summary>
-3. Chuyển dần sang làn gần nhất với hướng rẽ. Khi bảo đảm an toàn, không gây trở ngại cho người và phương tiện khác mới được chuyển hướng.
+4. Cả 3 ý trên
 </details>
 
 ## CÂU 57. Khi chuyển làn đường, người lái xe phải bật đèn tín hiệu báo rẽ như thế nào là đúng quy tắc giao thông?
@@ -516,9 +521,10 @@
 1. Ở đường một chiều, khu vực cấm dừng, trên phần đường dành cho người đi bộ qua đường.
 2. Nơi đường bộ giao nhau, đường bộ giao nhau cùng mức với đường sắt.
 3. Nơi tầm nhìn bị che khuất, trong hầm đường bộ, trên đường cao tốc.
+4. Cả 3 ý trên
 <details>
 <summary>Đáp án:</summary>
-3. Nơi tầm nhìn bị che khuất, trong hầm đường bộ, trên đường cao tốc.
+4. Cả 3 ý trên
 </details>
 
 ## CÂU 59. Người điều khiển phương tiện tham gia giao thông không được dừng xe, đỗ xe ở những vị trí nào sau đây?
