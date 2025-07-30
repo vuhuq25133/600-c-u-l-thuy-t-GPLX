@@ -1,61 +1,61 @@
 # 60 câu điểm liệt
-⚠️ ***CÂU 19. Hành vi nào dưới đây bị nghiêm cấm?***
-⚠️ ***CÂU 20. Hành vi đưa xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ nào dưới đây bị cấm?***
-⚠️ ***CÂU 21. Tổ chức đua xe được phép thực hiện khi nào?***
-⚠️ ***CÂU 22. Hành vi đua xe trái phép bị xử lý như thế nào?***
-⚠️ ***CÂU 23. Hành vi của người điều khiển xe ô tô và các loại xe tương tự khi tham gia giao thông đường bộ mà trong cơ thể có chất ma túy thì bị áp dụng hình thức xử phạt vi phạm hành chính nào dưới đây?***
-⚠️ ***CÂU 24. Người điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn có bị nghiêm cấm không?***
-⚠️ ***CÂU 25. Hành vi của người điều khiển xe ô tô và các loại xe tương tự khi tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn thì bị áp dụng hình thức xử phạt vi phạm hành chính nào dưới đây?***
-⚠️ ***CÂU 26. Theo Luật Phòng chống tác hại của rượu, bia, đối tượng nào dưới đây bị cấm sử dụng rượu, bia khi tham gia giao thông?***
-⚠️ ***CÂU 27. Hành vi giao xe ô tô, mô tô cho người nào sau đây tham gia giao thông đường bộ bị nghiêm cấm?***
-⚠️ ***CÂU 28. Hành vi nào sau đây bị nghiêm cấm?***
-⚠️ ***CÂU 30. Hành vi nào sau đây bị cấm?***
-⚠️ ***CÂU 32. Khi điều khiển phương tiện tham gia giao thông, những hành vi nào dưới đây bị nghiêm cấm?***
-⚠️ ***CÂU 34. Tại nơi có vạch kẻ đường hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường, người điều khiển phương tiện tham gia giao thông phải thực hiện như thế nào?***
-⚠️ ***CÂU 35. Người điều khiển xe mô tô phải phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp nào dưới đây?***
-⚠️ ***CÂU 47. Người lái xe được phép vượt xe trên cầu hẹp có một làn đường, đường cong có tầm nhìn bị hạn chế hay không?***
-⚠️ ***CÂU 48. Muốn vượt xe phía trước, người lái xe mô tô phải có tín hiệu như thế nào dưới đây để bảo đảm an toàn?***
-⚠️ ***CÂU 52. Khi điều khiển phương tiện tham gia giao thông, hành vi nào sau đây bị cấm?***
-⚠️ ***CÂU 53. Người lái xe không được vượt xe khác khi gặp trường hợp nào dưới đây?***
-⚠️ ***CÂU 55. Người lái xe không được quay đầu xe trong các trường hợp nào dưới đây?***
-⚠️ ***CÂU 58. Người lái xe không được lùi xe ở những khu vực nào dưới đây?***
-⚠️ ***CÂU 63. Người điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?***
-⚠️ ***CÂU 64. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào sau đây không được phép?***
-⚠️ ***CÂU 65. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào sau đây không được phép?***
-⚠️ ***CÂU 66. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ không được thực hiện hành vi nào sau đây?***
-⚠️ ***CÂU 67. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ có được bám, kéo hoặc đẩy các phương tiện khác không?***
-⚠️ ***CÂU 68. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải thực hiện quy định nào dưới đây?***
-⚠️ ***CÂU 70. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi nào dưới đây?***
-⚠️ ***CÂU 71. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi nào sau đây?***
-⚠️ ***CÂU 72. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện hành vi nào sau đây?***
-⚠️ ***CÂU 73. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ có được sử dụng ô khi trời mưa hay không?***
-⚠️ ***CÂU 74. Người được chở trên xe mô tô có được kéo theo người đang điều khiển xe đạp hay không?***
-⚠️ ***CÂU 85. Khi lùi xe, người điều khiển phương tiện tham gia giao thông đường bộ phải làm gì để bảo đảm an toàn?***
-⚠️ ***CÂU 86. Khi muốn lùi xe ở nơi có tầm nhìn bị che khuất, người lái xe phải xử lý như thế nào để đảm bảo an toàn?***
-⚠️ ***CÂU 87. Trên đường không phân chia thành hai chiều xe chạy riêng biệt, người điều khiển phương tiện tham gia giao thông đường bộ phải tránh xe đi ngược chiều như thế nào để bảo đảm an toàn?***
-⚠️ ***CÂU 88. Khi tránh xe đi ngược chiều, các xe phải nhường đường như thế nào là đúng quy tắc giao thông?***
-⚠️ ***CÂU 89. Khi đang lái xe xuống dốc gặp một xe đang đi lên dốc, người lái xe phải làm gì?***
-⚠️ ***CÂU 90. Người lái xe phải làm gì để bảo đảm an toàn khi lái xe trên đường cong có tầm nhìn bị hạn chế?***
-⚠️ ***CÂU 91. Tại nơi đường giao nhau, người lái xe đang đi trên đường không ưu tiên, đường nhánh phải nhường đường như thế nào là đúng quy tắc giao thông?***
-⚠️ ***CÂU 92. Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, người lái xe phải nhường đường như thế nào là đúng quy tắc giao thông?***
-⚠️ ***CÂU 93. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông?***
-⚠️ ***CÂU 97. Khi đang lái xe, phía trước có một xe Cảnh sát giao thông không phát tín hiệu ưu tiên, người lái xe có được phép vượt hay không?***
-⚠️ ***CÂU 98. Khi đang lái xe, phía trước có một xe cứu thương đang phát tín hiệu ưu tiên, người lái xe có được phép vượt hay không?***
-⚠️ ***CÂU 102. Người tham gia giao thông đường bộ phải dừng lại về bên phải đường của mình trước vạch dừng xe tại đường ngang, cầu chung đường sắt khi có báo hiệu nào dưới đây?***
-⚠️ ***CÂU 117. Khi chuẩn bị nhập vào làn đường của đường cao tốc, người lái xe, người điều khiển xe máy chuyên dùng phải thực hiện như thế nào là đúng quy tắc giao thông?***
-⚠️ ***CÂU 163. Người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức cần thiết, chú ý quan sát và chuẩn bị sẵn sàng những tình huống có thể xảy ra để phòng ngừa tai nạn trong các trường hợp nào dưới đây?***
-⚠️ ***CÂU 165. Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp nào dưới đây?***
-⚠️ ***CÂU 167. Khi gặp xe buýt đang dừng đón, trả khách, người điều khiển xe mô tô phải xử lý như thế nào dưới đây?***
-⚠️ ***CÂU 197. Hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông có bị nghiêm cấm hay không?***
-⚠️ ***CÂU 198. Khi đang lái xe, thấy một người đi bộ đang sang đường trên vạch kẻ đường dành cho người đi bộ, người lái xe nên làm gì?***
-⚠️ ***CÂU 206. Khi điều khiển xe mô tô tay ga xuống đường dốc dài, độ dốc cao, người lái xe cần thực hiện các thao tác nào dưới đây để bảo đảm an toàn?***
-⚠️ ***CÂU 215. Khi điều khiển xe trên đường vòng người lái xe cần phải làm gì để bảo đảm an toàn?***
-⚠️ ***CÂU 226. Khi điều khiển xe ô tô trên đường trơn cần chú ý những điểm gì để bảo đảm an toàn?***
-⚠️ ***CÂU 234. Khi đã đỗ xe ô tô sát lề đường bên phải, người lái xe phải thực hiện các thao tác nào dưới đây khi mở cửa xuống xe để đảm bảo an toàn?***
-⚠️ ***CÂU 245. Điều khiển xe ô tô trong trời mưa, người lái xe phải xử lý như thế nào để bảo đảm an toàn?***
-⚠️ ***CÂU 246. Khi lùi xe, người lái xe phải xử lý như thế nào để bảo đảm an toàn giao thông?***
-⚠️ ***CÂU 252. Khi điều khiển xe ô tô xuống đường dốc dài, độ dốc cao, người lái xe số tự động cần thực hiện các thao tác nào dưới đây để bảo đảm an toàn?***
-⚠️ ***CÂU 253. Khi đi từ đường nhánh ra đường chính, người lái xe phải xử lý như thế nào là đúng?***
-⚠️ ***CÂU 254. Khi đang lái xe mô tô hoặc ô tô, nếu có nhu cầu sử dụng điện thoại để nhắn tin hoặc gọi điện, người lái xe phải thực hiện như thế nào trong các tình huống nêu dưới đây?***
-⚠️ ***CÂU 255. Những thói quen nào dưới đây khi điều khiển xe mô tô tay ga tham gia giao thông dễ gây tai nạn nguy hiểm?***
-⚠️ ***CÂU 260. Để bảo đảm an toàn khi tham gia giao thông, người lái xe mô tô hai bánh cần điều khiển tay ga như thế nào?***
+- ⚠️ ***CÂU 19. Hành vi nào dưới đây bị nghiêm cấm?***
+- ⚠️ ***CÂU 20. Hành vi đưa xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ nào dưới đây bị cấm?***
+- ⚠️ ***CÂU 21. Tổ chức đua xe được phép thực hiện khi nào?***
+- ⚠️ ***CÂU 22. Hành vi đua xe trái phép bị xử lý như thế nào?***
+- ⚠️ ***CÂU 23. Hành vi của người điều khiển xe ô tô và các loại xe tương tự khi tham gia giao thông đường bộ mà trong cơ thể có chất ma túy thì bị áp dụng hình thức xử phạt vi phạm hành chính nào dưới đây?***
+- ⚠️ ***CÂU 24. Người điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn có bị nghiêm cấm không?***
+- ⚠️ ***CÂU 25. Hành vi của người điều khiển xe ô tô và các loại xe tương tự khi tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn thì bị áp dụng hình thức xử phạt vi phạm hành chính nào dưới đây?***
+- ⚠️ ***CÂU 26. Theo Luật Phòng chống tác hại của rượu, bia, đối tượng nào dưới đây bị cấm sử dụng rượu, bia khi tham gia giao thông?***
+- ⚠️ ***CÂU 27. Hành vi giao xe ô tô, mô tô cho người nào sau đây tham gia giao thông đường bộ bị nghiêm cấm?***
+- ⚠️ ***CÂU 28. Hành vi nào sau đây bị nghiêm cấm?***
+- ⚠️ ***CÂU 30. Hành vi nào sau đây bị cấm?***
+- ⚠️ ***CÂU 32. Khi điều khiển phương tiện tham gia giao thông, những hành vi nào dưới đây bị nghiêm cấm?***
+- ⚠️ ***CÂU 34. Tại nơi có vạch kẻ đường hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường, người điều khiển phương tiện tham gia giao thông phải thực hiện như thế nào?***
+- ⚠️ ***CÂU 35. Người điều khiển xe mô tô phải phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp nào dưới đây?***
+- ⚠️ ***CÂU 47. Người lái xe được phép vượt xe trên cầu hẹp có một làn đường, đường cong có tầm nhìn bị hạn chế hay không?***
+- ⚠️ ***CÂU 48. Muốn vượt xe phía trước, người lái xe mô tô phải có tín hiệu như thế nào dưới đây để bảo đảm an toàn?***
+- ⚠️ ***CÂU 52. Khi điều khiển phương tiện tham gia giao thông, hành vi nào sau đây bị cấm?***
+- ⚠️ ***CÂU 53. Người lái xe không được vượt xe khác khi gặp trường hợp nào dưới đây?***
+- ⚠️ ***CÂU 55. Người lái xe không được quay đầu xe trong các trường hợp nào dưới đây?***
+- ⚠️ ***CÂU 58. Người lái xe không được lùi xe ở những khu vực nào dưới đây?***
+- ⚠️ ***CÂU 63. Người điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?***
+- ⚠️ ***CÂU 64. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào sau đây không được phép?***
+- ⚠️ ***CÂU 65. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào sau đây không được phép?***
+- ⚠️ ***CÂU 66. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ không được thực hiện hành vi nào sau đây?***
+- ⚠️ ***CÂU 67. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ có được bám, kéo hoặc đẩy các phương tiện khác không?***
+- ⚠️ ***CÂU 68. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải thực hiện quy định nào dưới đây?***
+- ⚠️ ***CÂU 70. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi nào dưới đây?***
+- ⚠️ ***CÂU 71. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi nào sau đây?***
+- ⚠️ ***CÂU 72. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện hành vi nào sau đây?***
+- ⚠️ ***CÂU 73. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ có được sử dụng ô khi trời mưa hay không?***
+- ⚠️ ***CÂU 74. Người được chở trên xe mô tô có được kéo theo người đang điều khiển xe đạp hay không?***
+- ⚠️ ***CÂU 85. Khi lùi xe, người điều khiển phương tiện tham gia giao thông đường bộ phải làm gì để bảo đảm an toàn?***
+- ⚠️ ***CÂU 86. Khi muốn lùi xe ở nơi có tầm nhìn bị che khuất, người lái xe phải xử lý như thế nào để đảm bảo an toàn?***
+- ⚠️ ***CÂU 87. Trên đường không phân chia thành hai chiều xe chạy riêng biệt, người điều khiển phương tiện tham gia giao thông đường bộ phải tránh xe đi ngược chiều như thế nào để bảo đảm an toàn?***
+- ⚠️ ***CÂU 88. Khi tránh xe đi ngược chiều, các xe phải nhường đường như thế nào là đúng quy tắc giao thông?***
+- ⚠️ ***CÂU 89. Khi đang lái xe xuống dốc gặp một xe đang đi lên dốc, người lái xe phải làm gì?***
+- ⚠️ ***CÂU 90. Người lái xe phải làm gì để bảo đảm an toàn khi lái xe trên đường cong có tầm nhìn bị hạn chế?***
+- ⚠️ ***CÂU 91. Tại nơi đường giao nhau, người lái xe đang đi trên đường không ưu tiên, đường nhánh phải nhường đường như thế nào là đúng quy tắc giao thông?***
+- ⚠️ ***CÂU 92. Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, người lái xe phải nhường đường như thế nào là đúng quy tắc giao thông?***
+- ⚠️ ***CÂU 93. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông?***
+- ⚠️ ***CÂU 97. Khi đang lái xe, phía trước có một xe Cảnh sát giao thông không phát tín hiệu ưu tiên, người lái xe có được phép vượt hay không?***
+- ⚠️ ***CÂU 98. Khi đang lái xe, phía trước có một xe cứu thương đang phát tín hiệu ưu tiên, người lái xe có được phép vượt hay không?***
+- ⚠️ ***CÂU 102. Người tham gia giao thông đường bộ phải dừng lại về bên phải đường của mình trước vạch dừng xe tại đường ngang, cầu chung đường sắt khi có báo hiệu nào dưới đây?***
+- ⚠️ ***CÂU 117. Khi chuẩn bị nhập vào làn đường của đường cao tốc, người lái xe, người điều khiển xe máy chuyên dùng phải thực hiện như thế nào là đúng quy tắc giao thông?***
+- ⚠️ ***CÂU 163. Người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức cần thiết, chú ý quan sát và chuẩn bị sẵn sàng những tình huống có thể xảy ra để phòng ngừa tai nạn trong các trường hợp nào dưới đây?***
+- ⚠️ ***CÂU 165. Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp nào dưới đây?***
+- ⚠️ ***CÂU 167. Khi gặp xe buýt đang dừng đón, trả khách, người điều khiển xe mô tô phải xử lý như thế nào dưới đây?***
+- ⚠️ ***CÂU 197. Hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông có bị nghiêm cấm hay không?***
+- ⚠️ ***CÂU 198. Khi đang lái xe, thấy một người đi bộ đang sang đường trên vạch kẻ đường dành cho người đi bộ, người lái xe nên làm gì?***
+- ⚠️ ***CÂU 206. Khi điều khiển xe mô tô tay ga xuống đường dốc dài, độ dốc cao, người lái xe cần thực hiện các thao tác nào dưới đây để bảo đảm an toàn?***
+- ⚠️ ***CÂU 215. Khi điều khiển xe trên đường vòng người lái xe cần phải làm gì để bảo đảm an toàn?***
+- ⚠️ ***CÂU 226. Khi điều khiển xe ô tô trên đường trơn cần chú ý những điểm gì để bảo đảm an toàn?***
+- ⚠️ ***CÂU 234. Khi đã đỗ xe ô tô sát lề đường bên phải, người lái xe phải thực hiện các thao tác nào dưới đây khi mở cửa xuống xe để đảm bảo an toàn?***
+- ⚠️ ***CÂU 245. Điều khiển xe ô tô trong trời mưa, người lái xe phải xử lý như thế nào để bảo đảm an toàn?***
+- ⚠️ ***CÂU 246. Khi lùi xe, người lái xe phải xử lý như thế nào để bảo đảm an toàn giao thông?***
+- ⚠️ ***CÂU 252. Khi điều khiển xe ô tô xuống đường dốc dài, độ dốc cao, người lái xe số tự động cần thực hiện các thao tác nào dưới đây để bảo đảm an toàn?***
+- ⚠️ ***CÂU 253. Khi đi từ đường nhánh ra đường chính, người lái xe phải xử lý như thế nào là đúng?***
+- ⚠️ ***CÂU 254. Khi đang lái xe mô tô hoặc ô tô, nếu có nhu cầu sử dụng điện thoại để nhắn tin hoặc gọi điện, người lái xe phải thực hiện như thế nào trong các tình huống nêu dưới đây?***
+- ⚠️ ***CÂU 255. Những thói quen nào dưới đây khi điều khiển xe mô tô tay ga tham gia giao thông dễ gây tai nạn nguy hiểm?***
+- ⚠️ ***CÂU 260. Để bảo đảm an toàn khi tham gia giao thông, người lái xe mô tô hai bánh cần điều khiển tay ga như thế nào?***
