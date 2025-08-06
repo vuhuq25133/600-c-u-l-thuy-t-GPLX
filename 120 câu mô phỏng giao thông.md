@@ -235,100 +235,114 @@
 # Chương 2: Giao thông trên đường nông thôn
 
 ## Tình huống 30: Xe gặp đàn bò đứng trên đường nông thôn
-**SPACE khi:** 
+**SPACE khi:** sau khi qua biển cảnh báo và con bò gần nhất bên phải BẮT ĐẦU XUẤT HIỆN
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c2825f07-0309-4924-bf66-3bc21c2d9522" />
 
 </details>
 
 ## Tình huống 31: Gặp đàn bò từ vệ đường băng qua đường nông thôn
-**SPACE khi:** 
+**SPACE khi:** Đi qua biển cảnh báo và **ĐỐNG RƠM NẰM GIỮA MÉP PHẢI KÍNH Ô TÔ**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5bd64e7f-2e45-4f00-885f-545708c3f014" />
 
 </details>
 
 ## Tình huống 32: Người đi bộ băng qua đường ngay trước, trời tối
-**SPACE khi:** 
+**SPACE khi:** Đi qua biển cảnh báo, đi qua cổng nhà màu đỏ và **NGAY KHI ĐÈN CHIẾU HẾT CỘT CỦA NHÀ ĐÓ/ ĐI VỪA HẾT NHÀ ĐÓ**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/90c393ca-ec5d-44e0-834b-717e46155632" />
 
 </details>
 
 ## Tình huống 33: Học sinh ra đường tại khu gần trường học
-**SPACE khi:** 
+**SPACE khi:** NGAY KHI người đi bộ đi đến **GIỮA CỦA CỘT CỔNG TRƯỜNG BÊN TRÁI**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e5f32955-8035-4810-a433-9118065956e3" />
 
 </details>
 
 ## Tình huống 34: Xe khách tại đoạn đường cong vào cua chiếm hết làn đường
-**SPACE khi:** 
+**SPACE khi:** đi qua biển báo và xe khách **XUẤT HIỆN GẦN NHƯ LÀ ĐẦY ĐỦ**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d0e23f63-e097-45d6-bd6d-51c6a510b7e2" />
 
 </details>
 
 ## Tình huống 35: Xe khách ở trước đột ngột phanh tránh xe đối diện 
-**SPACE khi:** 
+**SPACE khi:** Từ lúc xe tải đứng giữa tường và xe khách như ảnh cho đến khi xe khách phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a2fede74-a53f-4077-92ac-63890355ad0c" />
 
 </details>
 
 ## Tình huống 36: Xe máy đi ra từ ngõ phải ở nông thôn
-**SPACE khi:** 
+**SPACE khi:** Xe máy bên phải xuất hiện từ tường trong của nhà
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d32797e9-2582-489d-a026-f8ee8464b1ba" />
 
 </details>
 
 ## Tình huống 37: Nhóm xe đạp đi ra từ ngõ phải ở nông thôn
-**SPACE khi:** 
+**SPACE khi:** nhóm xe đạp bên phải xuất hiện từ tường trong nhà
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/72e765b3-671f-4b7b-9be1-8ceaa3ade651" />
 
 </details>
 
 ## Tình huống 38: Xe tải ngược chiều bật pha làm 2 xe máy ở trước giảm tốc
-**SPACE khi:** 
+**SPACE khi:** Ngay khi 2 xe máy phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/80156f7e-3c6a-4cdd-b27b-e6ca3bb69344" />
 
 </details>
 
 ## Tình huống 39: Xe tải từ nhánh nhập làn nguy hiểm
-**SPACE khi:** 
+**SPACE khi:** ngay lúc bánh xe tải chạm vạch nhập làn mình chạy
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5ee70028-b3f0-4c17-ab1b-b395b8e6b9c3" />
 
 </details>
 
-## Tình huống 40: Moto phía sau lấn làn vượt ô tô đang dừng đỗ
-**SPACE khi:** 
+## Tình huống 40: Sau Cổng làng, Moto phía sau lấn làn vượt ô tô đang dừng đỗ
+**SPACE khi:** Ngay khi đi qua cổng làng, để ý moto vượt sau xe ô tô đen đang đỗ
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e5c6833d-c658-4a81-ae1e-ef2c62afd9ca" />
 
 </details>
 
 ## Tình huống 41: Xe làn đối diện rẽ nhánh cắt đầu xe tại ngã 3
-**SPACE khi:** 
+**SPACE khi:** Ngay khi xe đối diện xi nhan và đè lên vạch đi bộ
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e0f1816a-5c3e-4ee0-ba42-73bade7636ce" />
 
 </details>
 
 ## Tình huống 42: Ngã 4 đèn xanh, xe bắt đầu di chuyển thì có moto rẽ cắt ngang đầu xe
-**SPACE khi:** 
+**SPACE khi:** Ngay khi xe moto đỏ ở sát bên phải của đèn giao thông
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/81d7b029-b64b-45c3-b120-af6ab2267578" />
 
 </details>
 
 ## Tình huống 43: Trời mưa, xe con giảm tốc để tránh xe tải chuyển làn đột ngột tránh chướng ngại phía trước
-**SPACE khi:** 
+**SPACE khi:** Ngay khi xe tải bắt đầu xi nhan sang làn trái (**LƯU Ý KHÔNG PHẢI ĐỂ Ý XE TRƯỚC MẶT PHANH MỚI BẤM**)
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ae28ff15-3f81-4471-ada5-98e96df2ae9e" />
 
 </details>
 
@@ -931,5 +945,6 @@
 
 
 </details>
+
 
 
