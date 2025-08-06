@@ -1,0 +1,903 @@
+# Chương 1: Giao thông trên đường đô thị
+
+## Tình huống 1: Người đi bộ sang đường khuất sau xe tải
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 2: Người đi bộ vượt đèn đỏ sang đường
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 3: Xe trước phanh gấp tránh bus đang dừng tại bến xe
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 4: Xe con từ nhánh đi nhanh ra tại ngã 3 không có đèn giao thông
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 5: Xe máy đột ngột rẽ trái sang đường trước mặt
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 6: Xe bus lấn làn để vượt tại ngã 3
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 7: Xe trước phanh gấp tránh người đi bộ sang đường
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 8: Xe đạp bất ngờ đi ra từ nhánh tại ngã 3
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 9: Ô tô làn đối diện lấn làn vượt xe tải đang dừng đỗ tại khu đông đúc
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 10: Ô tô bất ngờ đi nhanh ra từ nhánh trái tại ngã 3
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 11: Xe bồn từ nhánh lấn làn để rẽ tại ngã 3 không có đèn giao thông
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 12: Moto lấn làn vượt ẩu tại giao lộ
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 13: Xe đạp từ vỉa hè bất ngờ xuống để sang đường
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 14: Gặp xe tải lớn đi qua hầm chui dân sinh
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 15: Xe trước phanh gấp để tránh xe rẽ trái tại ngã 3
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 16: Ô tô từ nhánh trái bất ngờ đi nhanh ra, có nguy cơ va chạm
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 17: Bus lấn làn vượt ẩu tại ngã 4 có đèn giao thông
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 18: Tài xế dừng đỗ ven đường đột ngột mở cửa xe
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 19: Tài xế dừng ven đường đang mở cửa xe
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 20: Tài xế đang đỗ ven đường đi ra mở cửa xe tại khu đường hẹp
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 21: Ô tô trước dừng lại, lùi vào đỗ tại khu đường hẹp
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 22: Ô tô đi nhanh ra từ nhánh phải tại ngã 3
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 23: Ô tô đối diện lấn làn vượt xe có tín hiệu dừng khẩn cấp
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 24: Xe tải đối diện lấn làn vượt xe rác
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 25: Xe khách từ nơi đỗ bất ngờ đi ra tại đường hẹp
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 26: Công trình sửa đường, tránh xe sau khúc cua
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 27: Xe khách bật đèn báo dừng giữa ngã 4 đón khách
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 28: Xe trước phanh gấp khi gặp vũng nước
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 29: Trời mưa, xe trước phanh gấp tránh moto tạt đầu khi gặp chướng ngại
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+# Chương 2: Giao thông trên đường nông thôn
+
+## Tình huống 30: Xe gặp đàn bò đứng trên đường nông thôn
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 31: Gặp đàn bò từ vệ đường băng qua đường nông thôn
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 32: Người đi bộ băng qua đường ngay trước, trời tối
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 33: Học sinh ra đường tại khu gần trường học
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 34: Xe khách tại đoạn đường cong vào cua chiếm hết làn đường
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 35: Xe khách ở trước đột ngột phanh tránh xe đối diện 
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 36: Xe máy đi ra từ ngõ phải ở nông thôn
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 37: Nhóm xe đạp đi ra từ ngõ phải ở nông thôn
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 38: Xe tải ngược chiều bật pha làm 2 xe máy ở trước giảm tốc
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 39: Xe tải từ nhánh nhập làn nguy hiểm
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 40: Moto phía sau lấn làn vượt ô tô đang dừng đỗ
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 41: Xe làn đối diện rẽ nhánh cắt đầu xe tại ngã 3
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 42: Ngã 4 đèn xanh, xe bắt đầu di chuyển thì có moto rẽ cắt ngang đầu xe
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 43: Trời mưa, xe con giảm tốc để tránh xe tải chuyển làn đột ngột tránh chướng ngại phía trước
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+# Chương 3: Giao thông trên đường cao tốc
+
+## Tình huống 44: Phía sau làn phải có xe con vượt lên và chuyển làn cắt ngang nguy hiểm trước mặt
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 45: Xe tải làn phải vượt lên và đột ngột chuyển làn sang giữa làm xe phía trước phanh gấp
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 46: Xe con làn bên trái vượt lên và chuyển làn phải cắt qua nguy hiểm trước đầu xe
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 47: Xe cấp cứu xin đường, xe con bên trái tăng tốc vượt lên và chuyển làn cắt qua đầu xe
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 48: Xe bạn có tín hiệu để chuyển làn trái thì có xe phía sau nháy pha liên tục để vượt
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 49: Xe trước phanh gấp do có xe tải tạt sang đột ngột vì gặp chướng ngại
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 50: Xe tải phía trước làn phải đột ngột tăng tốc và chuyển sang giữa làm xe con phía trước phanh gấp
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 51: Xe tải bật đèn cảnh báo đi ngược đường ở làn bên phải cao tốc
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 52: Qua đoạn đường cong đột nhiên có xe tải đi lùi trong làn khẩn cấp
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 53: Trên đường cao tốc ban đêm, đột nhiên có xe tải đi ngược chiều ở làn khẩn cấp
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 54: Xe tải từ đường nhánh nhập vào cao tốc với tốc độ cao
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 55: Cao tốc, xe tải đột ngột giảm tốc và chuyển sang làn xe bạn do gặp xe đang gặp sự cố trên đường
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 56: Xe con đang dừng ở làn khẩn cấp xi nhan nhập làn trước xe bạn
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 57: Xe con phía trước giảm tốc độ và chuyển sang làn xe bạn do gặp đoạn đường đang sửa chữa phía trước
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 58: Xe tải phía trước giảm tốc độ, chuyển sang làn giữa do gặp đoạn đường đang sửa chữa phía trước
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 59: Xe container đang đi từ làn trái chuyển ra đường nhánh cắt qua làn đường xe bạn
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 60: Xe 16 chỗ từ làn đường khẩn cấp đi ra vào làn xe bạn
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 61: Xe con từ đường nhánh nhập làn nguy hiểm cắt qua đầu xe bạn
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 62: Xe con đi ngược chiều nguy hiểm tại làn đường tốc độ cao nhất trên cao tốc
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 63: Đàn gia súc từ bên đường đi ra cắt qua làn đường xe bạn tại khu vực cao tốc bị hỏng hộ lan
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+# Chương 4: Giao thông trên đường núi
+
+## Tình huống 64: Phía đường cong xuất hiện xe tải đi đối diện làm xe khách phía trước giảm tốc độ đột ngột
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 65: Đường đèo dốc ban đêm gần đoạn đường cong, đột ngột tại khúc cua có xe khách lấn làn vượt xe tải lớn
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 66: Đi phía sau xe tải chở vật liệu không được chằng buộc cẩn thận
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 67: Xe ô tô phía trước phanh gấp do có động vật hoang dã đứng ven đường
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 68: Đường núi, sương mù, có đàn bò đứng sát đường ngay sau đoạn đường cong
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 69: Xe con vào cua lấn làn nguy hiểm va chạm với xe ngược chiều trên đường đồi núi
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 70: Xe khách lấn làn vượt xe container ngay tại khúc cua trên đường núi
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 71: Đường núi, trời mưa, xe phía trước đột ngột dừng lại vì hỏng máy
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 72: Xe tải lấn làn đường xe bạn để vượt các xe khác trên đường núi thời tiết sương mù
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 73: Xe con lấn làn xe bạn để vượt xe tải trên đường núi ngay tại đoạn đường quanh co
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+# Chương 5: Giao thông trên đường quốc lộ
+
+## Tình huống 74: Xe ô tô phía trước phanh gấp để tránh đoàn xe đạp từ đường nhánh đi ra
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 75: Trẻ em đột ngột lao ra để nhặt quả bóng bị lăn ra đường
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 76: Em bé đột ngột chạy ra đường
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 77: Xe con từ làn phải (khuất tầm nhìn) cắt ngang qua các xe đang đi thẳng để sang đường
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 78: Đèn vừa chuyển xanh, đột ngột xe mô-tô làn trái phía trước cố vượt đèn đỏ cắt qua trước đầu xe
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 79: Xe mô-tô đi ra từ đường nhánh nguy hiểm phía sau xe buýt vừa đi qua.
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 80: Xe mô tô vượt lên đột ngột giảm tốc và chuyển sang làn xe bạn để tránh chướng ngại vật trên đường
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 81: Xe bán tải từ đường bên kia quay đầu đột ngột lấn làn xe bạn
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 82: Xe bán tải từ đường bên kia quay đầu đột ngột lấn làn xe bạn
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 83: Xuất hiện gia súc từ vệ đường đi ra đường quốc lộ ngay trước mặt xe bạn
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 84: Xe con phía trước giảm tốc đột ngột và chuyển làn để tránh xe buýt đang dừng
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 85: Khúc gỗ trên xe tải phía trước bị rơi xuống do xe phanh gấp
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 86: Xe con đi phía trước giảm tốc và chuyển làn đột ngột để tránh chướng ngại vật
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 87: Đi qua chỗ giao cắt với đường sắt ban đêm, không có đèn tín hiệu, phía sau xe con, đột nhiên có tàu đi tới
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 88: Xe mô-tô phanh và chuyển làn để tránh xe buýt vào trả khách
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 89: Xe đạp từ bên kia đường đối diện băng qua đường không quan sát trước mặt xe bạn
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 90: Xe bán tải phía trước giảm tốc độ và chuyển làn khẩn cấp để tránh xe mô-tô đi ngược chiều
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+# Chương 6: Các tình huống tai nạn giao thông
+
+## Tình huống 91: [Tai nạn] Xe ô tô Innova lùi trên cao tốc Hà Nội - Thái Nguyên
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 92: [Tai nạn] Xe mô-tô lấn làn vượt ẩu trên đường núi, va chạm với xe khách đi ngược chiều
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 93: [Tai nạn] Xe mô-tô lấn làn vượt ẩu trên đường núi, va chạm với xe khách đi ngược chiều
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 94: [Tai nạn] Tai nạn liên hoàn giữa 3 xe khách do đâm vào xe đang dừng đỗ để sửa chữa
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 95: [Tai nạn] Tài xế giật mình đánh lái gấp đâm xe vào dải phân cách, xe đổ vào đám đông làm 5 người thiệt mạng
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 96: [Tai nạn] Tai nạn xe container không làm chủ tốc độ đâm trực diện vào xe ô tô con đang dừng chờ đèn đỏ
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 97: [Tai nạn] Xe khách vào cua với tốc độ cao, lấn sang đường ngược chiều va chạm với xe đi chiều ngược lại
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 98: [Tai nạn] Tai nạn đèo Prenn xe khách mất lái đâm vào người điều tiết giao thông và xe khách đi ngược chiều
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 99: [Tai nạn] Hầm Hải Vân xe kéo rơ mooc mất lái lấn làn đâm trực diện vào xe tải đi chiều ngược lại gây tai nạn
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 100: [Tai nạn] Xe ô tô con chở người đi qua đường sắt tại Nam Định không chú ý va chạm với tàu hỏa
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 101: [Tai nạn] Xe ô tô 16 chỗ chở khách rẽ trái qua đường sắt không chú ý va chạm với tàu hỏa
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 102: [Tai nạn] Xe khách va chạm với xe cứu hỏa đi ngược chiều tại nút giao Pháp Vân
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 103: [Tai nạn] Phía trước đột nhiên có xe ô tô từ làn đối diện đi ngược chiều va chạm với xe con
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 104: [Tai nạn] Tại ngã tư Hàng Xanh, lái xe ô tô con trong tình trạng có nồng độ cồn không làm chủ tốc độ đâm vào loạt xe dừng chờ đèn đỏ
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 105: [Tai nạn] Xe khách 45 chỗ đâm vào xe đầu kéo kéo rơ moóc chở máy ủi đi từ đường tránh ra gây tai nạn thảm khốc
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 106: [Tai nạn] Xe khách 48 chỗ thiếu kỹ năng điều khiển, không thông thuộc địa hình lao xuống vực tại Kon Tum
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 107: [Tai nạn] Xe khách chạy vượt xe tải, đâm trực diện vào xe khách đi chiều ngược lại gây tai nạn liên hoàn 3 xe
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 108: [Tai nạn] Trời mưa, đường trơn trượt xe tải khi vào cua không làm chủ tốc độ đã đâm vào xe ben đi ngược chiều
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 109: [Tai nạn] Xe 16 chỗ từ đường nhánh, khuất tầm nhìn rẽ vào đường chính không giảm tốc độ, bị xe sơ mi rơ moóc đâm vào (tại Ngã 3 Nà Phặc - Bắc Kạn)
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 110: [Tai nạn] Xe container bất ngờ tông vào hàng loạt phương tiện đang dừng đèn đỏ tại quốc lộ 1, đoạn nút giao Mỹ Phước - Tân Vạn, Bình Dương
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 111: [Tai nạn] Xe khách lấn làn vượt xe tải chỗ đường cong, đâm vào xe khách đi ngược chiều Tai nạn tại km 1791+ 400 trên đường Hồ Chí Minh, đoạn qua thôn 7, xã Hoà Phú, TP.Buôn Ma Thuột (Đắk Lắk)
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 112: [Tai nạn] Xe khách 16 chỗ vượt ẩu qua xe đầu kéo va chạm với xe khách đang xuống dốc tốc độ cao, gây tai nạn liên hoàn giữa 3 xe tại km12+400 đoạn qua phường Hương Hồ, TP. Huế
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 113: [Tai nạn] Khi đèn tín hiệu chuyển sang xanh, đột ngột có xe con cố vượt từ đường giao bên trái sang làm va chạm với xe con
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 114: [Tai nạn] Ô tô 7 chỗ đi trên cầu treo hẹp ban đêm, tài xế lái xe va chạm với xe máy, xe đâm xuống sông tại cầu treo qua sông Giăng, Thanh Chương, Nghệ An
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 115: [Tai nạn] Xe con phanh gấp tránh xe máy từ ngõ lao ra, xe khách không làm chủ tốc độ đã đâm trực diện vào xe con
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 116: [Tai nạn] Phía trước có đá lở đột ngột và rơi xuống (tai nạn tại Đồng Văn, Hà Giang)
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 117: [Tai nạn] Xe con phanh gấp tránh xe máy từ ngõ lao ra, xe khách không làm chủ tốc độ đã đâm trực diện vào xe con
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 118: [Tai nạn] Xe 16 chỗ rẽ không quan sát, không làm chủ tốc độ đâm vào xe bán tải đang lùi
+
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 119: [Tai nạn] Xe khách không tuân thủ khoảng cách an toàn, xử lý tình huống không kịp dẫn tới va chạm với xe tải đang dừng đỗ
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
+
+## Tình huống 120: [Tai nạn] Xe tải không làm chủ được tốc độ mất lái lao vào chợ dân sinh và va chạm với các xe đang đi phía trước
+**SPACE khi:** 
+<details>
+<summary>Ảnh minh họa</summary>
+
+</details>
