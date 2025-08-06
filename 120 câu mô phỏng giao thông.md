@@ -4,7 +4,7 @@
 **SPACE khi:** Quan sát rõ thấy người đi bộ thứ nhất sau xe tải sang đường
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab99bc59-0920-4a99-9c2a-3815aa91cc5c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ab99bc59-0920-4a99-9c2a-3815aa91cc5c" />
 
 </details>
 
@@ -12,7 +12,7 @@
 **SPACE khi:** Người đi bộ bước chân chuẩn bị sang phần đường xe chạy bên mình
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b7e93ad-c20d-41ec-8e72-a7b8a01d81fd" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4b7e93ad-c20d-41ec-8e72-a7b8a01d81fd" />
 
 </details>
 
@@ -20,7 +20,7 @@
 **SPACE khi:** Đèn phanh xe con bắt đầu nháy sáng để phanh
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd0d0286-d888-48f5-8b16-997b202a6211" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fd0d0286-d888-48f5-8b16-997b202a6211" />
 
 </details>
 
@@ -28,7 +28,7 @@
 **SPACE khi:** Ngay khi **VẠCH KẺ ĐƯỜNG CHUẨN BỊ KHUẤT DƯỚI KÍNH Ô TÔ** cũng là lúc đầu ô tô từ nhánh xuất hiện
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b3d14a6-6275-45cb-865d-7a1ef1fc2bd3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8b3d14a6-6275-45cb-865d-7a1ef1fc2bd3" />
 
 </details>
 
@@ -36,7 +36,7 @@
 **SPACE khi:** Xe máy trắng bắt đầu phanh, đèn nháy sáng
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d074ad4c-1a8f-4bb2-aaa8-0653b2f408c2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d074ad4c-1a8f-4bb2-aaa8-0653b2f408c2" />
 
 </details>
 
@@ -44,7 +44,7 @@
 **SPACE khi:** Ngay khi xe bus bên trái chuyển làn sang phần đường bên mình
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec93afe7-08e6-4697-8a5d-aa97c68fa59e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ec93afe7-08e6-4697-8a5d-aa97c68fa59e" />
 
 </details>
 
@@ -52,7 +52,7 @@
 **SPACE khi:** Xe phía trước phanh sáng đèn để nhường người đi bộ từ bên trái
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c98d18f-99be-4694-9182-872745aeb637" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4c98d18f-99be-4694-9182-872745aeb637" />
 
 </details>
 
@@ -60,7 +60,7 @@
 **SPACE khi:** Nhìn thấy xe đạp bắt đầu RẼ VÀO ĐƯỜNG CHÍNH, hoặc ngay lúc **VẠCH KẺ ĐƯỜNG KHUẤT DƯỚI KÍNH Ô TÔ**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dda0777-2a7f-4599-a246-52451a156f66" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1dda0777-2a7f-4599-a246-52451a156f66" />
 
 </details>
 
@@ -68,7 +68,7 @@
 **SPACE khi:** ô tô trắng sau moto bắt đầu chuyển làn để vượt xe tải đang báo đỗ
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45348f70-1ac9-46a7-89fe-810844636473" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/45348f70-1ac9-46a7-89fe-810844636473" />
 
 </details>
 
@@ -76,7 +76,7 @@
 **SPACE khi:** Xe con bắt đầu hiện từ nhánh cũng là lúc vạch kẻ đường chạm mép dưới kính ô tô
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/594ec039-4745-442b-a784-a39175bed8d5" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/594ec039-4745-442b-a784-a39175bed8d5" />
 
 </details>
 
@@ -84,7 +84,7 @@
 **SPACE khi:** xe bồn bắt đầu chạm vạch phân làn
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc27261f-4fc1-4f7c-a700-e7cfe66492dc" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bc27261f-4fc1-4f7c-a700-e7cfe66492dc" />
 
 </details>
 
@@ -92,7 +92,7 @@
 **SPACE khi:** xe máy đi sau ô tô làn đối diện có dấu hiệu xi nhan và vượt
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43bb1d2b-6736-49a2-ac3c-a8aa8cf0aabe" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/43bb1d2b-6736-49a2-ac3c-a8aa8cf0aabe" />
 
 </details>
 
@@ -100,7 +100,7 @@
 **SPACE khi:** Bánh xe của xe đạp bên phải bắt đầu chạm đường
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3a3d26b-4c63-4656-9ab3-de8b1c9da691" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d3a3d26b-4c63-4656-9ab3-de8b1c9da691" />
 
 </details>
 
@@ -108,7 +108,7 @@
 **SPACE khi:** Xe con đối diện đi qua hầm và đầu xe tải bắt đầu xuất hiện
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1941b0e1-262b-4e88-81f8-f9e6732f4a47" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1941b0e1-262b-4e88-81f8-f9e6732f4a47" />
 
 </details>
 
@@ -116,7 +116,7 @@
 **SPACE khi:** xe tải bắt đầu phanh sáng đèn để xe con phía trước xi nhan
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33d2ea5f-d8ee-4eeb-8fe6-2cb624b1768e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/33d2ea5f-d8ee-4eeb-8fe6-2cb624b1768e" />
 
 </details>
 
@@ -124,7 +124,7 @@
 **SPACE khi:** Ô tô xám bên trái xuất hiện **MỘT NỬA** mới được bấm, **LƯU Ý KHÔNG BẤM VỘI**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c64337d-cc89-4479-a741-a9207868dcd7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9c64337d-cc89-4479-a741-a9207868dcd7" />
 
 </details>
 
@@ -132,7 +132,7 @@
 **SPACE khi:** Bắt đầu rẽ phải và xe bus bắt đầu xuất hiện **CHẠM CỘT ĐÈN BÊN PHẢI**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88a891f4-57c4-4042-a881-1764177911b5" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/88a891f4-57c4-4042-a881-1764177911b5" />
 
 </details>
 
@@ -140,7 +140,7 @@
 **SPACE khi:** Ô tô đỗ trước mặt có dấu hiệu mở cửa hờ
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ee03f8e-42d9-44e5-9da2-5308144bfb81" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1ee03f8e-42d9-44e5-9da2-5308144bfb81" />
 
 </details>
 
@@ -148,7 +148,7 @@
 **SPACE khi:** Xe đỏ đang mở cửa **NHÁY SÁNG ĐÈN HẾT ĐÚNG 4 NHỊP**. **LƯU Ý KHÔNG BẤM VỘI NGAY KHI VỪA NGẮT SÁNG**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bafeaf3-8df4-40ca-8afd-9cfdeadfe559" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3bafeaf3-8df4-40ca-8afd-9cfdeadfe559" />
 
 </details>
 
@@ -156,7 +156,7 @@
 **SPACE khi:** Ô tô trắng trước ô tô vàng vừa nháy sáng đèn để mở khoá
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12fc99c3-de12-48c7-9ee6-9ec855cf731e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/12fc99c3-de12-48c7-9ee6-9ec855cf731e" />
 
 </details>
 
@@ -164,7 +164,7 @@
 **SPACE khi:** Ô tô phía trước bắt đầu phanh sáng đèn, đi chậm
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1d384e7-7b87-4c8f-a01e-89072011dd47" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1d384e7-7b87-4c8f-a01e-89072011dd47" />
 
 </details>
 
@@ -172,7 +172,7 @@
 **SPACE khi:** Đầu của ô tô bắt đầu xuất hiện NHƯNG VẪN CẦN LƯU Ý KHÔNG BẤM SỚM QUÁ
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d73b5ec8-de40-4411-9bd1-0e4a6c1443b1" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d73b5ec8-de40-4411-9bd1-0e4a6c1443b1" />
 
 </details>
 
@@ -180,7 +180,7 @@
 **SPACE khi:** Đi qua ngã tư, có xe ô tô con màu đen bắt đầu lấn làn vượt xe tải đang dừng khẩn cấp
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29c98c8b-747c-421d-8824-766d8ec50446" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/29c98c8b-747c-421d-8824-766d8ec50446" />
 
 </details>
 
@@ -188,7 +188,7 @@
 **SPACE khi:** Xe tải đối diện có dấu hiệu chuyển làn sau xe rác
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb5a8d15-212c-465a-bbb6-c067e0343b24" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bb5a8d15-212c-465a-bbb6-c067e0343b24" />
 
 </details>
 
@@ -196,7 +196,7 @@
 **SPACE khi:** Xe khách bắt đầu nháy xi nhan đầu tiên để đi ra
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41898210-9e4f-43e5-bd92-088b75eebb77" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/41898210-9e4f-43e5-bd92-088b75eebb77" />
 
 </details>
 
@@ -204,7 +204,7 @@
 **SPACE khi:** Ô tô trắng xuất hiện **BÊN TRÁI (KHÔNG PHẢI BÊN PHẢI)** của công trường
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c54c5a14-55a4-4072-ba3b-ab0aeea7be2c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c54c5a14-55a4-4072-ba3b-ab0aeea7be2c" />
 
 </details>
 
@@ -212,7 +212,7 @@
 **SPACE khi:** Xe phía trước bắt đầu nháy sáng để cảnh báo
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8cce93c-8707-49a3-8d89-303f37d4a7ba" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8cce93c-8707-49a3-8d89-303f37d4a7ba" />
 
 </details>
 
@@ -220,7 +220,7 @@
 **SPACE khi:** Xe phía trước phanh sáng đèn thì bấm **NGAY LẬP TỨC**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d63c3ba4-d8e7-477d-b70e-d3bbe4eae026" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d63c3ba4-d8e7-477d-b70e-d3bbe4eae026" />
 
 </details>
 
@@ -228,7 +228,7 @@
 **SPACE khi:** Xe máy bắt đầu sang làn và ô tô trước bắt đầu phanh sáng đèn thì bấm **NGAY LẬP TỨC**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a53caf2-eaf9-40e4-b185-321162722f9d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8a53caf2-eaf9-40e4-b185-321162722f9d" />
 
 </details>
 
@@ -931,4 +931,5 @@
 
 
 </details>
+
 
