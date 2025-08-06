@@ -1,4 +1,4 @@
-# Chương 1: Giao thông trên đường đô thị
+# Chương 1: Giao thông trên đường đô thị (29 câu)
 
 ## Tình huống 1: Người đi bộ sang đường khuất sau xe tải
 **SPACE khi:** Quan sát rõ thấy người đi bộ thứ nhất sau xe tải sang đường
@@ -232,7 +232,7 @@
 
 </details>
 
-# Chương 2: Giao thông trên đường nông thôn
+# Chương 2: Giao thông trên đường nông thôn (14 câu)
 
 ## Tình huống 30: Xe gặp đàn bò đứng trên đường nông thôn
 **SPACE khi:** sau khi qua biển cảnh báo và con bò gần nhất bên phải BẮT ĐẦU XUẤT HIỆN
@@ -346,7 +346,7 @@
 
 </details>
 
-# Chương 3: Giao thông trên đường cao tốc
+# Chương 3: Giao thông trên đường cao tốc (20 câu)
 
 ## Tình huống 44: Phía sau làn phải có xe con vượt lên và chuyển làn cắt ngang nguy hiểm trước mặt
 **SPACE khi:** 
@@ -489,7 +489,7 @@
 
 </details>
 
-# Chương 4: Giao thông trên đường núi
+# Chương 4: Giao thông trên đường núi (10 câu)
 
 ## Tình huống 64: Phía đường cong xuất hiện xe tải đi đối diện làm xe khách phía trước giảm tốc độ đột ngột
 **SPACE khi:** 
@@ -567,7 +567,7 @@
 
 </details>
 
-# Chương 5: Giao thông trên đường quốc lộ
+# Chương 5: Giao thông trên đường quốc lộ (17 câu)
 
 ## Tình huống 74: Xe ô tô phía trước phanh gấp để tránh đoàn xe đạp từ đường nhánh đi ra
 
@@ -705,7 +705,7 @@
 
 </details>
 
-# Chương 6: Các tình huống tai nạn giao thông
+# Chương 6: Các tình huống tai nạn giao thông (30 câu)
 
 ## Tình huống 91: [Tai nạn] Xe ô tô Innova lùi trên cao tốc Hà Nội - Thái Nguyên
 
@@ -945,6 +945,7 @@
 
 
 </details>
+
 
 
 
