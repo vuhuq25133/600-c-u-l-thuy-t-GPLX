@@ -342,7 +342,7 @@
 **SPACE khi:** Ngay khi xe tải bắt đầu xi nhan sang làn trái (**LƯU Ý KHÔNG PHẢI ĐỂ Ý XE TRƯỚC MẶT PHANH MỚI BẤM**)
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ae28ff15-3f81-4471-ada5-98e96df2ae9e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22848c6a-3a23-462a-943e-4d77c10b4224" />
 
 </details>
 
@@ -945,6 +945,7 @@
 
 
 </details>
+
 
 
 
