@@ -1,58 +1,66 @@
 # Chương 1: Giao thông trên đường đô thị
 
 ## Tình huống 1: Người đi bộ sang đường khuất sau xe tải
-**SPACE khi:** 
+**SPACE khi:** Quan sát rõ thấy người đi bộ thứ nhất sau xe tải sang đường
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab99bc59-0920-4a99-9c2a-3815aa91cc5c" />
 
 </details>
 
 ## Tình huống 2: Người đi bộ vượt đèn đỏ sang đường
-**SPACE khi:** 
+**SPACE khi:** Người đi bộ bước chân chuẩn bị sang phần đường xe chạy bên mình
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b7e93ad-c20d-41ec-8e72-a7b8a01d81fd" />
 
 </details>
 
 ## Tình huống 3: Xe trước phanh gấp tránh bus đang dừng tại bến xe
-**SPACE khi:** 
+**SPACE khi:** Đèn phanh xe con bắt đầu nháy sáng để phanh
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd0d0286-d888-48f5-8b16-997b202a6211" />
 
 </details>
 
 ## Tình huống 4: Xe con từ nhánh đi nhanh ra tại ngã 3 không có đèn giao thông
-**SPACE khi:** 
+**SPACE khi:** Ngay khi VẠCH KẺ ĐƯỜNG CHUẨN BỊ KHUẤT DƯỚI KÍNH Ô TÔ cũng là lúc đầu ô tô từ nhánh xuất hiện
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b3d14a6-6275-45cb-865d-7a1ef1fc2bd3" />
 
 </details>
 
 ## Tình huống 5: Xe máy đột ngột rẽ trái sang đường trước mặt
-**SPACE khi:** 
+**SPACE khi:** Xe máy trắng bắt đầu phanh, đèn nháy sáng
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d074ad4c-1a8f-4bb2-aaa8-0653b2f408c2" />
 
 </details>
 
 ## Tình huống 6: Xe bus lấn làn để vượt tại ngã 3
-**SPACE khi:** 
+**SPACE khi:** Ngay khi xe bus bên trái chuyển làn sang phần đường bên mình
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec93afe7-08e6-4697-8a5d-aa97c68fa59e" />
 
 </details>
 
 ## Tình huống 7: Xe trước phanh gấp tránh người đi bộ sang đường
-**SPACE khi:** 
+**SPACE khi:** Xe phía trước phanh sáng đèn để nhường người đi bộ từ bên trái
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c98d18f-99be-4694-9182-872745aeb637" />
 
 </details>
 
 ## Tình huống 8: Xe đạp bất ngờ đi ra từ nhánh tại ngã 3
-**SPACE khi:** 
+**SPACE khi:** Nhìn thấy xe đạp và ngay lúc VẠCH KẺ ĐƯỜNG KHUẤT DƯỚI KÍNH Ô TÔ
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dda0777-2a7f-4599-a246-52451a156f66" />
 
 </details>
 
@@ -899,5 +907,6 @@
 **SPACE khi:** 
 <details>
 <summary>Ảnh minh họa</summary>
+
 
 </details>
