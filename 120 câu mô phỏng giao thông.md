@@ -492,78 +492,88 @@
 # Chương 4: Giao thông trên đường núi (10 câu)
 
 ## Tình huống 64: Phía đường cong xuất hiện xe tải đi đối diện làm xe khách phía trước giảm tốc độ đột ngột
-**SPACE khi:** 
+**SPACE khi:** Ngay khi xe đối diện xuất hiện và xe phía trước phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/151051ff-b70d-465b-9da7-52f862ec72ed" />
 
 </details>
 
 ## Tình huống 65: Đường đèo dốc ban đêm gần đoạn đường cong, đột ngột tại khúc cua có xe khách lấn làn vượt xe tải lớn
-**SPACE khi:** 
+**SPACE khi:** Ngay khi đèn chiếu biển cảnh báo bên phải đủ sáng, KHÔNG CẦN ĐỂ Ý XE NÀO HẾT
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2600d244-e3ae-4a53-8a77-e135619e9677" />
 
 </details>
 
 ## Tình huống 66: Đi phía sau xe tải chở vật liệu không được chằng buộc cẩn thận
-**SPACE khi:** 
+**SPACE khi:** Ngay khi xe phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3a23e56-f362-4332-a45b-8ae2ccc11161" />
 
 </details>
 
 ## Tình huống 67: Xe ô tô phía trước phanh gấp do có động vật hoang dã đứng ven đường
-**SPACE khi:** 
+**SPACE khi:** Khi đến khúc cua có biển báo và xe trước phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7691348-67c4-4b23-9de2-75e3357df095" />
 
 </details>
 
 ## Tình huống 68: Đường núi, sương mù, có đàn bò đứng sát đường ngay sau đoạn đường cong
 
-**SPACE khi:** 
+**SPACE khi:** Con bò xuất hiện bên phải lề đường, LƯU Ý KHÔNG ĐỂ Ý Ô TÔ KHÁC
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5ba21f5-34f5-41e7-8584-5e0f78891456" />
 
 </details>
 
 ## Tình huống 69: Xe con vào cua lấn làn nguy hiểm va chạm với xe ngược chiều trên đường đồi núi
 
-**SPACE khi:** 
+**SPACE khi:** Đi qua khúc cua có biển báo và xe con bắt đầu xuất hiện ở làn đối diện
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a741b4c-b691-4f68-bf82-2c8e600607cd" />
 
 </details>
 
 ## Tình huống 70: Xe khách lấn làn vượt xe container ngay tại khúc cua trên đường núi
 
-**SPACE khi:** 
+**SPACE khi:**sau khi đi qua 1 dàn xe ô tô và: Container bắt đầu xuất hiện cho đến lúc xe khách nháy pha cảnh báo
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08a8b96c-6222-43e2-8262-447853991a91" />
 
 </details>
 
 ## Tình huống 71: Đường núi, trời mưa, xe phía trước đột ngột dừng lại vì hỏng máy
 
-**SPACE khi:** 
+**SPACE khi:** ngay khi xe phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9050245c-d4ab-4e7b-ba56-2cd81e1a3e78" />
 
 </details>
 
 ## Tình huống 72: Xe tải lấn làn đường xe bạn để vượt các xe khác trên đường núi thời tiết sương mù
 
-**SPACE khi:** 
+**SPACE khi:** Ngay sau khi xe rẽ phải thì cuối đường cua xuất hiện 2 xe làn đối diện chạy song song
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82b6749b-e6e7-44a2-be95-d474a22bf531" />
 
 </details>
 
 ## Tình huống 73: Xe con lấn làn xe bạn để vượt xe tải trên đường núi ngay tại đoạn đường quanh co
 
-**SPACE khi:** 
+**SPACE khi:** Sau khi rẽ phải và xuất hiện xe con vượt xe tải ngay cuối đường đoạn cua
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4a3211a-e051-4a45-8fa5-ce8d578b3be4" />
 
 </details>
 
@@ -945,6 +955,7 @@
 
 
 </details>
+
 
 
 
