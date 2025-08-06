@@ -25,7 +25,7 @@
 </details>
 
 ## Tình huống 4: Xe con từ nhánh đi nhanh ra tại ngã 3 không có đèn giao thông
-**SPACE khi:** Ngay khi VẠCH KẺ ĐƯỜNG CHUẨN BỊ KHUẤT DƯỚI KÍNH Ô TÔ cũng là lúc đầu ô tô từ nhánh xuất hiện
+**SPACE khi:** Ngay khi **VẠCH KẺ ĐƯỜNG CHUẨN BỊ KHUẤT DƯỚI KÍNH Ô TÔ** cũng là lúc đầu ô tô từ nhánh xuất hiện
 <details>
 <summary>Ảnh minh họa</summary>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b3d14a6-6275-45cb-865d-7a1ef1fc2bd3" />
@@ -57,7 +57,7 @@
 </details>
 
 ## Tình huống 8: Xe đạp bất ngờ đi ra từ nhánh tại ngã 3
-**SPACE khi:** Nhìn thấy xe đạp và ngay lúc VẠCH KẺ ĐƯỜNG KHUẤT DƯỚI KÍNH Ô TÔ
+**SPACE khi:** Nhìn thấy xe đạp bắt đầu RẼ VÀO ĐƯỜNG CHÍNH, hoặc ngay lúc **VẠCH KẺ ĐƯỜNG KHUẤT DƯỚI KÍNH Ô TÔ**
 <details>
 <summary>Ảnh minh họa</summary>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dda0777-2a7f-4599-a246-52451a156f66" />
@@ -65,149 +65,170 @@
 </details>
 
 ## Tình huống 9: Ô tô làn đối diện lấn làn vượt xe tải đang dừng đỗ tại khu đông đúc
-**SPACE khi:** 
+**SPACE khi:** ô tô trắng sau moto bắt đầu chuyển làn để vượt xe tải đang báo đỗ
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45348f70-1ac9-46a7-89fe-810844636473" />
 
 </details>
 
 ## Tình huống 10: Ô tô bất ngờ đi nhanh ra từ nhánh trái tại ngã 3
-**SPACE khi:** 
+**SPACE khi:** Xe con bắt đầu hiện từ nhánh cũng là lúc vạch kẻ đường chạm mép dưới kính ô tô
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/594ec039-4745-442b-a784-a39175bed8d5" />
 
 </details>
 
 ## Tình huống 11: Xe bồn từ nhánh lấn làn để rẽ tại ngã 3 không có đèn giao thông
-**SPACE khi:** 
+**SPACE khi:** xe bồn bắt đầu chạm vạch phân làn
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc27261f-4fc1-4f7c-a700-e7cfe66492dc" />
 
 </details>
 
 ## Tình huống 12: Moto lấn làn vượt ẩu tại giao lộ
-**SPACE khi:** 
+**SPACE khi:** xe máy đi sau ô tô làn đối diện có dấu hiệu xi nhan và vượt
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43bb1d2b-6736-49a2-ac3c-a8aa8cf0aabe" />
 
 </details>
 
 ## Tình huống 13: Xe đạp từ vỉa hè bất ngờ xuống để sang đường
-**SPACE khi:** 
+**SPACE khi:** Bánh xe của xe đạp bên phải bắt đầu chạm đường
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3a3d26b-4c63-4656-9ab3-de8b1c9da691" />
 
 </details>
 
 ## Tình huống 14: Gặp xe tải lớn đi qua hầm chui dân sinh
-**SPACE khi:** 
+**SPACE khi:** Xe con đối diện đi qua hầm và đầu xe tải bắt đầu xuất hiện
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1941b0e1-262b-4e88-81f8-f9e6732f4a47" />
 
 </details>
 
 ## Tình huống 15: Xe trước phanh gấp để tránh xe rẽ trái tại ngã 3
-**SPACE khi:** 
+**SPACE khi:** xe tải bắt đầu phanh sáng đèn để xe con phía trước xi nhan
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33d2ea5f-d8ee-4eeb-8fe6-2cb624b1768e" />
 
 </details>
 
 ## Tình huống 16: Ô tô từ nhánh trái bất ngờ đi nhanh ra, có nguy cơ va chạm
-**SPACE khi:** 
+**SPACE khi:** Ô tô xám bên trái xuất hiện **MỘT NỬA** mới được bấm, **LƯU Ý KHÔNG BẤM VỘI**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c64337d-cc89-4479-a741-a9207868dcd7" />
 
 </details>
 
 ## Tình huống 17: Bus lấn làn vượt ẩu tại ngã 4 có đèn giao thông
-**SPACE khi:** 
+**SPACE khi:** Bắt đầu rẽ phải và xe bus bắt đầu xuất hiện **CHẠM CỘT ĐÈN BÊN PHẢI**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88a891f4-57c4-4042-a881-1764177911b5" />
 
 </details>
 
 ## Tình huống 18: Tài xế dừng đỗ ven đường đột ngột mở cửa xe
-**SPACE khi:** 
+**SPACE khi:** Ô tô đỗ trước mặt có dấu hiệu mở cửa hờ
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ee03f8e-42d9-44e5-9da2-5308144bfb81" />
 
 </details>
 
 ## Tình huống 19: Tài xế dừng ven đường đang mở cửa xe
-**SPACE khi:** 
+**SPACE khi:** Xe đỏ đang mở cửa **NHÁY SÁNG ĐÈN HẾT ĐÚNG 4 NHỊP**. **LƯU Ý KHÔNG BẤM VỘI NGAY KHI VỪA NGẮT SÁNG**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bafeaf3-8df4-40ca-8afd-9cfdeadfe559" />
 
 </details>
 
 ## Tình huống 20: Tài xế đang đỗ ven đường đi ra mở cửa xe tại khu đường hẹp
-**SPACE khi:** 
+**SPACE khi:** Ô tô trắng trước ô tô vàng vừa nháy sáng đèn để mở khoá
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12fc99c3-de12-48c7-9ee6-9ec855cf731e" />
 
 </details>
 
 ## Tình huống 21: Ô tô trước dừng lại, lùi vào đỗ tại khu đường hẹp
-**SPACE khi:** 
+**SPACE khi:** Ô tô phía trước bắt đầu phanh sáng đèn, đi chậm
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1d384e7-7b87-4c8f-a01e-89072011dd47" />
 
 </details>
 
 ## Tình huống 22: Ô tô đi nhanh ra từ nhánh phải tại ngã 3
-**SPACE khi:** 
+**SPACE khi:** Đầu của ô tô bắt đầu xuất hiện NHƯNG VẪN CẦN LƯU Ý KHÔNG BẤM SỚM QUÁ
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d73b5ec8-de40-4411-9bd1-0e4a6c1443b1" />
 
 </details>
 
 ## Tình huống 23: Ô tô đối diện lấn làn vượt xe có tín hiệu dừng khẩn cấp
-**SPACE khi:** 
+**SPACE khi:** Đi qua ngã tư, có xe ô tô con màu đen bắt đầu lấn làn vượt xe tải đang dừng khẩn cấp
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29c98c8b-747c-421d-8824-766d8ec50446" />
 
 </details>
 
 ## Tình huống 24: Xe tải đối diện lấn làn vượt xe rác
-**SPACE khi:** 
+**SPACE khi:** Xe tải đối diện có dấu hiệu chuyển làn sau xe rác
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb5a8d15-212c-465a-bbb6-c067e0343b24" />
 
 </details>
 
 ## Tình huống 25: Xe khách từ nơi đỗ bất ngờ đi ra tại đường hẹp
-**SPACE khi:** 
+**SPACE khi:** Xe khách bắt đầu nháy xi nhan đầu tiên để đi ra
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41898210-9e4f-43e5-bd92-088b75eebb77" />
 
 </details>
 
 ## Tình huống 26: Công trình sửa đường, tránh xe sau khúc cua
-**SPACE khi:** 
+**SPACE khi:** Ô tô trắng xuất hiện **BÊN TRÁI (KHÔNG PHẢI BÊN PHẢI)** của công trường
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c54c5a14-55a4-4072-ba3b-ab0aeea7be2c" />
 
 </details>
 
 ## Tình huống 27: Xe khách bật đèn báo dừng giữa ngã 4 đón khách
-**SPACE khi:** 
+**SPACE khi:** Xe phía trước bắt đầu nháy sáng để cảnh báo
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8cce93c-8707-49a3-8d89-303f37d4a7ba" />
 
 </details>
 
 ## Tình huống 28: Xe trước phanh gấp khi gặp vũng nước
-**SPACE khi:** 
+**SPACE khi:** Xe phía trước phanh sáng đèn thì bấm **NGAY LẬP TỨC**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d63c3ba4-d8e7-477d-b70e-d3bbe4eae026" />
 
 </details>
 
 ## Tình huống 29: Trời mưa, xe trước phanh gấp tránh moto tạt đầu khi gặp chướng ngại
-**SPACE khi:** 
+**SPACE khi:** Xe máy bắt đầu sang làn và ô tô trước bắt đầu phanh sáng đèn thì bấm **NGAY LẬP TỨC**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a53caf2-eaf9-40e4-b185-321162722f9d" />
 
 </details>
 
@@ -910,3 +931,4 @@
 
 
 </details>
+
