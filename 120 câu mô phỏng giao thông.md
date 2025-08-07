@@ -500,7 +500,7 @@
 
 ## Tình huống 70: Xe khách lấn làn vượt xe container ngay tại khúc cua trên đường núi
 
-**SPACE khi:**sau khi đi qua 1 dàn xe ô tô và: Container bắt đầu xuất hiện cho đến lúc xe khách nháy pha cảnh báo
+**SPACE khi:** sau khi đi qua 1 dàn xe ô tô và: Container bắt đầu xuất hiện cho đến lúc xe khách nháy pha cảnh báo
 <details>
 <summary>Ảnh minh họa</summary>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/08a8b96c-6222-43e2-8262-447853991a91" />
@@ -940,4 +940,5 @@
 <summary>Ảnh minh họa</summary>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7fa7da43-a952-4014-9f94-0eaaa260d199" />
 </details>
+
 
