@@ -608,32 +608,40 @@
 ## Tình huống 74: Xe ô tô phía trước phanh gấp để tránh đoàn xe đạp từ đường nhánh đi ra
 
 **SPACE khi:** 
+  1. Xe tải bắt đầu phanh sáng đèn
+  2. Biển cảnh báo đứng giữa 2 đồng hồ ô tô
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed11788f-fea6-459c-a000-d0ee8e813e89" />
 
 </details>
 
 ## Tình huống 75: Trẻ em đột ngột lao ra để nhặt quả bóng bị lăn ra đường
 
 **SPACE khi:** 
+  1. Xe đi qua biển cảnh báo bên phải
+  2. Quả bóng xuất hiện bên phải **chuẩn bị** lăn ra đường (vẫn chưa ra làn đường)
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26d679be-f068-4ed7-a239-95e8a36b0509" />
 
 </details>
 
 ## Tình huống 76: Em bé đột ngột chạy ra đường
 
-**SPACE khi:** 
+**SPACE khi:** Em bé xuất hiện ngay lề đường (**LƯU Ý BẤM NHANH**)
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea12db28-b8c7-4e59-b64a-ce1cba2c43fc" />
 
 </details>
 
 ## Tình huống 77: Xe con từ làn phải (khuất tầm nhìn) cắt ngang qua các xe đang đi thẳng để sang đường
 
-**SPACE khi:** 
+**SPACE khi:** Đầu xe con lấp ló phía trước và chuẩn bị xi nhan
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/636e2bfc-4797-47e9-ba0b-48c5f760464a" />
 
 </details>
 
@@ -641,7 +649,7 @@
 
 **SPACE khi:** 
 <details>
-<summary>Ảnh minh họa</summary>
+<summary>Ảnh minh họa</summary>r
 
 </details>
 
@@ -981,6 +989,7 @@
 
 
 </details>
+
 
 
 
