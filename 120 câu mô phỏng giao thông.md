@@ -773,80 +773,104 @@
 ## Tình huống 91: [Tai nạn] Xe ô tô Innova lùi trên cao tốc Hà Nội - Thái Nguyên
 
 **SPACE khi:** 
+  1. Nhìn thấy rõ vạch xương cá
+  2. Đã đi qua biển báo 50m ở bên phải
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3e734326-98db-48bd-8d7e-fc6aec947966" />
 
 </details>
 
 ## Tình huống 92: [Tai nạn] Xe mô-tô lấn làn vượt ẩu trên đường núi, va chạm với xe khách đi ngược chiều
 
 **SPACE khi:** 
+  1. Xe máy đã đi qua xe con trắng ngược chiều
+  2. Xe khách bắt đầu xuất hiện từ khúc cua
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ec36c3fd-3224-44f6-a5cc-64fb50cb40c0" />
 
 </details>
 
-## Tình huống 93: [Tai nạn] Xe mô-tô lấn làn vượt ẩu trên đường núi, va chạm với xe khách đi ngược chiều
+## Tình huống 93: [Tai nạn] Xe con từ làn trái trong cùng lấn làn vượt ẩu ra nhánh, va chạm xe tải
 
 **SPACE khi:** 
+  1. Xe đỏ phía trước phanh xong
+  2. Sau khi hết nháy xi nhan 1 và trước nháy xi nhan 2
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/532f8b47-86d9-4d01-90f5-f99f7df07b27" />
 
 </details>
 
 ## Tình huống 94: [Tai nạn] Tai nạn liên hoàn giữa 3 xe khách do đâm vào xe đang dừng đỗ để sửa chữa
 
 **SPACE khi:** 
+  1. Sau khi xe phía trước dừng lại được 1 lúc
+  2. BẤM NGAY KHOẢNG GIỮA NHÁY CẢNH BÁO THỨ 1 VÀ THỨ 2 CỦA Ô TÔ ĐÓ
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2f19f723-17c2-41ea-b37f-3ed00ec56993" />
 
 </details>
 
 ## Tình huống 95: [Tai nạn] Tài xế giật mình đánh lái gấp đâm xe vào dải phân cách, xe đổ vào đám đông làm 5 người thiệt mạng
 
-**SPACE khi:** 
+**SPACE khi:** Công trường phía trước nháy đèn đến nháy thứ 2
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3cb0db73-1888-41dd-9f49-c5c561d685be" />
 
 </details>
 
 ## Tình huống 96: [Tai nạn] Tai nạn xe container không làm chủ tốc độ đâm trực diện vào xe ô tô con đang dừng chờ đèn đỏ
 
 **SPACE khi:** 
+  1. Để ý đến cuối video
+  2. Xe con phía trước từ xa bắt đầu phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/20b1c22d-cbc5-4bf9-b36e-038922fb42bf" />
 
 </details>
 
 ## Tình huống 97: [Tai nạn] Xe khách vào cua với tốc độ cao, lấn sang đường ngược chiều va chạm với xe đi chiều ngược lại
 
-**SPACE khi:** 
+**SPACE khi:** Đầu xe đối diện bắt đầu xuất hiện
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b0ffca63-39ac-4c42-ac6c-501f506c4fb2" />
 
 </details>
 
 ## Tình huống 98: [Tai nạn] Tai nạn đèo Prenn xe khách mất lái đâm vào người điều tiết giao thông và xe khách đi ngược chiều
 
 **SPACE khi:** 
+  1. Đi qua 2 biển báo bên phải ở đầu khúc cua
+  2. 2 xe phía trước vừa lúc đi qua người cảnh báo
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3fcfb20e-39b5-4408-aa02-d8d2fd79e8f0" />
 
 </details>
 
 ## Tình huống 99: [Tai nạn] Hầm Hải Vân xe kéo rơ mooc mất lái lấn làn đâm trực diện vào xe tải đi chiều ngược lại gây tai nạn
 
 **SPACE khi:** 
+  1. Ô tô vào hầm và đi qua 2 xe đầu tiên ngược chiều
+  2. Ô tô phía trước chuẩn bị khuất hẳn sau xe kéo đối diện đang lấn sang giữa 2 làn xe
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c80450d5-5650-4540-b2f9-de94b5e938ae" />
 
 </details>
 
 ## Tình huống 100: [Tai nạn] Xe ô tô con chở người đi qua đường sắt tại Nam Định không chú ý va chạm với tàu hỏa
 
-**SPACE khi:** 
+**SPACE khi:** Đầu tài hoả đã xuất hiện
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cf070be6-5f36-4b99-be97-8f349580f8b8" />
 
 </details>
 
@@ -1008,6 +1032,7 @@
 
 
 </details>
+
 
 
 
