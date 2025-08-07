@@ -352,7 +352,7 @@
 **SPACE khi:** xe con trắng lên trước xi nhan và NGAY KHI BÁNH XE CHẠM LÀN ĐƯỜNG CỦA MÌNH
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d06b50d-26e6-4411-bf00-33bd21bf437a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0d06b50d-26e6-4411-bf00-33bd21bf437a" />
 
 </details>
 
@@ -360,7 +360,7 @@
 **SPACE khi:** Từ lúc bánh xe tải chạm vào vạch làn đường của mình và xe con bắt đầu phanh thì ấn **NGAY LẬP TỨC**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d444be7-0b2d-44db-98ed-fcc07cfcc18f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3d444be7-0b2d-44db-98ed-fcc07cfcc18f" />
 
 </details>
 
@@ -368,7 +368,7 @@
 **SPACE khi:** Nhìn thấy xe con bên trái từ gương vượt lên, BẤM NGAY KHI XE CON XI NHAN VÀ BÁNH XE CHẠM LÀN ĐƯỜNG CỦA MÌNH
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed5cb287-654b-431b-a90e-10ec6cb4af81" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed5cb287-654b-431b-a90e-10ec6cb4af81" />
 
 </details>
 
@@ -377,7 +377,7 @@
 **SPACE khi:** Để ý xe con và xe cứu thương phía sau từ gương vượt lên, BẤM NGAY KHI XE CON NHÁY XI NHAN VÀ BÁNH XE CHẠM LÀN ĐƯỜNG CỦA MÌNH
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b8ad35c-42a9-467f-b3ec-f41ea34148a5" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5b8ad35c-42a9-467f-b3ec-f41ea34148a5" />
 
 </details>
 
@@ -385,7 +385,7 @@
 **SPACE khi:** NGAY KHI XE MÌNH HẾT 2 NHÁY XI NHAN
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2c63ecc-75c5-40e4-8e3f-a13462974c18" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c2c63ecc-75c5-40e4-8e3f-a13462974c18" />
 
 </details>
 
@@ -393,7 +393,7 @@
 **SPACE khi:** Sau khi xe tải bắt đầu xi nhan và bánh xe CHUẨN BỊ CHẠM LÀN ĐƯỜNG CỦA MÌNH **(LƯU Ý KHÔNG ĐỂ Ý XE CON)**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/976786c0-1f06-47e3-a931-676a5bddb7f9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/976786c0-1f06-47e3-a931-676a5bddb7f9" />
 
 </details>
 
@@ -401,7 +401,7 @@
 **SPACE khi:** Sau khi xe tải bắt đầu xi nhan và bánh xe CHUẨN BỊ CHẠM LÀN ĐƯỜNG CỦA MÌNH **(LƯU Ý KHÔNG ĐỂ Ý XE CON)**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b68383a-faa9-4d37-ab92-8c708b9c4b30" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b68383a-faa9-4d37-ab92-8c708b9c4b30" />
 
 </details>
 
@@ -409,7 +409,7 @@
 **SPACE khi:** NGAY KHI BIỂN BÁO TRÊN ĐẦU KHUẤT SAU KÍNH Ô TÔ
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1e87eca-d5b0-49d3-b620-33aa2e2b6b4e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c1e87eca-d5b0-49d3-b620-33aa2e2b6b4e" />
 
 </details>
 
@@ -417,7 +417,7 @@
 **SPACE khi:** VŨNG NƯỚC THỨ 3 CHUẨN BỊ KHUẤT SAU KÍNH Ô TÔ (nằm giữa xe lùi và mép dưới kính ô tô)
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/27ca608a-3fff-4bed-9880-a2ea56dfc9ec" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/27ca608a-3fff-4bed-9880-a2ea56dfc9ec" />
 
 </details>
 
@@ -427,7 +427,7 @@
   2. Xe tải phía trước xi nhan để tránh xe đi ngược chiều
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/52ac2482-cf3e-4f1c-8aa6-d058850dfb4a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/52ac2482-cf3e-4f1c-8aa6-d058850dfb4a" />
 
 </details>
 
@@ -435,7 +435,7 @@
 **SPACE khi:** Xe tải nằm gọn trong chiều dài của gương chiếu hậu (trong xe). **LƯU Ý KHÔNG VỘI**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/92cd2335-b0b9-4076-8369-70bb42d0d444" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/92cd2335-b0b9-4076-8369-70bb42d0d444" />
 
 </details>
 
@@ -443,7 +443,7 @@
 **SPACE khi:** Xe tải bắt đầu xi nhan sang làn trái
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebb51a82-6348-4cab-b16e-ff70f5e1b85b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ebb51a82-6348-4cab-b16e-ff70f5e1b85b" />
 
 </details>
 
@@ -451,7 +451,7 @@
 **SPACE khi:** Xe con xi nhan **ĐẾN NHÁY THỨ 4** và chuẩn bị nhập làn
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/41b34f65-e65c-414e-92c0-34b27572f504" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/41b34f65-e65c-414e-92c0-34b27572f504" />
 
 </details>
 
@@ -459,7 +459,7 @@
 **SPACE khi:** xe đỏ phía trước đi đến sát công trường và chuyển sang làn trái
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7248c5c-825d-4fa6-bc5f-429ae7015b1f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f7248c5c-825d-4fa6-bc5f-429ae7015b1f" />
 
 </details>
 
@@ -467,7 +467,7 @@
 **SPACE khi:** Ngay khi xe tải phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/78fefa9d-bb6f-4f05-806f-2f4ec0ce8507" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/78fefa9d-bb6f-4f05-806f-2f4ec0ce8507" />
 
 </details>
 
@@ -475,7 +475,7 @@
 **SPACE khi:** Xe container Xi nhan đến **NHÁY THỨ 2 MỚI ĐƯỢC BẤM**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/14541e6e-baaf-4502-ae86-4888ff889f5a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14541e6e-baaf-4502-ae86-4888ff889f5a" />
 
 </details>
 
@@ -483,7 +483,7 @@
 **SPACE khi:** Ngay khi xe 16 chỗ **HẾT NHÁY XI NHAN ĐẦU TIÊN**
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/28018392-be07-4377-a377-cdb637abf287" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/28018392-be07-4377-a377-cdb637abf287" />
 
 </details>
 
@@ -491,7 +491,7 @@
 **SPACE khi:** Xe con xi nhan và bánh xe Bắt đầu chạm vào làn đường của mình
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa3e6f62-1f00-49c5-9b0f-a9b77c466960" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fa3e6f62-1f00-49c5-9b0f-a9b77c466960" />
 
 </details>
 
@@ -501,7 +501,7 @@
   2. Chỉ nhìn thấy 1 vũng nước cuối cùng
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/b01f42c0-31c0-4134-ad37-c367674cf990" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b01f42c0-31c0-4134-ad37-c367674cf990" />
 
 </details>
 
@@ -511,7 +511,7 @@
   2. Con bò đứng yên bên phải đường từ xa
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/d21bf1c1-e44b-445b-b83e-b1de5ced9620" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d21bf1c1-e44b-445b-b83e-b1de5ced9620" />
 
 </details>
 
@@ -521,7 +521,7 @@
 **SPACE khi:** Ngay khi xe đối diện xuất hiện và xe phía trước phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/151051ff-b70d-465b-9da7-52f862ec72ed" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/151051ff-b70d-465b-9da7-52f862ec72ed" />
 
 </details>
 
@@ -529,7 +529,7 @@
 **SPACE khi:** Ngay khi đèn chiếu biển cảnh báo bên phải đủ sáng, KHÔNG CẦN ĐỂ Ý XE NÀO HẾT
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/2600d244-e3ae-4a53-8a77-e135619e9677" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2600d244-e3ae-4a53-8a77-e135619e9677" />
 
 </details>
 
@@ -537,7 +537,7 @@
 **SPACE khi:** Ngay khi xe phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3a23e56-f362-4332-a45b-8ae2ccc11161" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a3a23e56-f362-4332-a45b-8ae2ccc11161" />
 
 </details>
 
@@ -545,7 +545,7 @@
 **SPACE khi:** Khi đến khúc cua có biển báo và xe trước phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7691348-67c4-4b23-9de2-75e3357df095" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c7691348-67c4-4b23-9de2-75e3357df095" />
 
 </details>
 
@@ -554,7 +554,7 @@
 **SPACE khi:** Con bò xuất hiện bên phải lề đường, LƯU Ý KHÔNG ĐỂ Ý Ô TÔ KHÁC
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5ba21f5-34f5-41e7-8584-5e0f78891456" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b5ba21f5-34f5-41e7-8584-5e0f78891456" />
 
 </details>
 
@@ -563,7 +563,7 @@
 **SPACE khi:** Đi qua khúc cua có biển báo và xe con bắt đầu xuất hiện ở làn đối diện
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a741b4c-b691-4f68-bf82-2c8e600607cd" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8a741b4c-b691-4f68-bf82-2c8e600607cd" />
 
 </details>
 
@@ -572,7 +572,7 @@
 **SPACE khi:**sau khi đi qua 1 dàn xe ô tô và: Container bắt đầu xuất hiện cho đến lúc xe khách nháy pha cảnh báo
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/08a8b96c-6222-43e2-8262-447853991a91" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/08a8b96c-6222-43e2-8262-447853991a91" />
 
 </details>
 
@@ -581,7 +581,7 @@
 **SPACE khi:** ngay khi xe phanh sáng đèn
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/9050245c-d4ab-4e7b-ba56-2cd81e1a3e78" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9050245c-d4ab-4e7b-ba56-2cd81e1a3e78" />
 
 </details>
 
@@ -590,7 +590,7 @@
 **SPACE khi:** Ngay sau khi xe rẽ phải thì cuối đường cua xuất hiện 2 xe làn đối diện chạy song song
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/82b6749b-e6e7-44a2-be95-d474a22bf531" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82b6749b-e6e7-44a2-be95-d474a22bf531" />
 
 </details>
 
@@ -599,7 +599,7 @@
 **SPACE khi:** Sau khi rẽ phải và xuất hiện xe con vượt xe tải ngay cuối đường đoạn cua
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1366" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4a3211a-e051-4a45-8fa5-ce8d578b3be4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b4a3211a-e051-4a45-8fa5-ce8d578b3be4" />
 
 </details>
 
@@ -612,7 +612,7 @@
   2. Biển cảnh báo đứng giữa 2 đồng hồ ô tô
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed11788f-fea6-459c-a000-d0ee8e813e89" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed11788f-fea6-459c-a000-d0ee8e813e89" />
 
 </details>
 
@@ -623,7 +623,7 @@
   2. Quả bóng xuất hiện bên phải **chuẩn bị** lăn ra đường (vẫn chưa ra làn đường)
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26d679be-f068-4ed7-a239-95e8a36b0509" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/26d679be-f068-4ed7-a239-95e8a36b0509" />
 
 </details>
 
@@ -632,7 +632,7 @@
 **SPACE khi:** Em bé xuất hiện ngay lề đường (**LƯU Ý BẤM NHANH**)
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea12db28-b8c7-4e59-b64a-ce1cba2c43fc" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ea12db28-b8c7-4e59-b64a-ce1cba2c43fc" />
 
 </details>
 
@@ -641,111 +641,130 @@
 **SPACE khi:** Đầu xe con lấp ló phía trước và chuẩn bị xi nhan
 <details>
 <summary>Ảnh minh họa</summary>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/636e2bfc-4797-47e9-ba0b-48c5f760464a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/636e2bfc-4797-47e9-ba0b-48c5f760464a" />
 
 </details>
 
 ## Tình huống 78: Đèn vừa chuyển xanh, đột ngột xe mô-tô làn trái phía trước cố vượt đèn đỏ cắt qua trước đầu xe
 
-**SPACE khi:** 
+**SPACE khi:** NGAY KHI Xe máy bên phải đè lên vạch đi bộ
 <details>
 <summary>Ảnh minh họa</summary>r
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/62aa5972-0442-4a65-be88-2b27e66458f1" />
 
 </details>
 
 ## Tình huống 79: Xe mô-tô đi ra từ đường nhánh nguy hiểm phía sau xe buýt vừa đi qua.
 
 **SPACE khi:** 
+  1. Xe máy bắt đầu vào làn
+  2. Vạch vàng ở sau chạm mép dưới của kính ô tô
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/98fde6ec-665c-4cab-9517-2ca6a0a1a90b" />
 
 </details>
 
 ## Tình huống 80: Xe mô tô vượt lên đột ngột giảm tốc và chuyển sang làn xe bạn để tránh chướng ngại vật trên đường
 
-**SPACE khi:** 
+**SPACE khi:** Xe máy bắt đầu xi nhan sang làn trái
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9ad41937-32ca-444a-b144-186c24bd6414" />
 
 </details>
 
 ## Tình huống 81: Xe bán tải từ đường bên kia quay đầu đột ngột lấn làn xe bạn
 
-**SPACE khi:** 
+**SPACE khi:** Đèn xi nhan trái của xe bán tải trùng với khoảng giữa 2 biển báo
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5e4e32a7-7372-492d-988c-3204c25e16be" />
 
 </details>
 
-## Tình huống 82: Xe bán tải từ đường bên kia quay đầu đột ngột lấn làn xe bạn
-
-**SPACE khi:** 
+## Tình huống 82: Xe tải lớn ở đường ngược chiều lấn làn để vượt bus
+**SPACE khi:** Xe tải sau bus xuất hiện và xi nhan đến nháy thứ 2
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bef7b841-7e40-410f-9367-4ebd8b1b237b" />
 
 </details>
 
 ## Tình huống 83: Xuất hiện gia súc từ vệ đường đi ra đường quốc lộ ngay trước mặt xe bạn
 
 **SPACE khi:** 
+  1. Bỏ qua 2 con bò thứ nhất (bên phải)
+  2. Ngay khi con bò đàn thứ 2 (bên phải) bắt đầu di chuyển ra đường
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1995ed9c-83b4-4a10-b72e-6e80510782fe" />
 
 </details>
 
 ## Tình huống 84: Xe con phía trước giảm tốc đột ngột và chuyển làn để tránh xe buýt đang dừng
 
-**SPACE khi:** 
+**SPACE khi:** Xe màu đỏ phía trước xi nhan **ĐẾN NHÁY THỨ 2**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/00de9383-c0f3-4218-8c97-a5393448b02f" />
 
 </details>
 
 ## Tình huống 85: Khúc gỗ trên xe tải phía trước bị rơi xuống do xe phanh gấp
 
-**SPACE khi:** 
+**SPACE khi:** Ngay khi xe tải phanh sáng đèn chỗ khúc cua
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f8196d4-d747-4984-8674-6515bcf9a7de" />
 
 </details>
 
 ## Tình huống 86: Xe con đi phía trước giảm tốc và chuyển làn đột ngột để tránh chướng ngại vật
 
-**SPACE khi:** 
+**SPACE khi:** Xe con phía trước bắt đầu di chuyển chéo sang làn trái
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7afd7c81-2c48-4251-9308-b4b2db93c42a" />
 
 </details>
 
 ## Tình huống 87: Đi qua chỗ giao cắt với đường sắt ban đêm, không có đèn tín hiệu, phía sau xe con, đột nhiên có tàu đi tới
 
-**SPACE khi:** 
+**SPACE khi:** Đầu tàu bắt đầu xuất hiện và chuẩn bị đi qua rào chắn
+**LƯU Ý KHOẢNG BẤM NGAY GẦN ĐẦU VIDEO**
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/842ef1ab-03ad-465c-bfdb-c7a28d7b4372" />
 
 </details>
 
 ## Tình huống 88: Xe mô-tô phanh và chuyển làn để tránh xe buýt vào trả khách
 
-**SPACE khi:** 
+**SPACE khi:** Xe máy bắt đầu xi nhan để sang làn trái
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a79acf4c-0ed4-4743-8bc0-ed17e0b11779" />
 
 </details>
 
 ## Tình huống 89: Xe đạp từ bên kia đường đối diện băng qua đường không quan sát trước mặt xe bạn
 
-**SPACE khi:** 
+**SPACE khi:** Xe đạp đi đến chính giữa 2 làn đường, chuẩn bị nhập làn
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b81fce6a-df7b-411e-accf-5f8fc1624817" />
 
 </details>
 
 ## Tình huống 90: Xe bán tải phía trước giảm tốc độ và chuyển làn khẩn cấp để tránh xe mô-tô đi ngược chiều
 
 **SPACE khi:** 
+  1. Xe phía trước đi chéo sang phải
+  2. Xi nhan đến nháy thứ 2
 <details>
 <summary>Ảnh minh họa</summary>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1a8bcd2-d210-4fd3-96c0-040c103c31c4" />
 
 </details>
 
@@ -989,6 +1008,7 @@
 
 
 </details>
+
 
 
 
