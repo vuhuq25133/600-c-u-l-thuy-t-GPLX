@@ -1,3 +1,26 @@
+## 🔗 Danh sách tình huống Lưu ý trước thi
+
+* [Tình huống 2: Người đi bộ vượt đèn đỏ sang đường](#tình-huống-2-người-đi-bộ-vượt-đèn-đỏ-sang-đường)
+* [Tình huống 18: Tài xế dừng đỗ ven đường đột ngột mở cửa xe](#tình-huống-18-tài-xế-dừng-đỗ-ven-đường-đột-ngột-mở-cửa-xe)
+* [Tình huống 21: Ô tô trước dừng lại, lùi vào đỗ tại khu đường hẹp](#tình-huống-21-ô-tô-trước-dừng-lại-lùi-vào-đỗ-tại-khu-đường-hẹp)
+* [Tình huống 39: Xe tải từ nhánh nhập làn nguy hiểm](#tình-huống-39-xe-tải-từ-nhánh-nhập-làn-nguy-hiểm)
+* [Tình huống 45: Xe tải làn phải vượt lên và đột ngột chuyển làn sang giữa làm xe phía trước phanh gấp](#tình-huống-45-xe-tải-làn-phải-vượt-lên-và-đột-ngột-chuyển-làn-sang-giữa-làm-xe-phía-trước-phanh-gấp)
+* [Tình huống 46: Xe con làn bên trái vượt lên và chuyển làn phải cắt qua nguy hiểm trước đầu xe](#tình-huống-46-xe-con-làn-bên-trái-vượt-lên-và-chuyển-làn-phải-cắt-qua-nguy-hiểm-trước-đầu-xe)
+* [Tình huống 48: Xe bạn có tín hiệu để chuyển làn trái thì có xe phía sau nháy pha liên tục để vượt](#tình-huống-48-xe-bạn-có-tín-hiệu-để-chuyển-làn-trái-thì-có-xe-phía-sau-nháy-pha-liên-tục-để-vượt)
+* [Tình huống 52: Qua đoạn đường cong đột nhiên có xe tải đi lùi trong làn khẩn cấp](#tình-huống-52-qua-đoạn-đường-cong-đột-nhiên-có-xe-tải-đi-lùi-trong-làn-khẩn-cấp)
+* [Tình huống 53: Trên đường cao tốc ban đêm, đột nhiên có xe tải đi ngược chiều ở làn khẩn cấp](#tình-huống-53-trên-đường-cao-tốc-ban-đêm-đột-nhiên-có-xe-tải-đi-ngược-chiều-ở-làn-khẩn-cấp)
+* [Tình huống 59: Xe container đang đi từ làn trái chuyển ra đường nhánh cắt qua làn đường xe bạn](#tình-huống-59-xe-container-đang-đi-từ-làn-trái-chuyển-ra-đường-nhánh-cắt-qua-làn-đường-xe-bạn)
+* [Tình huống 60: Xe 16 chỗ từ làn đường khẩn cấp đi ra vào làn xe bạn](#tình-huống-60-xe-16-chỗ-từ-làn-đường-khẩn-cấp-đi-ra-vào-làn-xe-bạn)
+* [Tình huống 68: Đường núi, sương mù, có đàn bò đứng sát đường ngay sau đoạn đường cong](#tình-huống-68-đường-núi-sương-mù-có-đàn-bò-đứng-sát-đường-ngay-sau-đoạn-đường-cong)
+* [Tình huống 76: Em bé đột ngột chạy ra đường](#tình-huống-76-em-bé-đột-ngột-chạy-ra-đường)
+* [Tình huống 83: Xuất hiện gia súc từ vệ đường đi ra đường quốc lộ ngay trước mặt xe bạn](#tình-huống-83-xuất-hiện-gia-súc-từ-vệ-đường-đi-ra-đường-quốc-lộ-ngay-trước-mặt-xe-bạn)
+* [Tình huống 84: Xe con phía trước giảm tốc đột ngột và chuyển làn để tránh xe buýt đang dừng](#tình-huống-84-xe-con-phía-trước-giảm-tốc-đột-ngột-và-chuyển-làn-để-tránh-xe-buýt-đang-dừng)
+* [Tình huống 92: [Tai nạn] Xe mô-tô lấn làn vượt ẩu trên đường núi, va chạm với xe khách đi ngược chiều](#tình-huống-92-tai-nạn-xe-mô-tô-lấn-làn-vượt-ẩu-trên-đường-núi-va-chạm-với-xe-khách-đi-ngược-chiều)
+* [Tình huống 94: [Tai nạn] Tai nạn liên hoàn giữa 3 xe khách do đâm vào xe đang dừng đỗ để sửa chữa](#tình-huống-94-tai-nạn-tai-nạn-liên-hoàn-giữa-3-xe-khách-do-đâm-vào-xe-đang-dừng-đỗ-để-sửa-chữa)
+* [Tình huống 101: [Tai nạn] Xe ô tô 16 chỗ chở khách rẽ trái qua đường sắt không chú ý va chạm với tàu hỏa](#tình-huống-101-tai-nạn-xe-ô-tô-16-chỗ-chở-khách-rẽ-trái-qua-đường-sắt-không-chú-ý-va-chạm-với-tàu-hỏa)
+* [Tình huống 112: [Tai nạn] Xe khách 16 chỗ vượt ẩu qua xe đầu kéo va chạm với xe khách đang xuống dốc tốc độ cao, gây tai nạn liên hoàn giữa 3 xe tại km12+400 đoạn qua phường Hương Hồ, TP. Huế](#tình-huống-112-tai-nạn-xe-khách-16-chỗ-vượt-ẩu-qua-xe-đầu-kéo-va-chạm-với-xe-khách-đang-xuống-dốc-tốc-độ-cao-gây-tai-nạn-liên-hoàn-giữa-3-xe-tại-km12400-đoạn-qua-phường-hương-hồ-tp-huế)
+* [Tình huống 116: [Tai nạn] Phía trước có đá lở đột ngột và rơi xuống (tai nạn tại Đồng Văn, Hà Giang)](#tình-huống-116-tai-nạn-phía-trước-có-đá-lở-đột-ngột-và-rơi-xuống-tai-nạn-tại-đồng-văn-hà-giang)
+
 # Chương 1: Giao thông trên đường đô thị (29 câu)
 
 ## Tình huống 1: Người đi bộ sang đường khuất sau xe tải
@@ -940,5 +963,6 @@
 <summary>Ảnh minh họa</summary>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7fa7da43-a952-4014-9f94-0eaaa260d199" />
 </details>
+
 
 
